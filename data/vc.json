@@ -18,5 +18,17 @@
     {
         "termo": "BENANCIB",
         "definicao": "A Base de Dados dos Anais dos Encontros da ANCIB é uma coleção dentro da Brapci, que reúne, preserva e dissemina a produção científica apresentada nos encontros da ANCIB (ENANCIB), promovendo o acesso aberto ao conhecimento gerado na área de Ciência da Informação no Brasil."
+    },
+    {
+        "termo": "Vocabulário Controlado",
+        "definicao": "Conjunto estruturado de termos e expressões padronizadas utilizado para indexação e recuperação de informações em sistemas de informação."
+    },
+    {
+        "termo": "Biblioteconomia",
+        "definicao": "Ciência que estuda os princípios e técnicas de organização, gestão e disseminação da informação em bibliotecas e centros de documentação."
+    },
+    {
+        "termo": "Biblioteca Digital",
+        "definicao": "Coleção organizada de recursos digitais, como livros, artigos e multimídia, acessível eletronicamente para pesquisa e consulta."
     }
 ]
