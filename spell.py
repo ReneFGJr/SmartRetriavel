@@ -1,4 +1,5 @@
 import mod_word
+import mod_smart_words
 
 def palavras(palavra, vc):
 
@@ -13,10 +14,12 @@ def palavras(palavra, vc):
         else:
             wordv[i] = False
         i += 1
-
+    print(words)
+    print(wordv)
 
 
 if __name__ == "__main__":
     palavra = "analesie de inteligenxia atifial"
     vc = "6"
-    palavras(palavra, vc)
+    print(palavra)
+    print(palavras(palavra, vc))
