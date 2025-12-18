@@ -45,14 +45,7 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Quais são as barreiras de acesso em bibliotecas públicas?")
-responder("Como a biblioteconomia se relaciona com a Inteligência Artificial?")
-responder("Quais são os principais desafios para a inclusão digital de pessoas com deficiência?")
-responder("Quais autores fundamentam a acessibilidade na informação ?")
-responder("Quais são as melhores práticas para organizar um vocabulário controlado em bibliotecas digitais?")
-responder("Acesso ao cadeirante")
-responder("Melhor base de dados para biblioteconomia")
-responder("Melhore vocabulário controlado em biblioteca digitai")
-responder("quem criou a brapci")
-responder("Editora Universitária")
-responder("Qual a aproximação da AAI com a biblioteconomio")
+responder("Quais as tecnologias na organizacao do conhecimento ?")
+responder("Qual o uso d AI nas Bibliotecas Escolares ?")
+responder("Como a biblioteca escolar pode melhorar para um cego ?")
+
