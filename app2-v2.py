@@ -15,13 +15,13 @@ def responder(pergunta, modelo="llama3.2"):
     contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
-Você é um especialista em organização do conhecimento.
+Você é um especialista em Inteligência Artificial.
 Use o vocabulário abaixo para responder à pergunta do usuário.
 Extraia as palavras-chave da PERGUNTA.
 Utilize somente os termos do vocabulário fornecido.
 Responda somente os termos no formato JSON, sem comentários.
 Mostre somente as palavras sem as chaves do vocabulário JSON.
-Responda em INGLES
+Responda em português
 
 VOCABULÁRIO:
 {contextos}
@@ -48,9 +48,9 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Fale sobre as características internas da IA.")
-responder("O que é a Lei da IA, onde foi criada e porque?")
-responder("Cite um método de pesquisa na IA.")
-responder("Por que a autoria não pode ser atribuida à IA?")
-responder("Quais os desafios enfrentados pela Inteligência Artificial?")
+responder("Cite um chatbot semelhante ao BARD.")
+responder("O que é Big Data?")
+responder("Cite um método avançado de IA.")
+responder("Defina 'Detecção de Linguagem abusiva'?")
+responder("Quais são os sistemas de IA?")
 
