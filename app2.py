@@ -20,7 +20,7 @@ Use o vocabulário abaixo para responder à pergunta do usuário.
 Extraia as palavras-chave da PERGUNTA.
 Utilize somente os termos do vocabulário fornecido.
 Responda somente os termos no formato JSON, sem comentários.
-Mostre somente as palavras sem as chaves do vocabulário JSON.
+Mostre somente as palavras do vocabulário JSON.
 Responda em português
 
 VOCABULÁRIO:

@@ -3,3 +3,117 @@ PROMPT:
 
 
 RESULTADOS:
+Você é um especialista em Inteligência Artificial.
+Use o vocabulário abaixo para responder à pergunta do usuário.
+Extraia as palavras-chave da PERGUNTA.
+Utilize somente os termos do vocabulário fornecido.
+Responda somente os termos no formato JSON, sem comentários.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
+Responda em português
+
+VOCABULÁRIO:
+Inteligência Artificial: Também usada como IA ou AI, é a simulação de processos de inteligência humana por máquinas, especialmente sistemas computacionais.
+
+Bibliotecas com Acessibilidade: São bibliotecas especias para cegos.
+
+Biblioteca Escolar: Sinonimo de Bibliotecas Escolares
+
+PERGUNTA: Cite um chatbot semelhante ao BARD.
+
+RESPOSTA:
+
+
+🧩 Pergunta: Cite um chatbot semelhante ao BARD.
+💬 Resposta: {"chatbot", "BARD"}
+
+Você é um especialista em Inteligência Artificial.
+Use o vocabulário abaixo para responder à pergunta do usuário.
+Extraia as palavras-chave da PERGUNTA.
+Utilize somente os termos do vocabulário fornecido.
+Responda somente os termos no formato JSON, sem comentários.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
+Responda em português
+
+VOCABULÁRIO:
+Acessibilidade digital: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+Vocabulário Controlado: Conjunto estruturado de termos e expressões padronizadas utilizado para indexação e recuperação de informações em sistemas de informação.
+
+Brapci: Base de Dados em Ciência da Informação é uma plataforma acadêmica brasileira que reúne, organiza e disponibiliza a produção científica da área de Ciência da Informação, integrando artigos, eventos e periódicos para apoiar pesquisas, análises métricas e o avanço do conhecimento no campo.
+
+PERGUNTA: O que é Big Data?
+
+RESPOSTA:
+
+
+🧩 Pergunta: O que é Big Data?
+💬 Resposta: {"Big Data", "Base de Dados em Ciência da Informação"}
+
+Você é um especialista em Inteligência Artificial.
+Use o vocabulário abaixo para responder à pergunta do usuário.
+Extraia as palavras-chave da PERGUNTA.
+Utilize somente os termos do vocabulário fornecido.
+Responda somente os termos no formato JSON, sem comentários.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
+Responda em português
+
+VOCABULÁRIO:
+Acessibilidade: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+Bibliotecas com Acessibilidade: São bibliotecas especias para cegos.
+
+Acessibilidade digital: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+PERGUNTA: Cite um método avançado de IA.
+
+RESPOSTA:
+
+
+🧩 Pergunta: Cite um método avançado de IA.
+💬 Resposta: {"Método de Inteligência Artificial"}
+
+Você é um especialista em Inteligência Artificial.
+Use o vocabulário abaixo para responder à pergunta do usuário.
+Extraia as palavras-chave da PERGUNTA.
+Utilize somente os termos do vocabulário fornecido.
+Responda somente os termos no formato JSON, sem comentários.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
+Responda em português
+
+VOCABULÁRIO:
+Acessibilidade: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+Vocabulário Controlado: Conjunto estruturado de termos e expressões padronizadas utilizado para indexação e recuperação de informações em sistemas de informação.
+
+Inclusão: Processo de inserção plena e participativa de pessoas com deficiência na sociedade.
+
+PERGUNTA: Defina 'Detecção de Linguagem abusiva'?
+
+RESPOSTA:
+
+
+🧩 Pergunta: Defina 'Detecção de Linguagem abusiva'?
+💬 Resposta: {"Detecção de Linguagem abusiva"}
+
+Você é um especialista em Inteligência Artificial.
+Use o vocabulário abaixo para responder à pergunta do usuário.
+Extraia as palavras-chave da PERGUNTA.
+Utilize somente os termos do vocabulário fornecido.
+Responda somente os termos no formato JSON, sem comentários.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
+Responda em português
+
+VOCABULÁRIO:
+Acessibilidade: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+Inteligência Artificial: Também usada como IA ou AI, é a simulação de processos de inteligência humana por máquinas, especialmente sistemas computacionais.
+
+Acessibilidade digital: Condição de alcance, percepção e entendimento com segurança e autonomia dos espaços, mobiliários, equipamentos e informações.
+
+PERGUNTA: Quais são os sistemas de IA?
+
+RESPOSTA:
+
+
+🧩 Pergunta: Quais são os sistemas de IA?
+💬 Resposta: {"sistemas", "IA"}
