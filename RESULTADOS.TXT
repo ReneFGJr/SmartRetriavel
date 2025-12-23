@@ -3,3 +3,17 @@ PROMPT:
 
 
 RESULTADOS:
+Pergunta: Fale sobre as características internas da IA.
+💬 Resposta: {"simulação", "processos", "inteligência humana", "máquinas", "sistemas computacionais"}
+
+🧩 Pergunta: O que é a Lei da IA, onde foi criada e porque?
+💬 Resposta: {"Lei da IA", "criada", "onde", "porque"}
+
+🧩 Pergunta: Cite um método de pesquisa na IA.
+💬 Resposta: {"Método de pesquisa", "IA"}
+
+🧩 Pergunta: Por que a autoria não pode ser atribuida à IA?
+💬 Resposta: {"IA", "autoria"}
+
+🧩 Pergunta: Quais os desafios enfrentados pela Inteligência Artificial?
+💬 Resposta: {"desafios", "frente à IA"}
