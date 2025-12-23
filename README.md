@@ -3,3 +3,7 @@
 
 ==Criar Requirementes==
  pip freeze > requirements.txt
+
+==Instalando requirements
+ pip install -r requirements.txt
+
