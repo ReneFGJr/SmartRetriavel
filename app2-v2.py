@@ -15,12 +15,12 @@ def responder(pergunta, modelo="llama3.2"):
     contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
-Você é um especialista em acessibilidade e organização do conhecimento.
+Você é um especialista em organização do conhecimento.
 Use o vocabulário abaixo para responder à pergunta do usuário.
-Extraia as palavras-chave do PERGUNTA.
+Extraia as palavras-chave da PERGUNTA.
 Utilize somente os termos do vocabulário fornecido.
 Responda somente os termos no formato JSON, sem comentários.
-Mostre somente as sem as chaves do JSON.
+Mostre somente as palavras sem as chaves do vocabulário JSON.
 Responda em INGLES
 
 VOCABULÁRIO:
