@@ -45,7 +45,9 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Quais as tecnologias na organizacao do conhecimento ?")
-responder("Qual o uso d AI nas Bibliotecas Escolares ?")
-responder("Como a biblioteca escolar pode melhorar para um cego ?")
+responder("Fale sobre as características internas da IA.")
+responder("O que é a Lei da IA, onde foi criada e porque?")
+responder("Cite um método de pesquisa na IA.")
+responder("Por que a autoria não pode ser atribuida à IA?")
+responder("Quais os desafios enfrentados pela Inteligência Artificial?")
 
