@@ -48,9 +48,9 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-#responder("Cite um chatbot semelhante ao BARD.")
-#responder("O que é Big Data?")
-#responder("Cite um método avançado de IA.")
-#responder("Defina 'Detecção de Linguagem abusiva'?")
-#responder("Quais são os sistemas de IA?")
+responder("Cite um chatbot semelhante ao BARD.")
+responder("O que é Big Data?")
+responder("Cite um método avançado de IA.")
+responder("Defina 'Detecção de Linguagem abusiva'?")
+responder("Quais são os sistemas de IA?")
 
