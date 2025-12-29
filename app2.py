@@ -16,7 +16,6 @@ def responder(pergunta, modelo="llama3.2"):
 
     prompt = f"""
 Você é um especialista em Inteligência Artificial.
-Use o vocabulário abaixo para responder à pergunta do usuário.
 Extraia as palavras-chave da PERGUNTA.
 Utilize somente os termos do vocabulário fornecido.
 Responda somente os termos no formato JSON, sem comentários.
@@ -31,7 +30,6 @@ PERGUNTA: {pergunta}
 RESPOSTA:
 """
     
-    print(prompt)
 
     resposta = ollama.chat(
         model=modelo,
@@ -48,9 +46,10 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Cite um chatbot semelhante ao BARD.")
-responder("O que é Big Data?")
-responder("Cite um método avançado de IA.")
-responder("Defina 'Detecção de Linguagem abusiva'?")
-responder("Quais são os sistemas de IA?")
+responder("Cite um chatbot semelhante ao BARD")
+responder("O que é Big Data ?")
+responder("What is Big Data ?")
+responder("Cite um método avançado de IA")
+responder("Defina Detecção de Linguagem abusiva ?")
+responder("Quais são os sistemas de IA ?")
 
