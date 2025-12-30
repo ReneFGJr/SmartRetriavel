@@ -56,7 +56,7 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Cite um chatbot semelhante ao Google BARD.")
+responder("Cite um chatbot semelhante ao BARD.")
 responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("O que é A3t-Gcn")
