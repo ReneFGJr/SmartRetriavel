@@ -27,13 +27,14 @@ Os termos devem aparecer explicitamente na pergunta, com correspondência litera
 Não utilizar sinônimos, variações morfológicas, lematização, tradução ou inferência semântica.
 Ignorar stopwords e conectivos.
 Caso nenhum termo do vocabulário controlado esteja presente na pergunta, retornar uma lista vazia.
+Siglas devem ser mantidas.
+Mantenha as respostas no idioma da PERGUNTA e do vocabulário controlado. Não traduza termos.
 
 Formato da saída:
 Retornar exclusivamente uma lista JSON.
 Manter a grafia exata conforme definida no vocabulário controlado.
 Não incluir metadados, justificativas ou texto explicativo após a resposta.
 
-Mantenha as respostas no idioma da PERGUNTA. Traduza as palavras-chave extraídas quando necessário. Siglas devem ser mantidas.
 VOCABULÁRIO:
 {contextos}
 
