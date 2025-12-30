@@ -18,7 +18,7 @@ def responder(pergunta, modelo="llama3.2"):
 You are an expert in Artificial Intelligence.
 Extract the keywords from the QUESTION.
 Use only the terms from the provided vocabulary.
-Answer only with the terms in JSON format, without comments.
+Show only with the terms in JSON format, without comments.
 Show only the words from the JSON vocabulary.
 Do not create, adapt, or infer terms outside of this vocabulary.
 Answer in English.
