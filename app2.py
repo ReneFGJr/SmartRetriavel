@@ -59,7 +59,7 @@ RESPOSTA:
 responder("Cite um chatbot semelhante ao BARD.")
 responder("O que é Big Data?")
 responder("What is Big Data?")
-responder("Cite um método avançado de IA.")
+responder("O que é A3t-Gcn")
 responder("Defina Detecção de Linguagem abusiva.")
-responder("Quais são os sistemas de IA?")
+responder("Quais são os Modelos Abstrativos?")
 

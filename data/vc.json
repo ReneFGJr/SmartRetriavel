@@ -5,7 +5,7 @@
         "definicao": "A3t-Gcn is a deep learning architecture in artificial intelligence primarily used for traffic forecasting. It is designed to model and predict complex spatiotemporal (space and time) patterns in data, such as urban road networks."
     },
     {
-        "termo": "Modelo Abstrativo",
+        "termo": "Modelos Abstrativos",
         "definicao": "An abstractive model in artificial intelligence (AI) generates new phrases and sentences to convey the core meaning of source content, similar to how a human might rephrase or summarize information in their own words. This approach contrasts with extractive models, which merely select and combine existing sentences or phrases from the original text without modification."
     },
     {
