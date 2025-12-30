@@ -16,14 +16,16 @@ def responder(question, modelo="llama3.2"):
 
     prompt = f"""
 Context:
-You are an expert in the field of Artificial Intelligence.
+You are an expert just in the field of Artificial Intelligence.
+You can speak many different languages.
+However, always answer in English.
 
 Objective:
 Extract terms for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
 
 Mandatory restrictions:
 The terms must be included in the controlled vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
-The terms must appear explicitly in the question, with literal (string match) correspondence.
+The terms must appear explicitly in the question, with literal correspondence (string match).
 Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
 Ignore stopwords and conjunctions.
 If no term from the controlled vocabulary is present in the question, return an empty list.
