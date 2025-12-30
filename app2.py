@@ -32,7 +32,7 @@ Formato da saída:
 Retornar exclusivamente uma lista JSON.
 Manter a grafia exata conforme definida no vocabulário controlado.
 Não incluir metadados, justificativas ou texto explicativo após a resposta.
-Leve em consideração que as palavras-chave estão em inglês. Traduza as palavras-chave e as apresente apenas na língua portuguesa.
+Leve em consideração que as palavras-chave estão em língua inglesa. Traduza as palavras-chave e as apresente apenas na língua portuguesa.
 
 VOCABULÁRIO:
 {contextos}
