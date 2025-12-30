@@ -19,7 +19,7 @@ Contexto:
 Você é um especialista em Inteligência Artificial.
 
 Objetivo:
-Extrair termos e os traduzir para indexação a partir de uma pergunta em linguagem natural, garantindo precisão terminológica, rastreabilidade e reprodutibilidade, conforme exigido em ambientes científicos.
+Extrair termos para indexação a partir de uma pergunta em linguagem natural, garantindo precisão terminológica, rastreabilidade e reprodutibilidade, conforme exigido em ambientes científicos.
 
 Restrições obrigatórias:
 Os termos devem constar no vocabulário controlado fornecido (ex.: tesauro, ontologia, taxonomia científica).
@@ -32,8 +32,8 @@ Formato da saída:
 Retornar exclusivamente uma lista JSON.
 Manter a grafia exata conforme definida no vocabulário controlado.
 Não incluir metadados, justificativas ou texto explicativo após a resposta.
-Leve em consideração que as palavras-chave estão em língua inglesa. Traduza as palavras-chave e as apresente apenas na língua portuguesa.
 
+Mantenha as respostas no idioma da PERGUNTA. Traduza as palavras-chave extraídas quando necessário. Siglas devem ser mantidas.
 VOCABULÁRIO:
 {contextos}
 
@@ -63,5 +63,5 @@ responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("What is A3t-Gcn")
 responder("Define Abusive Language Detection.")
-responder("What are the Abstractive Models present in AI?")
+responder("What is the Abstractive Model present in AI?")
 
