@@ -137,3 +137,38 @@ Pergunta: Cite um chatbot semelhante ao BARD
 
 🧩 Pergunta: Quais são os sistemas de IA?
 💬 Resposta: {"IA", "sistemas computacionais"}
+
+Teste em Inglês
+
+🧩 Question: Name a chatbot similar to Google BARD.
+💬 Answer: [
+  "chatbot",
+  "Google BARD"
+]
+
+🧩 Question: What is Big Data?
+💬 Answer: [
+  "Big Data",
+  "Artificial Intelligence"
+]
+
+🧩 Question: What is A3t-Gcn?
+💬 Answer: [
+  "A3t-GCN"
+]
+
+🧩 Question: Define Abusive Language Detection.
+💬 Answer: [
+  "Abusive Language Detection"
+]
+
+🧩 Question: What is the Abstractive Model present in AI?
+💬 Answer: [
+  "Abstractive Model",
+  "Artificial Intelligence"
+]
+
+🧩 Question: Explain AI Authorship?
+💬 Answer: [
+  "Artificial Intelligence"
+]
