@@ -15,13 +15,29 @@ def responder(pergunta, modelo="llama3.2"):
     contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
-You are an expert in Artificial Intelligence.
-Extract the keywords from the QUESTION.
-Use only the terms from the provided vocabulary.
-Show only with the terms in JSON format, without comments.
-Show only the words from the JSON vocabulary.
-Do not create, adapt, or infer terms outside of this vocabulary.
-Answer in English.
+Contexto:
+Você é um modelo de linguagem (LLaMA 3.2) integrado a um sistema de Retrieval-Augmented Generation (RAG), atuando como um módulo de pré-processamento para indexação científica.
+
+Objetivo:
+Extrair termos para indexação a partir de uma pergunta em linguagem natural, garantindo precisão terminológica, rastreabilidade e reprodutibilidade, conforme exigido em ambientes científicos.
+
+Restrições obrigatórias:
+Os termos devem constar no vocabulário controlado fornecido (ex.: tesauro, ontologia, taxonomia científica).
+Os termos devem aparecer explicitamente na pergunta, com correspondência literal (string match).
+Não utilizar sinônimos, variações morfológicas, lematização, tradução ou inferência semântica.
+Ignorar stopwords, conectivos e termos genéricos não científicos.
+Caso nenhum termo do vocabulário controlado esteja presente na pergunta, retornar uma lista vazia.
+
+Procedimento de pré-processamento:
+Normalizar a pergunta (remoção de pontuação irrelevante).
+Tokenizar a pergunta em n-grams compatíveis com os termos do vocabulário.
+Realizar correspondência exata entre os n-grams da pergunta e os termos do vocabulário controlado.
+Validar cada termo selecionado quanto à presença literal na pergunta.
+
+Formato da saída:
+Retornar exclusivamente uma lista JSON.
+Manter a grafia exata conforme definida no vocabulário controlado.
+Não incluir metadados, justificativas ou texto explicativo.
 
 VOCABULÁRIO:
 {contextos}
