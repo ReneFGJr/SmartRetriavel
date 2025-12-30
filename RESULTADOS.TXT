@@ -117,3 +117,23 @@ RESPOSTA:
 
 🧩 Pergunta: Quais são os sistemas de IA?
 💬 Resposta: {"sistemas", "IA"}
+
+Teste 2
+
+Pergunta: Cite um chatbot semelhante ao BARD
+💬 Resposta: {"Chatbot", "Assistente Virtual"}
+
+🧩 Pergunta: O que é Big Data?
+💬 Resposta: {"Big Data", "Base de Dados em Ciência da Informação", "Ciência da Informação"}
+
+🧩 Pergunta: What is Big Data?
+💬 Resposta: {"Big Data", "Base de Dados", "Ciência da Informação", "Acessibilidade digital"}
+
+🧩 Pergunta: Cite um método avançado de IA
+💬 Resposta: {"Método de IA", "Inteligência Artificial"}
+
+🧩 Pergunta: Defina Detecção de Linguagem abusiva?
+💬 Resposta: {"Detecção de Linguagem abusiva": "Acessibilidade", "Condição de alcance", "percepção", "entendimento", "segurança", "autonomia", "espãcos", "mobiliários", "equipamentos", "informações", "Vocabulário Controlado", "Conjunto estruturado", "termos", "expressões padronizadas", "indexação", "recuperação de informações", "sistemas de informação", "Inclusão", "Processo de inserção plena", "participativa", "pessoas com deficiência", "sociedade"}
+
+🧩 Pergunta: Quais são os sistemas de IA?
+💬 Resposta: {"IA", "sistemas computacionais"}
