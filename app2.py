@@ -17,10 +17,10 @@ def responder(pergunta, modelo="llama3.2"):
     prompt = f"""
 Você é um especialista em Inteligência Artificial.
 Extraia as palavras-chave da PERGUNTA.
-Responda utilizando somente os termos equivalentes apresentados no vocabulário fornecido.
+Responda utilizando os termos do vocabulário JSON fornecido.
 Responda somente com os termos no formato JSON, sem comentários.
 Mostre somente as palavras do vocabulário JSON.
-Responda em português
+Responda em português.
 
 VOCABULÁRIO:
 {contextos}
