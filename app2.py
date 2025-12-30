@@ -38,7 +38,6 @@ Formato da saída:
 Retornar exclusivamente uma lista JSON.
 Manter a grafia exata conforme definida no vocabulário controlado.
 Não incluir metadados, justificativas ou texto explicativo.
-Não incluir explicações de procedimento.
 VOCABULÁRIO:
 {contextos}
 
