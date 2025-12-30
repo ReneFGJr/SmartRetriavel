@@ -17,8 +17,8 @@ def responder(pergunta, modelo="llama3.2"):
     prompt = f"""
 Você é um especialista em Inteligência Artificial.
 Extraia as palavras-chave da PERGUNTA.
-Utilize somente os termos do vocabulário fornecido.
-Responda somente os termos no formato JSON, sem comentários.
+Responda utilizando somente os termos equivalentes apresentados no vocabulário fornecido.
+Responda somente com os termos no formato JSON, sem comentários.
 Mostre somente as palavras do vocabulário JSON.
 Responda em português
 
@@ -47,9 +47,9 @@ RESPOSTA:
 
 # === 5. Teste ===
 responder("Cite um chatbot semelhante ao BARD")
-responder("O que é Big Data ?")
-responder("What is Big Data ?")
+responder("O que é Big Data?")
+responder("What is Big Data?")
 responder("Cite um método avançado de IA")
-responder("Defina Detecção de Linguagem abusiva ?")
-responder("Quais são os sistemas de IA ?")
+responder("Defina Detecção de Linguagem abusiva?")
+responder("Quais são os sistemas de IA?")
 
