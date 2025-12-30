@@ -12,19 +12,19 @@ collection = client.get_or_create_collection("vocabulario")
 
 
 for i, item in enumerate(vocabulario):
-    texto = f"{item['termo']}: {item['definicao']}"
+    texto = f"{item['term']}: {item['definition']}"
     collection.add(ids=[str(i)],
                     documents=[texto],
                     metadatas=[{
-                        "termo": item["termo"]
+                        "term": item["term"]
                     }])
 print(f"✅ {len(vocabulario)} termos adicionados ao banco vetorial.")
 
-def adicionar_termo(termo, definicao):
+def adicionar_termo(term, definition):
     novo_id = str(collection.count() + 1)
     collection.add(ids=[novo_id],
-                   documents=[f"{termo}: {definicao}"],
+                   documents=[f"{term}: {definition}"],
                    metadatas=[{
-                       "termo": termo
+                       "term": term
                    }])
-    print(f"➕ Termo '{termo}' adicionado com sucesso!")
+    print(f"➕ Termo '{term}' adicionado com sucesso!")
