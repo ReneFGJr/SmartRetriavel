@@ -33,8 +33,8 @@
         "definition": "AI algorithms are sets of instructions that teach machines to learn from data, recognize patterns, and make decisions or predictions, mimicking human intelligence for tasks like understanding language or solving problems, forming the core of any intelligent system by processing inputs and generating outputs based on learned information. "
     },
     {
-        "term": "BARD",
-        "definition": "BARD was a conversational AI chatbot, similar to ChatGPT, that used Google's powerful large language models (like LaMDA and PaLM 2) to generate human-like text, answer questions, create content, summarize info, and brainstorm ideas, leveraging real-time internet access for up-to-date info; it was designed as a creative collaborator but evolved into the more advanced Google Gemini. "
+        "term": "Google BARD",
+        "definition": "Google BARD was a conversational AI chatbot, similar to ChatGPT, that used Google's powerful large language models (like LaMDA and PaLM 2) to generate human-like text, answer questions, create content, summarize info, and brainstorm ideas, leveraging real-time internet access for up-to-date info; it was designed as a creative collaborator but evolved into the more advanced Google Gemini. "
     },
     {
         "term": "Artificial Intelligence",
