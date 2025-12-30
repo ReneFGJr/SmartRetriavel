@@ -16,7 +16,7 @@ def responder(pergunta, modelo="llama3.2"):
 
     prompt = f"""
 Contexto:
-Você é um modelo de linguagem (LLaMA 3.2) integrado a um sistema de Retrieval-Augmented Generation (RAG), atuando como um módulo de pré-processamento para indexação científica.
+Você é um especialista em Inteligência Artificial.
 
 Objetivo:
 Extrair termos para indexação a partir de uma pergunta em linguagem natural, garantindo precisão terminológica, rastreabilidade e reprodutibilidade, conforme exigido em ambientes científicos.
@@ -25,19 +25,13 @@ Restrições obrigatórias:
 Os termos devem constar no vocabulário controlado fornecido (ex.: tesauro, ontologia, taxonomia científica).
 Os termos devem aparecer explicitamente na pergunta, com correspondência literal (string match).
 Não utilizar sinônimos, variações morfológicas, lematização, tradução ou inferência semântica.
-Ignorar stopwords, conectivos e termos genéricos não científicos.
+Ignorar stopwords e conectivos.
 Caso nenhum termo do vocabulário controlado esteja presente na pergunta, retornar uma lista vazia.
-
-Procedimento de pré-processamento:
-Normalizar a pergunta (remoção de pontuação irrelevante).
-Tokenizar a pergunta em n-grams compatíveis com os termos do vocabulário.
-Realizar correspondência exata entre os n-grams da pergunta e os termos do vocabulário controlado.
-Validar cada termo selecionado quanto à presença literal na pergunta.
 
 Formato da saída:
 Retornar exclusivamente uma lista JSON.
 Manter a grafia exata conforme definida no vocabulário controlado.
-Não incluir metadados, justificativas ou texto explicativo.
+Não incluir metadados, justificativas ou texto explicativo após a resposta.
 VOCABULÁRIO:
 {contextos}
 
