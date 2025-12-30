@@ -10,37 +10,35 @@ with open("data/vc.json", "r", encoding="utf-8") as f:
 client = chromadb.PersistentClient(path="db_vocabulario")
 collection = client.get_or_create_collection("vocabulario")
 # === 4. Função para responder ===
-def responder(pergunta, modelo="llama3.2"):
-    resultados = collection.query(query_texts=[pergunta], n_results=3)
+def responder(question, modelo="llama3.2"):
+    resultados = collection.query(query_texts=[question], n_results=300)
     contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
-Contexto:
-Você é um especialista em Inteligência Artificial.
+Context:
+You are an expert in the field of Artificial Intelligence.
 
-Objetivo:
-Extrair termos para indexação a partir de uma pergunta em linguagem natural, garantindo precisão terminológica, rastreabilidade e reprodutibilidade, conforme exigido em ambientes científicos.
+Objective:
+Extract terms for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
 
-Restrições obrigatórias:
-Os termos devem constar no vocabulário controlado fornecido (ex.: tesauro, ontologia, taxonomia científica).
-Os termos devem aparecer explicitamente na pergunta, com correspondência literal (string match).
-Não utilizar sinônimos, variações morfológicas, lematização, tradução ou inferência semântica.
-Ignorar stopwords e conectivos.
-Caso nenhum termo do vocabulário controlado esteja presente na pergunta, retornar uma lista vazia.
-Siglas devem ser mantidas.
-Mantenha as respostas no idioma da PERGUNTA e do vocabulário controlado. Não traduza termos.
+Mandatory restrictions:
+The terms must be included in the controlled vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
+The terms must appear explicitly in the question, with literal (string match) correspondence.
+Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
+Ignore stopwords and conjunctions.
+If no term from the controlled vocabulary is present in the question, return an empty list.
 
-Formato da saída:
-Retornar exclusivamente uma lista JSON.
-Manter a grafia exata conforme definida no vocabulário controlado.
-Não incluir metadados, justificativas ou texto explicativo após a resposta.
+Output format:
+Return exclusively a JSON list.
+Maintain the exact spelling as defined in the controlled vocabulary.
+Do not include metadata, justifications or explanatory text after the response.
 
-VOCABULÁRIO:
+VOCABULARY:
 {contextos}
 
-PERGUNTA: {pergunta}
+QUESTION: {question}
 
-RESPOSTA:
+ANSWER:
 """
     
 
@@ -52,10 +50,10 @@ RESPOSTA:
             "content": prompt
         }])
 
-    conteudo = resposta["message"]["content"]
-    print("\n🧩 Pergunta:", pergunta)
-    print("💬 Resposta:", conteudo)
-    return conteudo
+    content = resposta["message"]["content"]
+    print("\n🧩 Question:", question)
+    print("💬 Answer:", content)
+    return content
 
 
 # === 5. Teste ===
