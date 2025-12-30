@@ -58,7 +58,6 @@ ANSWER:
 
 # === 5. Teste ===
 responder("Name a chatbot similar to BARD.")
-responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("What is A3t-Gcn")
 responder("Define Abusive Language Detection.")
