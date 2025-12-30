@@ -56,10 +56,10 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Cite um chatbot semelhante ao BARD.")
+responder("Cite um chatbot semelhante ao Google BARD.")
 responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("O que é A3t-Gcn")
-responder("Defina Detecção de Linguagem abusiva.")
-responder("Quais são os Modelos Abstrativos?")
+responder("Defina Detecção de Linguagem Abusiva.")
+responder("Quais são os Modelos Abstrativos presentes na IA?")
 
