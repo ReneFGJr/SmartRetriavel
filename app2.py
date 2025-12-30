@@ -56,7 +56,7 @@ RESPOSTA:
 
 
 # === 5. Teste ===
-responder("Cite um chatbot similar ao BARD.")
+responder("Clustering é uma técnica não supervisionada de aprendizagem de máquina?")
 responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("O que é A3t-Gcn")
