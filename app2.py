@@ -15,12 +15,13 @@ def responder(pergunta, modelo="llama3.2"):
     contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
-Você é um especialista em Inteligência Artificial.
-Extraia as palavras-chave da PERGUNTA.
-Responda utilizando os termos do vocabulário fornecido.
-Responda somente com os termos no formato JSON, sem comentários.
-Mostre somente as palavras do vocabulário JSON.
-Responda em português.
+You are an expert in Artificial Intelligence.
+Extract the keywords from the QUESTION.
+Use only the terms from the provided vocabulary.
+Answer only with the terms in JSON format, without comments.
+Show only the words from the JSON vocabulary.
+Do not create, adapt, or infer terms outside of this vocabulary.
+Answer in English.
 
 VOCABULÁRIO:
 {contextos}
@@ -50,6 +51,6 @@ responder("Cite um chatbot semelhante ao BARD")
 responder("O que é Big Data?")
 responder("What is Big Data?")
 responder("Cite um método avançado de IA")
-responder("Defina Detecção de Linguagem abusiva?")
+responder("Defina Detecção de Linguagem abusiva")
 responder("Quais são os sistemas de IA?")
 
