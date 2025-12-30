@@ -41,6 +41,10 @@
         "definition": "Artificial Intelligence (AI) is the ability of computer systems to perform tasks that usually require human intelligence, like learning, reasoning, problem-solving, perception, and language understanding, by training on vast amounts of data to recognize patterns and make decisions, enabling machines to adapt, act autonomously, and automate complex processes. It's a broad field encompassing areas like machine learning, deep learning, and natural language processing, making everyday tools from digital assistants to self-driving cars possible."
     },
     {
+        "term": "AI",
+        "definition": "Acronym for Artificial Intelligence."
+    },
+    {
         "term": "Bias Detection",
         "definition": "Bias detection in AI is the process of identifying systematic errors or unfair patterns in AI systems (data, algorithms, models) that favor or disadvantage certain groups, often based on race, gender, age, etc., ensuring fairness, accuracy, and compliance with ethical standards, crucial for preventing real-world harm in areas like hiring, lending, and healthcare. It involves auditing data, testing model outputs with fairness metrics, and using specialized tools to spot discriminatory tendencies before deployment, as biased AI reflects and amplifies societal prejudices from its training data. "
     },
