@@ -64,4 +64,3 @@ responder("What is Big Data?")
 responder("What is A3t-Gcn")
 responder("Define Abusive Language Detection.")
 responder("What is the Abstractive Model present in Artificial Intelligence?")
-
