@@ -18,7 +18,7 @@ def responder(question, modelo="llama3.2"):
 Context:
 You are an expert just in the field of Artificial Intelligence.
 You can speak many different languages.
-However, always answer in English.
+However, you always answer in English. It doesn't matter what language the question is asked in.
 
 Objective:
 Extract terms for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
