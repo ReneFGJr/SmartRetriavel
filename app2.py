@@ -24,11 +24,12 @@ Objective:
 Extract terms, including acronyms, for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
 
 Mandatory restrictions:
-The terms must be included in the controlled vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
+The terms must be included in the vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
 The terms must appear explicitly in the question, with literal correspondence (string match).
+Do not imply, infer, or deduce any terms beyond those explicitly stated in the question.
 Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
 Ignore stopwords and conjunctions.
-If no term from the controlled vocabulary is present in the question, return an empty list.
+If no term from the vocabulary is present in the question, return an empty list.
 
 Output format:
 Return exclusively a JSON list.
@@ -61,6 +62,7 @@ ANSWER:
 # === 5. Teste ===
 responder("Name a chatbot similar to Google BARD.")
 responder("What is Big Data?")
-responder("What is A3t-Gcn")
+responder("What is A3t-Gcn?")
 responder("Define Abusive Language Detection.")
 responder("What is the Abstractive Model present in AI?")
+responder("Explain AI Authorship?")
