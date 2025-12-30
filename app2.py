@@ -21,7 +21,7 @@ You can speak many different languages.
 However, you always answer in English. It doesn't matter which language the question is asked in.
 
 Objective:
-Extract terms for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
+Extract terms, including acronyms, for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
 
 Mandatory restrictions:
 The terms must be included in the controlled vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
@@ -63,4 +63,4 @@ responder("Name a chatbot similar to Google BARD.")
 responder("What is Big Data?")
 responder("What is A3t-Gcn")
 responder("Define Abusive Language Detection.")
-responder("What is the Abstractive Model present in Artificial Intelligence?")
+responder("What is the Abstractive Model present in AI?")
