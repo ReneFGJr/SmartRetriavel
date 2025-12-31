@@ -12,23 +12,35 @@ collection = client.get_or_create_collection("vocabulary")
 # === 4. Função para responder ===
 def responder(question, modelo="llama3.2"):
     resultados = collection.query(query_texts=[question], n_results=300)
-    contextos = "\n\n".join(resultados["documents"][0]) # Esse comando é desnecessário nessa etapa.
+    contextos = "\n\n".join(resultados["documents"][0])
 
     prompt = f"""
+
+Context:   
 You are an expert just in the field of Artificial Intelligence.
 You can speak many different languages.
 However, you always give answers in English. It doesn't matter which language the question is asked in.
-Extract terms from the QUESTION (including acronyms), for indexing.
-The terms must appear in the QUESTION, with literal correspondence (string match) to the VOCABULARY. (example.: "thesaurus", "ontology", "scientific taxonomy").
-You must ensure terminological accuracy, traceability, and reproducibility, as required in scientific environments.
-Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
-Ignore stopwords and conjunctions in the Question.
-If no term from the VOCABULARY is presented in the QUESTION, return an empty result for that specific case.
-Return exclusively the terms found.
-Return a JSON list.
-Maintain the exact spelling as defined in the VOCABULARY.
+
+Objective:
+To extract terms for indexing from a natural language query, ensuring terminological precision, traceability, and reproducibility, as required in scientific environments.
+
+Mandatory constraints:
+Terms must be present in the provided controlled vocabulary (e.g., thesaurus, ontology, scientific taxonomy).
+Terms must appear explicitly in the query, with literal matching (string match).
+Do not use synonyms, morphological variations, lemmatization, translation, or semantic inference.
+Ignore stopwords and connectives.
+If no term from the controlled vocabulary is present in the query, return an empty list.
 Do not include metadata, justifications or explanatory text after the response.
-Do not imply, infer, or deduce any terms beyond those explicitly stated in the question.
+
+Preprocessing procedure:
+Normalize the query (remove irrelevant punctuation). Tokenize the question into n-grams compatible with the vocabulary terms.
+Perform an exact match between the n-grams in the question and the terms in the controlled vocabulary.
+Validate each selected term for its literal presence in the question.
+
+Output format:
+Return only a JSON list.
+Maintain the exact spelling as defined in the controlled vocabulary.
+Do not include metadata, justifications, or explanatory text
 
 VOCABULARY:
 {json}
