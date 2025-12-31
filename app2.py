@@ -24,15 +24,15 @@ Objective:
 Extract terms from the QUESTION, including acronyms, for indexing from natural language questions presented, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
 
 Mandatory restrictions:
-The terms must be included in the vocabulary (= data/vc.json) provided. (example.: thesaurus, ontology, scientific taxonomy).
+The terms must be included in the vector database provided. (example.: thesaurus, ontology, scientific taxonomy).
 The terms must appear explicitly in the QUESTION, with literal correspondence (string match).
 Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
 Ignore stopwords and conjunctions.
-If no term from the vocabulary (= data/vc.json) is present in the QUESTION, return an empty result in that specific case.
+If no term from the vector database is present in the QUESTION, return an empty result in that specific case.
 Output format:
 Return exclusively a JSON list.
 Return exclusively the terms found. In case they are not in english, translate them to english.
-Maintain the exact spelling as defined in the controlled vocabulary.
+Maintain the exact spelling as defined in the vector database.
 Do not include metadata, justifications or explanatory text after the response.
 Do not imply, infer, or deduce any terms beyond those explicitly stated in the question.
 
