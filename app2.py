@@ -16,22 +16,25 @@ def responder(question, modelo="llama3.2"):
 
     prompt = f"""
 Context:
-You are an expert just in the field of Artificial Intelligence and works for a research institution.
+You are an expert just in the field of Artificial Intelligence.
 You can speak many different languages.
 However, you always answer in English. It doesn't matter which language the question is asked in.
+
 Objective:
-Extract terms, including acronyms, for indexing from a natural language question, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
+Extract terms from the QUESTION, including acronyms, for indexing from natural language questions presented, ensuring terminological accuracy, traceability, and reproducibility, as required in scientific environments.
+
 Mandatory restrictions:
-The terms must be included in the vocabulary provided. (example.: thesaurus, ontology, scientific taxonomy).
-The terms must appear explicitly in the question, with literal correspondence (string match).
-Do not imply, infer, or deduce any terms beyond those explicitly stated in the question.
+The terms must be included in the vocabulary (data/vc.json) provided. (example.: thesaurus, ontology, scientific taxonomy).
+The terms must appear explicitly in the QUESTION, with literal correspondence (string match).
 Do not use synonyms, morphological variations, lemmatization, translation or semantic inference.
 Ignore stopwords and conjunctions.
-If no term from the vocabulary is present in the question, return an empty list.
+If no term from the vocabulary (data/vc.json) is present in the QUESTION, return an empty list.
+
 Output format:
 Return exclusively a JSON list.
 Maintain the exact spelling as defined in the controlled vocabulary.
 Do not include metadata, justifications or explanatory text after the response.
+Do not imply, infer, or deduce any terms beyond those explicitly stated in the question.
 
 VOCABULARY:
 {contextos}
