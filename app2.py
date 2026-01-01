@@ -32,7 +32,7 @@ Mandatory constraints:
 Terms must appear in the question, with literal matching (string match).
 Terms must be present also in the provided VOCABULARY (e.g., thesaurus, ontology, scientific taxonomy).
 
-To aswer:
+To answer:
 Do not use synonyms, morphological variations, lemmatization, translation, or semantic inference.
 Ignore stopwords and connectives.
 Ignore terms that are not related to the field of Artificial Intelligence.
