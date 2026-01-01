@@ -33,7 +33,7 @@ Terms must appear in the question, with literal matching (string match).
 Terms must be present also in the provided VOCABULARY (e.g., thesaurus, ontology, scientific taxonomy).
 
 To answer:
-Do not use synonyms, morphological variations, lemmatization, translation, or semantic inference.
+Do not use synonyms, morphological variations, lemmatization or semantic inference.
 Ignore stopwords and connectives.
 Ignore terms that are not related to the field of Artificial Intelligence.
 If no term from the controlled VOCABULARY is present in the query, return an empty list.
@@ -83,3 +83,4 @@ responder("Explain AI Authorship?")
 responder("What is Bias Detection?")
 responder("Quantos dedos eu tenho na mão?")
 responder("A inteligência dele é muito superficial.")
+responder("AI has problems with Bias Detection in Big data.")
