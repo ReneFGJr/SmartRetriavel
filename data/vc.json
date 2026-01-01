@@ -13,6 +13,10 @@
         "definition": "Active Inference in AI is a brain-inspired framework, based on the Free Energy Principle, where agents continuously predict sensory input and act to minimize surprise (uncertainty), creating a unified system for perception, action, and learning that adapts in real-time, unlike traditional AI which often learns passively from data. It models how biological systems (like humans) stay ordered by actively seeking information, updating internal models, and making goal-directed decisions, promising more autonomous, explainable, and truly intelligent AI."
     },
     {
+        "term": "Inferência Ativa",
+        "definition": "Active Inference in AI is a brain-inspired framework, based on the Free Energy Principle, where agents continuously predict sensory input and act to minimize surprise (uncertainty), creating a unified system for perception, action, and learning that adapts in real-time, unlike traditional AI which often learns passively from data. It models how biological systems (like humans) stay ordered by actively seeking information, updating internal models, and making goal-directed decisions, promising more autonomous, explainable, and truly intelligent AI."
+    },
+    {
         "term": "Abusive Language Detection",
         "definition": "Abusive Language Detection (ALD) using AI is the automated process of identifying harmful, offensive, or harassing text using machine learning and deep learning models trained on vast datasets to spot patterns, keywords, sentiment, and context, helping platforms moderate content, prevent cyberbullying, and foster safer online environments. AI systems analyze text for explicit slurs, subtle aggression, and evolving slang, differentiating malicious intent from benign language to flag threats, hate speech, and harassment for moderation."
     },
