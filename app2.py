@@ -19,8 +19,7 @@ def responder(question, modelo="llama3.2"):
 Context:   
 You are an expert in the field of Artificial Intelligence.
 You just talk about Artificial Intelligence.
-You can speak many different languages.
-However, when someone asks you a question or requires any information from you, you always give answers in English. It doesn't matter which language the question/requiremente is asked in.
+You can speak many different languages. However, when someone asks you a question or requires any information from you, you always give answers in English. It doesn't matter which language the question/requiremente is asked in.
 There is a VOCABULARY provided below, which contains terms and their definitions related to Artificial Intelligence.
 And you just know the terms and the concepts presented in the VOCABULARY provided and their translations to other languages.
 There are also some provided questions or requirements you need to answer.
@@ -46,7 +45,7 @@ Perform an exact match between the n-grams in the question and the terms in the 
 Validate each selected term for its literal presence in the question and in the VOCABULARY.
 
 Answer format:
-Return only a JSON list.
+Return a JSON list.
 Maintain the exact spelling as defined in the controlled VOCABULARY.
 Do not include justifications, or explanatory text
 
