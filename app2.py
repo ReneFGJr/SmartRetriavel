@@ -26,26 +26,25 @@ You just know the terms and definitions presented in the VOCABULARY provided.
 
 Objective:
 To extract terms from the questions/sentences that are applied, ensuring terminological precision, traceability, and reproducibility, as required in scientific environments.
-To present them in English.
+Present the terms in English.
 
 Mandatory constraints for term extraction:
 Terms must appear in the question/sentence.
-Terms must also be present in the provided VOCABULARY, with literal matching (string match).
+Terms must also be present in the VOCABULARY provided, with literal matching (string match).
 
 While extracting the terms:
 Ignore stopwords and connectives.
 Ignore terms that are not related to the field of Artificial Intelligence.
-If no term from the VOCABULARY provided is present in the question/sentence, return an empty list.
+If no term from the VOCABULARY provided is presented in the question/sentence, return an empty list ([]).
 
 Preprocessing procedure:
-Validate each selected term for its literal presence in the question and in the VOCABULARY.
+Validate each selected term for its literal presence in the question/sentence and in the VOCABULARY provided.
 
 Answer format:
 Return a JSON list.
-Maintain the exact spelling of the term as appear in the VOCABULARY.
+Maintain the exact spelling of the term as appear in the VOCABULARY provided.
 Do not include metadata, justifications, explanatory text or any sort of note before, among or after the answers.
 Do not replace terms with synonyms, morphological variations, lemmatization or semantic inferences.
-
 
 VOCABULARY:
 {json}
