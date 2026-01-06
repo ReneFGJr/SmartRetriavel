@@ -13,10 +13,6 @@
         "definition": "Active Inference in AI is a brain-inspired framework, based on the Free Energy Principle, where agents continuously predict sensory input and act to minimize surprise (uncertainty), creating a unified system for perception, action, and learning that adapts in real-time, unlike traditional AI which often learns passively from data. It models how biological systems (like humans) stay ordered by actively seeking information, updating internal models, and making goal-directed decisions, promising more autonomous, explainable, and truly intelligent AI."
     },
     {
-        "term": "Inferência Ativa",
-        "definition": "Active Inference in AI is a brain-inspired framework, based on the Free Energy Principle, where agents continuously predict sensory input and act to minimize surprise (uncertainty), creating a unified system for perception, action, and learning that adapts in real-time, unlike traditional AI which often learns passively from data. It models how biological systems (like humans) stay ordered by actively seeking information, updating internal models, and making goal-directed decisions, promising more autonomous, explainable, and truly intelligent AI."
-    },
-    {
         "term": "Abusive Language Detection",
         "definition": "Abusive Language Detection (ALD) using AI is the automated process of identifying harmful, offensive, or harassing text using machine learning and deep learning models trained on vast datasets to spot patterns, keywords, sentiment, and context, helping platforms moderate content, prevent cyberbullying, and foster safer online environments. AI systems analyze text for explicit slurs, subtle aggression, and evolving slang, differentiating malicious intent from benign language to flag threats, hate speech, and harassment for moderation."
     },
@@ -38,15 +34,11 @@
     },
     {
         "term": "Google BARD",
-        "definition": "Google BARD was a conversational AI chatbot, similar to ChatGPT, that used Google's powerful large language models (like LaMDA and PaLM 2) to generate human-like text, answer questions, create content, summarize info, and brainstorm ideas, leveraging real-time internet access for up-to-date info; it was designed as a creative collaborator but evolved into the more advanced Google Gemini. "
+        "definition": "Google BARD is a conversational AI chatbot, similar to ChatGPT, that used Google's powerful large language models (like LaMDA and PaLM 2) to generate human-like text, answer questions, create content, summarize info, and brainstorm ideas, leveraging real-time internet access for up-to-date info; it was designed as a creative collaborator but evolved into the more advanced Google Gemini. "
     },
     {
         "term": "Artificial Intelligence",
         "definition": "Artificial Intelligence (AI) is the ability of computer systems to perform tasks that usually require human intelligence, like learning, reasoning, problem-solving, perception, and language understanding, by training on vast amounts of data to recognize patterns and make decisions, enabling machines to adapt, act autonomously, and automate complex processes. It's a broad field encompassing areas like machine learning, deep learning, and natural language processing, making everyday tools from digital assistants to self-driving cars possible."
-    },
-    {
-        "term": "AI",
-        "definition": "Acronym for Artificial Intelligence."
     },
     {
         "term": "Bias Detection",

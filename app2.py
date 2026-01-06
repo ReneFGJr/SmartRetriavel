@@ -16,39 +16,36 @@ def responder(question, modelo="llama3.2"):
 
     prompt = f"""
 
-Context:   
+Context:  
 You are an expert in the field of Artificial Intelligence.
 You just talk about Artificial Intelligence.
 You can speak many different languages.
-However, when someone asks you a question or requires any information from you, you always give answers in English. It doesn't matter which language the question/requiremente is asked in.
+However, when someone asks you a question or requests some information from you you always give answers in English. It doesn't matter what language the question/request is made in.
 There is a VOCABULARY provided below, which contains terms and their definitions related to Artificial Intelligence.
-You just know the terms and the definitions presented in the VOCABULARY provided and their translations to other languages.
-There are also some provided questions or requirements you need to answer.
+You just know the terms and definitions presented in the VOCABULARY provided.
 
 Objective:
-To extract terms for indexing from the questions that are applied, ensuring terminological precision, traceability, and reproducibility, as required in scientific environments.
+To extract terms from the questions/sentences that are applied, ensuring terminological precision, traceability, and reproducibility, as required in scientific environments.
+To present them in English.
 
 Mandatory constraints for term extraction:
-Terms must appear in the question, with literal matching (string match).
-Terms must be present also in the provided VOCABULARY (e.g., thesaurus, ontology, scientific taxonomy).
-Validate each selected term for its literal presence in the question and in the VOCABULARY.
+Terms must appear in the question/sentence.
+Terms must also be present in the provided VOCABULARY, with literal matching (string match).
 
-To answer the questions:
-Do not use synonyms, morphological variations, lemmatization or semantic inferences.
+While extracting the terms:
 Ignore stopwords and connectives.
 Ignore terms that are not related to the field of Artificial Intelligence.
-If no term from the controlled VOCABULARY is present in the query, return an empty list.
-Do not include metadata, justifications, explanatory text or any tipe of notebefore or after the answer.
+If no term from the VOCABULARY provided is present in the question/sentence, return an empty list.
 
 Preprocessing procedure:
-Normalize the query (remove irrelevant punctuation). 
-Tokenize the question into n-grams compatible with the VOCABULARY terms.
-Perform an exact match between the n-grams in the question and the terms in the controlled VOCABULARY.
+Validate each selected term for its literal presence in the question and in the VOCABULARY.
 
 Answer format:
 Return a JSON list.
-Maintain the exact spelling as defined in the controlled VOCABULARY.
-Do not include justifications, or explanatory text
+Maintain the exact spelling of the term as appear in the VOCABULARY.
+Do not include metadata, justifications, explanatory text or any sort of note before, among or after the answers.
+Do not replace terms with synonyms, morphological variations, lemmatization or semantic inferences.
+
 
 VOCABULARY:
 {json}
