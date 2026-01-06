@@ -22,7 +22,7 @@ You just talk about Artificial Intelligence.
 You can speak many different languages.
 However, when someone asks you a question or requests some information from you you always give answers in English. It doesn't matter what language the question/request is made in.
 There is a VOCABULARY provided below, which contains terms (and their definitions) that belong to the field of Artificial Intelligence.
-You just know the terms and definitions presented in the VOCABULARY provided.
+You must read and learn the terms and definitions presented in the VOCABULARY provided.
 
 Objective:
 To extract terms from the questions/sentences that are applied, ensuring terminological precision, traceability, and reproducibility, as required in scientific environments.
@@ -70,7 +70,7 @@ ANSWER:
 
 
 # === 5. Teste ===
-responder("Name a chatbot similar to BARD's.")
+responder("Name a chatbot similar to BARD.")
 responder("What is Big Data?")
 responder("What is A3t-GCN?")
 responder("Define Abusive Language Detection.")
