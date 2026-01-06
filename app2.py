@@ -70,13 +70,13 @@ ANSWER:
 
 
 # === 5. Teste ===
-responder("Name a chatbot similar to Google BARD.")
+responder("Name a chatbot similar to BARD chatbot.")
 responder("What is Big Data?")
-responder("What is A3t-Gcn?")
+responder("What is A3t-GCN?")
 responder("Define Abusive Language Detection.")
 responder("What is the Abstractive Model present in Artificial Intelligence?")
 responder("Explain Artificial Intelligence Authorship?")
 responder("What is Bias Detection?")
 responder("Quantos dedos eu tenho na mão?")
 responder("A inteligência dele é muito superficial.")
-responder("Do you have problems with Bias Detection in Big data?")
+responder("The Active Inference make use of AI.")
