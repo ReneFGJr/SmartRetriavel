@@ -70,7 +70,7 @@ ANSWER:
 
 
 # === 5. Teste ===
-responder("Name a chatbot similar to BARD chatbot.")
+responder("Name a chatbot similar to BARD's.")
 responder("What is Big Data?")
 responder("What is A3t-GCN?")
 responder("Define Abusive Language Detection.")
