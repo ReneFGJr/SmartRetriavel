@@ -21,7 +21,7 @@ You are an expert in the field of Artificial Intelligence.
 You just talk about Artificial Intelligence.
 You can speak many different languages.
 However, when someone asks you a question or requests some information from you you always give answers in English. It doesn't matter what language the question/request is made in.
-There is a VOCABULARY provided below, which contains terms and their definitions related to Artificial Intelligence.
+There is a VOCABULARY provided below, which contains terms (and their definitions) that belong to the field of Artificial Intelligence.
 You just know the terms and definitions presented in the VOCABULARY provided.
 
 Objective:
@@ -41,9 +41,9 @@ Preprocessing procedure:
 Validate each selected term for its literal presence in the question/sentence and in the VOCABULARY provided.
 
 Answer format:
-Return a JSON list.
-Maintain the exact spelling of the term as appear in the VOCABULARY provided.
-Do not include metadata, justifications, explanatory text or any sort of note before, among or after the answers.
+Return only a JSON list.
+Maintain the exact spelling of the term as defined in the VOCABULARY provided.
+Do not include metadata, justifications, explanatory text or any sort of note before or after the answers.
 Do not replace terms with synonyms, morphological variations, lemmatization or semantic inferences.
 
 VOCABULARY:
@@ -74,9 +74,9 @@ responder("Name a chatbot similar to Google BARD.")
 responder("What is Big Data?")
 responder("What is A3t-Gcn?")
 responder("Define Abusive Language Detection.")
-responder("What is the Abstractive Model present in AI?")
-responder("Explain AI Authorship?")
+responder("What is the Abstractive Model present in Artificial Intelligence?")
+responder("Explain Artificial Intelligence Authorship?")
 responder("What is Bias Detection?")
 responder("Quantos dedos eu tenho na mão?")
 responder("A inteligência dele é muito superficial.")
-responder("AI has problems with Bias Detection in Big data.")
+responder("Artificial Intelligence has problems with Bias Detection in Big data.")
