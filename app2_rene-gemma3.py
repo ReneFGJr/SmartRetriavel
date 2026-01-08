@@ -78,7 +78,7 @@ def responder(question, modelo="gemma3"):
     question : str
         The input question or sentence to be analyzed.
     modelo : str, optional
-        The Ollama model name (default is 'llama3.2').
+        The Ollama model name (default is 'gemma3').
 
     Returns
     -------
