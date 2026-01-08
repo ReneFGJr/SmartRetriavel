@@ -31,7 +31,7 @@ def download_json(url: str, output_file: str) -> None:
         print("Erro: a resposta não é um JSON válido")
 
 if __name__ == "__main__":
-    url = "https://www.ufrgs.br/thesa/api/ai_rad_json/6"
+    url = "https://www.ufrgs.br/thesa/api/ai_rad_json/6/eng"
     arquivo_saida = "data/vc.json"
 
     download_json(url, arquivo_saida)
