@@ -1,4 +1,5 @@
 import json
+import sys
 import chromadb
 import ollama
 
@@ -47,13 +48,12 @@ Do not include metadata, justifications, explanatory text or any sort of note be
 Do not replace terms with synonyms, morphological variations, lemmatization or semantic inferences.
 
 VOCABULARY:
-{json}
+{contextos}
 
 QUESTION: {question}
 
 ANSWER:
 """
-    
 
     resposta = ollama.chat(
         model=modelo,
