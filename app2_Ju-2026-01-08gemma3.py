@@ -64,7 +64,7 @@ print(f"Vocabulary successfully loaded with {len(vocabulary)} terms.")
 # 4. Main function responsible for querying the LLM
 #    for terminology extraction based on a strict protocol
 # ============================================================
-def responder(question, modelo="llama3.2"):
+def responder(question, modelo="gemma3"):
     """
     Send a terminology-extraction task to an Ollama LLM.
 
@@ -78,7 +78,7 @@ def responder(question, modelo="llama3.2"):
     question : str
         The input question or sentence to be analyzed.
     modelo : str, optional
-        The Ollama model name (default is 'llama3.2').
+        The Ollama model name (default is 'gemma3').
 
     Returns
     -------
