@@ -1,0 +1,4859 @@
+[
+    {
+        "DALL-E": "eng",
+        "Dall-E System": "eng"
+    },
+    {
+        "Hugging Face": "eng",
+        "GitHub of Machine Learning": "eng"
+    },
+    {
+        "A3t-Gcn": "eng",
+        "Attention Temporal Graph Convolutional Network for Traffic Forecasting": "eng",
+        "Attention Temporal Graph Convolutional Network": "eng"
+    },
+    {
+        "Abstractive Model": "eng",
+        "Modelo Abstrativo": "por",
+        "Modelo Abstracto": "spa"
+    },
+    {
+        "Abusive Language Detection": "eng",
+        "Detecção De Linguagem Abusiva": "por",
+        "Detección De Lenguaje Abusivo": "spa"
+    },
+    {
+        "ADM": "eng",
+        "Academic Data Mining": "eng",
+        "EDM": "eng",
+        "Educational Data Mining": "eng",
+        "Data mining in education": "eng",
+        "Mineração De Dados Acadêmica": "por",
+        "Mineração De Dados Educacional": "por",
+        "Data Mining Académico": "spa",
+        "Minería de datos educativos": "spa"
+    },
+    {
+        "Academic Knowledge Graph": "eng",
+        "AKG": "eng",
+        "Grafo De Conhecimento Acadêmico": "por",
+        "Grafo De Conocimiento Académico": "spa"
+    },
+    {
+        "Acceptance Of Artificial Intelligence In Education": "eng",
+        "AIED": "eng",
+        "Aceitação Da Inteligência Artificial Na Educação": "por",
+        "Aceptación De La Inteligencia Artificial En La Educación": "spa"
+    },
+    {
+        "Action Design Research": "eng",
+        "ADR": "spa",
+        "Pesquisa De Design De Ação": "por",
+        "Investigación de Diseño de Acción": "spa"
+    },
+    {
+        "Active Inference": "eng",
+        "Inferência Ativa": "por",
+        "Inferencia Activa": "spa"
+    },
+    {
+        "Active Learning For Systematic Reviews": "eng",
+        "Asreview": "eng",
+        "Aprendizagem Ativa Para Revisões Sistemáticas": "por",
+        "Aprendizaje Activo En Asreview": "spa"
+    },
+    {
+        "Actor-Network": "eng",
+        "ANT": "eng",
+        "Actor-Network Theory": "eng",
+        "Teoria Ator-Rede": "por",
+        "Teoría Del Actor-Red": "spa",
+        "TAR": "spa"
+    },
+    {
+        "Adaptive Argumentation Learning": "eng",
+        "Aprendizagem De Argumentação Adaptativa": "por",
+        "Aprendizaje Adaptativo De Argumentación": "spa"
+    },
+    {
+        "Adaptive Attention": "eng",
+        "Atenção Adaptativa": "por",
+        "Mecanismo De Atención Adaptativa": "spa"
+    },
+    {
+        "Adaptive Graph Convolutional Recurrent Network": "eng",
+        "Agcrn": "eng",
+        "Rede Recorrente Convolucional De Grafos Adaptativos": "por",
+        "Red Recurrente Convolucional De Grafo Adaptativos": "spa"
+    },
+    {
+        "Advanced Artificial Intelligence Model": "eng",
+        "Modelo Avançado De Ia": "por",
+        "Modelo Avanzado De Inteligencia Artificial": "spa"
+    },
+    {
+        "Adversarial Machine Learning": "eng",
+        "AML": "eng",
+        "Aprendizado De Máquina Adversarial": "por",
+        "Aprendizaje Automático Adversario": "spa"
+    },
+    {
+        "Adversarial Sample": "eng",
+        "Amostra Adversarial": "por",
+        "Muestra Adversarial": "spa"
+    },
+    {
+        "Adversarial Training": "eng",
+        "Treinamento Adversarial": "por",
+        "Entrenamiento Adversarial": "spa"
+    },
+    {
+        "Affective AI": "eng",
+        "Emotional AI": "eng",
+        "Affective Computing": "eng",
+        "Affective Information Processing": "eng",
+        "Affective Processing System": "eng",
+        "Emotion Analysis": "eng",
+        "Emotional Machines": "eng",
+        "Sentiment Analysis": "eng",
+        "Sentiment Evolution Analysis": "eng",
+        "Artificial Emotional Intelligence": "eng",
+        "Emotion Recognition": "eng",
+        "Expression Recognition": "eng",
+        "IA Afetiva": "por",
+        "Computação Afetiva": "por",
+        "Processamento De Informação Afetivo": "por",
+        "Análise De Evolução De Sentimento": "por",
+        "Reconhecimento De Emoção": "por",
+        "Mineração de opiniões": "por",
+        "Análise De Sentimento": "por",
+        "Análise De Emoção": "por",
+        "Máquinas Emocionais": "por",
+        "Reconhecimento De Expressão": "por",
+        "Inteligencia Artificial Afectiva": "spa",
+        "Computación Afectiva": "spa",
+        "Procesamiento Afectivo De La Información": "spa",
+        "Análisis Del Sentimiento": "spa",
+        "Reconocimiento de Expresiones": "spa",
+        "Análisis De La Evolución Del Sentimiento": "spa",
+        "Análisis de Emociones": "spa",
+        "Reconocimiento de Emociones": "spa",
+        "Máquinas Emocionales": "spa"
+    },
+    {
+        "Affective Responses": "eng",
+        "Respostas Afetivas": "por",
+        "Respuestas Afectivas": "spa"
+    },
+    {
+        "Agentic AI": "eng",
+        "IA Agente": "por",
+        "IA Agéntica": "spa"
+    },
+    {
+        "Agglomerative Clustering": "eng",
+        "Clustering": "eng",
+        "Agrupamento Aglomerado": "por",
+        "Clusterização": "por",
+        "Agrupamento": "por",
+        "Clustering Aglomerativo": "spa"
+    },
+    {
+        "AI Acceptance": "eng",
+        "Aceitação da IA": "por",
+        "Aceptación de la IA": "spa"
+    },
+    {
+        "AI Acceptance-Avoidance Model": "eng",
+        "IAAAM": "eng",
+        "Modelo de Aceitação\/Evitação da IA": "por",
+        "Modelo Integrado de Aceptación-Evitación de la IA": "spa"
+    },
+    {
+        "AI Accountability": "eng",
+        "Responsabilidade Em IA": "por",
+        "Rendición de Cuentas de la IA": "spa"
+    },
+    {
+        "AI Adoption Consequences": "eng",
+        "Consequências da Adoção de IA": "por",
+        "Consecuencias de la Adopción de la Inteligencia Artificial": "spa"
+    },
+    {
+        "AI Adoption Framework": "eng",
+        "Estrutura de Adoção de IA": "por",
+        "Estructura de Adopción de IA": "spa",
+        "Marco de Adopción de IA": "spa"
+    },
+    {
+        "AI Affective Delivery": "eng",
+        "Entrega Afetiva em IA": "por",
+        "Entrega Afectiva de IA": "spa"
+    },
+    {
+        "Ai Agency": "eng",
+        "Agência em IA": "por",
+        "Habilidade de Agir em IA": "por",
+        "Agencia de IA": "spa"
+    },
+    {
+        "AI Alignment": "eng",
+        "Alinhamento de IA": "por",
+        "Alineación de la IA": "spa"
+    },
+    {
+        "AI and Libraries": "eng",
+        "IA e As Bibliotecas": "por",
+        "Inteligencia Artificial y Bibliotecas": "spa"
+    },
+    {
+        "AI and Political Communication": "eng",
+        "IA e Comunicação Política": "por",
+        "IA en la Comunicación Política": "spa"
+    },
+    {
+        "AI Applications for Researchers": "eng",
+        "Aplicativos De IA Para Pesquisadores": "por",
+        "Aplicaciones de IA para Investigadores": "spa"
+    },
+    {
+        "AI Applications In Education": "eng",
+        "AI Based Educational Applications": "eng",
+        "Aplicativos De IA Em Educação": "por",
+        "Aplicações Educacionais Baseadas Em IA": "por",
+        "Implementación De La Inteligencia Artificial En El Sector Educativo": "spa",
+        "Aplicaciones Educativas Basadas En IA": "spa"
+    },
+    {
+        "AI Apps": "eng",
+        "Aplicativos Para IA": "por",
+        "Aplicaciones De IA": "spa"
+    },
+    {
+        "AI Assimilation": "eng",
+        "Assimilação De IA": "por",
+        "Asimilación De La IA": "spa"
+    },
+    {
+        "AI Assistants": "eng",
+        "AI Helper": "eng",
+        "Ajudante De IA": "por",
+        "Assistentes De IA": "por",
+        "Asistente De IA": "spa",
+        "Ayudante De IA": "spa"
+    },
+    {
+        "AI Assisted Learning": "eng",
+        "Aprendizado Assistido Por IA": "por",
+        "Aprendizaje Asistido Por IA": "spa"
+    },
+    {
+        "AI Assisted Library User Experiences In Africa": "eng",
+        "Experiências De Usuários De Bibliotecas Assistidas Por IA Na África": "por",
+        "Experiencias De Usuario De Bibliotecas Asistidas Por IA En África": "spa"
+    },
+    {
+        "AI Assisted Literary Translation": "eng",
+        "Tradução Literária Assistida Por IA": "por",
+        "Traducción Literaria Asistida Por IA": "spa"
+    },
+    {
+        "AI Assisted Review": "eng",
+        "Revisão Assistida Por IA": "por",
+        "Revisión Asistida Por IA": "spa"
+    },
+    {
+        "AI Assisted Technologies": "eng",
+        "Tecnologias Assistidas Por IA": "por",
+        "Tecnologías Asistidas Por IA": "spa"
+    },
+    {
+        "AI Assisting Academic Writing": "eng",
+        "Using AI In Academic Assignments": "eng",
+        "Uso De IA Em Trabalhos Acadêmicos": "por",
+        "IA Auxiliando A Escrita Acadêmica": "por",
+        "Utilizar Inteligencia Artificial En Trabajos Académicos": "spa",
+        "Asistencia De La IA En La Escritura Académica": "spa"
+    },
+    {
+        "AI Audiovisual Narratives": "eng",
+        "Narrativas Audiovisuais Com IA": "por",
+        "IA En Las Narrativas Audiovisuales": "spa"
+    },
+    {
+        "AI Auditing": "eng",
+        "Auditing AI": "eng",
+        "Auditoria De IA": "por",
+        "Auditoría De IA": "spa"
+    },
+    {
+        "Augmentation": "eng",
+        "Augmentation-Reality": "eng",
+        "Augmented-Reality": "eng",
+        "Augmented Intelligence": "eng",
+        "AI Augmentation": "eng",
+        "AR": "eng",
+        "Augmented Interaction": "eng",
+        "Intelligence Amplification": "eng",
+        "Interação Aumentada": "por",
+        "Inteligência Aumentada": "por",
+        "Augmentação": "por",
+        "Aumento Com IA": "por",
+        "Inteligência Artificial Aumentativa": "por",
+        "Realidade Aumentada": "por",
+        "Inteligencia Aumentada": "spa",
+        "Aumento": "spa",
+        "Realidad Aumentada": "spa",
+        "Interacción Aumentada": "spa"
+    },
+    {
+        "AI Augmented Decision Making": "eng",
+        "Tomada De Decisão Por IA Aumentada": "por",
+        "Toma De Decisiones Por IA Aumentada": "spa"
+    },
+    {
+        "AI Augmented Knowledge Management Capability": "eng",
+        "Capacidade De Gestão De Conhecimento  Por IA Aumentada": "por",
+        "Capacidad De Gestión Del Conocimiento  Por IA Aumentada": "spa"
+    },
+    {
+        "AI Authorship": "eng",
+        "Autoria De IA": "por",
+        "Autoría De La IA": "spa"
+    },
+    {
+        "AI Autonomy": "eng",
+        "Autonomous AI": "eng",
+        "Autonomia De IA": "por",
+        "IA Autônoma": "por",
+        "Autonomía De La IA": "spa",
+        "IA Autónoma": "spa"
+    },
+    {
+        "AI Awareness": "eng",
+        "Conscientização De IA": "por",
+        "Conciencia De La IA": "spa"
+    },
+    {
+        "AI Based Imagery Analysis": "eng",
+        "Análise De Imagens Baseada Em IA": "por",
+        "Análisis De Imágenes Basado En IA": "spa"
+    },
+    {
+        "AI Based Instructions": "eng",
+        "Instruções Baseadas Em IA": "por",
+        "Instrucciones Basadas En IA": "spa"
+    },
+    {
+        "AI Based Methodology": "eng",
+        "Metodologia Baseada Em IA": "por",
+        "Metodología Basada En IA": "spa"
+    },
+    {
+        "AI Based Recommendation": "eng",
+        "Recomendação Baseada Em IA": "por",
+        "Recomendación Basada En IA": "spa"
+    },
+    {
+        "AI Based Reference Service": "eng",
+        "Serviço De Referência Baseado Em IA": "por",
+        "Servicio De Referencia Basado En IA": "spa"
+    },
+    {
+        "AI Based Tools": "eng",
+        "Ferramentas Baseadas Em IA": "por",
+        "Herramientas Basadas En IA": "spa"
+    },
+    {
+        "AI Big Data Analytics Culture": "eng",
+        "Cultura Analítica De Big Data Na IA": "por",
+        "Cultura De Análisis De Big Data Y De IA": "spa"
+    },
+    {
+        "AI Competencies": "eng",
+        "Competências Em IA": "por",
+        "Competencias En IA": "spa"
+    },
+    {
+        "AI Compliance": "eng",
+        "Conformidade Em IA": "por",
+        "Cumplimiento De La IA": "spa"
+    },
+    {
+        "AI Based Decision-Making": "eng",
+        "AI Decision-Making": "eng",
+        "AI Assisted Decision Making": "eng",
+        "Tomada De Decisão Com IA": "por",
+        "Tomada De Decisão Baseada Em IA": "por",
+        "Tomada De Decisão Assistida Por IA": "por",
+        "Toma De Decisiones Asistida Por IA": "spa",
+        "Toma De Decisiones Con IA": "spa",
+        "Toma De Decisiones Basada En IA": "spa"
+    },
+    {
+        "AI Detection": "eng",
+        "Detecção Com IA": "por",
+        "Detección De IA": "spa"
+    },
+    {
+        "AI Development": "eng",
+        "Desenvolvimento De IA": "por",
+        "Desarrollo De IA": "spa"
+    },
+    {
+        "AI Documentation": "eng",
+        "Documentação De IA": "por",
+        "Documentación De IA": "spa"
+    },
+    {
+        "AI Driven Capabilities": "eng",
+        "Recursos Orientados Por IA": "por",
+        "Capacidades Impulsadas Por IA": "spa"
+    },
+    {
+        "AI Driven Information System": "eng",
+        "Intelligent Information Systems": "eng",
+        "Smart Information Systems": "eng",
+        "Sistemas Inteligentes De Informação": "por",
+        "Sistema De Informação Orientado Pela IA": "por",
+        "Sistema De Información Impulsado Por IA": "spa",
+        "Servicios de Información Inteligente": "spa"
+    },
+    {
+        "AI Driven Innovation": "eng",
+        "Innovation With GAI": "eng",
+        "Inovação Orientada Pela IA": "por",
+        "Inovações Com A IA Generativa": "por",
+        "Innovación Impulsada Por IA": "spa"
+    },
+    {
+        "AI Driven Learning Analytics": "eng",
+        "Análises De Aprendizados Orientados Por IA": "por",
+        "Análisis De Aprendizaje Impulsado Por IA": "spa"
+    },
+    {
+        "AI Driven Library Models": "eng",
+        "Modelos De Biblioteca Orientados Por IA": "por",
+        "Modelos De Biblioteca Impulsados Por IA": "spa"
+    },
+    {
+        "AI Driven Processes": "eng",
+        "Processos Orientados Por IA": "por",
+        "Procesos Impulsados Por IA": "spa"
+    },
+    {
+        "AI Driven Solutions": "eng",
+        "Soluções Orientadas Por IA": "por",
+        "Soluciones Impulsadas Por IA": "spa"
+    },
+    {
+        "AI Driven Tools": "eng",
+        "Ferramentas Orientadas Por IA": "por",
+        "Herramientas Impulsadas Por IA": "spa"
+    },
+    {
+        "AI Driven University": "eng",
+        "Universidade Orientada Por IA": "por",
+        "Universidad Impulsado Por IA": "spa"
+    },
+    {
+        "AI Ecosystems": "eng",
+        "AI Landscape": "eng",
+        "Ecossistemas De IA": "por",
+        "Cenário Da IA": "por",
+        "Ecosistemas De IA": "spa",
+        "Panorama De La IA": "spa"
+    },
+    {
+        "AI Enabled Portals": "eng",
+        "Portais Habilitados Por IA": "por",
+        "Portales Habilitados Con IA": "spa"
+    },
+    {
+        "AI Enabled Services": "eng",
+        "Serviços Habilitados Por IA": "por",
+        "Servicios Habilitados Por IA": "spa"
+    },
+    {
+        "AI Enabled Systems": "eng",
+        "Sistemas Habilitados Por IA": "por",
+        "Sistema Habilitado Para IA": "spa"
+    },
+    {
+        "AI Ethical Tools": "eng",
+        "Ferramentas Éticas De IA": "por",
+        "Herramientas Éticas Para La IA": "spa"
+    },
+    {
+        "AI Experimentation Outcome": "eng",
+        "Resultados De Experimentação Em IA": "por",
+        "Resultado De La Experimentación Con IA": "spa"
+    },
+    {
+        "AI Experimentation Policy": "eng",
+        "Política De Experimentação Em IA": "por",
+        "Política De Experimentación De IA": "spa"
+    },
+    {
+        "AI Experimentations": "eng",
+        "Experimentações Com IA": "por",
+        "Experimentaciones Con IA": "spa"
+    },
+    {
+        "AI Factors": "eng",
+        "Fatores De IA": "por",
+        "Factores De La IA": "spa"
+    },
+    {
+        "AI Feedback": "eng",
+        "Feedback Em IA": "por",
+        "Feedback Para IA": "por",
+        "Feedback Con IA": "spa"
+    },
+    {
+        "AI Folk Theories": "eng",
+        "Teorias Populares Sobre A IA": "por",
+        "Teorías Populares De La IA": "spa"
+    },
+    {
+        "AI For Science": "eng",
+        "IA Para A Ciência": "por",
+        "IA Para La Ciencia": "spa"
+    },
+    {
+        "AI Framework": "eng",
+        "Artificial Intelligence Framework": "eng",
+        "Estrutura De IA": "por",
+        "Marco De IA": "spa"
+    },
+    {
+        "AI Gender Bias": "eng",
+        "Preconceito De Gênero Na IA": "por",
+        "Sesgo De Género En La IA": "spa"
+    },
+    {
+        "AI Generated Images": "eng",
+        "Imagens Geradas Por IA": "por",
+        "Imágenes Generadas Por IA": "spa"
+    },
+    {
+        "AI Generated In Research": "eng",
+        "IA Gerada Em Pesquisa": "por",
+        "IA Generada En La Investigación": "spa"
+    },
+    {
+        "AI Generated IP": "eng",
+        "IP Gerado Por IA": "por",
+        "PI Generada Por IA": "spa"
+    },
+    {
+        "AI Generated Media": "eng",
+        "Mídia Gerada Por IA": "por",
+        "Multimedia Generado Por IA": "spa"
+    },
+    {
+        "AI Generated Works": "eng",
+        "Trabalhos Gerados Por IA": "por",
+        "Trabajos Generados Por IA": "spa"
+    },
+    {
+        "AI Guidelines": "eng",
+        "Diretrizes De IA": "por",
+        "Directrices Sobre IA": "spa"
+    },
+    {
+        "AI Hallucination Exposure": "eng",
+        "Exposição À Alucinação De IA": "por",
+        "Exposición A La Alucinación De La IA": "spa"
+    },
+    {
+        "AI Humility": "eng",
+        "Humildade Da IA": "por",
+        "Humildad De La IA": "spa"
+    },
+    {
+        "AI Identity": "eng",
+        "Identidade Da IA": "por",
+        "Identidad De IA": "spa"
+    },
+    {
+        "AI Image Generation": "eng",
+        "Gerador De Imagem Em IA": "por",
+        "Generación De Imágenes Con IA": "spa"
+    },
+    {
+        "AI Implementation In The Public Sector": "eng",
+        "Implementação De IA No Setor Público": "por",
+        "Implementación De La IA En El Sector Público": "spa"
+    },
+    {
+        "AI In Cataloging": "eng",
+        "IA Em Catalogação": "por",
+        "IA En Catalogación": "spa"
+    },
+    {
+        "AI In Government": "eng",
+        "IA No Governo": "por",
+        "IA En El Gobierno": "spa"
+    },
+    {
+        "AI In Medical Libraries": "eng",
+        "IA Nas Bibliotecas Médicas": "por",
+        "IA En Bibliotecas Médicas": "spa"
+    },
+    {
+        "AI Influencer": "eng",
+        "IA Influenciador": "por",
+        "Influencer De IA": "spa"
+    },
+    {
+        "AI Integration": "eng",
+        "Integração De IA": "por",
+        "Integração Com IA": "por",
+        "Integración De La IA": "spa"
+    },
+    {
+        "AI Integration In Research": "eng",
+        "Integração Da IA Na Pesquisa": "por",
+        "Integración De La IA En La Investigación": "spa"
+    },
+    {
+        "AI Investment": "eng",
+        "Investimento Na IA": "por",
+        "Inversión En IA": "spa"
+    },
+    {
+        "Language Model": "eng",
+        "AI Language Model": "eng",
+        "Modelo De Linguagem Da IA": "por",
+        "Modelo De Lenguaje De IA": "spa"
+    },
+    {
+        "AI Learning And Teaching": "eng",
+        "Aprendizagem E Ensino De IA": "por",
+        "Aprendizaje Y Enseñanza Con IA": "spa"
+    },
+    {
+        "AI Learning Motivation": "eng",
+        "Motivação Para Aprendizagem De IA": "por",
+        "Motivación Para El Aprendizaje Con IA": "spa"
+    },
+    {
+        "AI Libguides": "eng",
+        "Artificial Intelligence Guides": "eng",
+        "Libguides E IA": "por",
+        "Libguides Y La IA": "spa"
+    },
+    {
+        "AI Lifecycle": "eng",
+        "Ciclo De Vida Da IA": "por",
+        "Ciclo De Vida De La IA": "spa"
+    },
+    {
+        "Artificial Intelligence Literacy": "eng",
+        "AI Literacy": "eng",
+        "Alfabetização Em Inteligência Artificial": "por",
+        "Alfabetização Em IA": "por",
+        "Alfabetización En Inteligencia Artificial": "spa",
+        "Alfabetización En IA": "spa"
+    },
+    {
+        "AI Literacy Conceptualization": "eng",
+        "Conceitualização De Alfabetização Em IA": "por",
+        "Conceptualización De La Alfabetización En IA": "spa"
+    },
+    {
+        "AI Literacy Initiatives": "eng",
+        "Iniciativas De Alfabetização Em IA": "por",
+        "Iniciativa De Alfabetización En IA": "spa"
+    },
+    {
+        "AI Literacy Taxonomy": "eng",
+        "Taxonomia De Alfabetização Em IA": "por",
+        "Taxonomía De La Alfabetización En IA": "spa"
+    },
+    {
+        "AI Literature": "eng",
+        "Literatura De IA": "por"
+    },
+    {
+        "AI Manipulation Behavior": "eng",
+        "Comportamento De Manipulação De IA": "por",
+        "Comportamiento De Manipulación De La IA": "spa"
+    },
+    {
+        "AI Mastery Goal": "eng",
+        "Meta De Domínio Da IA": "por",
+        "Objetivo De Dominar La Inteligencia Artificial.": "spa"
+    },
+    {
+        "AI Monitoring": "eng",
+        "Monitoramento de IA": "por",
+        "Monitoreo De IA": "spa"
+    },
+    {
+        "AI Narratives": "eng",
+        "Narrativas De IA": "por",
+        "IA Narrativa": "spa"
+    },
+    {
+        "AI Opportunities And Pitfalls": "eng",
+        "Oportunidades E Armadilhas Da IA": "por",
+        "Oportunidades Y Riesgos De La IA": "spa"
+    },
+    {
+        "AI Orientation": "eng",
+        "Orientação Para IA": "por",
+        "Orientación De La IA": "spa"
+    },
+    {
+        "AI Patents": "eng",
+        "Patentes De IA": "por",
+        "Patentes Y La IA": "spa"
+    },
+    {
+        "AI Perception": "eng",
+        "Percepção De IA": "por",
+        "Percepción De La IA": "spa"
+    },
+    {
+        "AI Perception Characteristics": "eng",
+        "Características De Percepção Da IA": "por",
+        "Características De Percepción De La IA": "spa"
+    },
+    {
+        "AI Perspectives": "eng",
+        "Perspectivas Da IA": "por",
+        "Perspectivas De La Ia": "spa"
+    },
+    {
+        "AI Potential": "eng",
+        "Potencial Da IA": "por",
+        "Potencial De La IA": "spa"
+    },
+    {
+        "AI Principles": "eng",
+        "Princípios Da IA": "por",
+        "Principios De IA": "spa"
+    },
+    {
+        "AI Programmer": "eng",
+        "AI Developer": "eng",
+        "Programador De IA": "por"
+    },
+    {
+        "AI Programming Self-Efficacy": "eng",
+        "Autoeficácia Em Programação De IA": "por",
+        "Autoeficacia En La Programación Con IA": "spa"
+    },
+    {
+        "AI Readiness Framework": "eng",
+        "Framework De Prontidão Para IA": "por",
+        "Marco De Preparación Para La IA": "spa"
+    },
+    {
+        "AI Recommendations": "eng",
+        "Recomendações De IA": "por",
+        "Sistemas De Recomendación Con IA": "spa"
+    },
+    {
+        "AI Act": "eng",
+        "Artificial Intelligence Act": "eng",
+        "AIA": "eng",
+        "EU AI Act": "eng",
+        "European Regulation On Artificial Intelligence": "eng",
+        "Ato IA": "por",
+        "Lei Da Inteligência Artificial": "por",
+        "Regulamentação Européia Em Inteligência Artificial": "por",
+        "Ley de IA": "spa",
+        "Ley De Inteligencia Artificial": "spa",
+        "Reglamento Europeo sobre Inteligencia Artificial": "spa"
+    },
+    {
+        "AI Challenges": "eng",
+        "Desafios Da IA": "por",
+        "Desafíos De La IA": "spa"
+    },
+    {
+        "AI Recruitment": "eng",
+        "Recrutamento De IA": "por",
+        "Reclutamiento Con Inteligencia Artificial": "spa"
+    },
+    {
+        "AI Regulations In South Korea": "eng",
+        "Regulamentações De IA Na Coreia Do Sul": "por",
+        "Regulaciones De IA En Corea Del Sur": "spa"
+    },
+    {
+        "AI Research": "eng",
+        "Artificial Intelligence Research": "eng",
+        "Pesquisa De IA": "por",
+        "Investigación En IA": "spa"
+    },
+    {
+        "AI Research Assistants": "eng",
+        "Assistentes De Pesquisa De IA": "por",
+        "Asistentes De Investigación De IA": "spa"
+    },
+    {
+        "AI Research Methods": "eng",
+        "Métodos De Pesquisa Em IA": "por",
+        "Métodos De Investigación En IA": "spa"
+    },
+    {
+        "AI Risk Perception": "eng",
+        "Percepção De Risco Da IA": "por",
+        "Percepción Del Riesgo De La IA": "spa"
+    },
+    {
+        "AI Schools": "eng",
+        "IA Nas Escolas": "por",
+        "IA En Las Escuelas": "spa"
+    },
+    {
+        "AI Self-Efficacy": "eng",
+        "Autoeficácia Da IA": "por",
+        "Autoeficacia En IA": "spa"
+    },
+    {
+        "AI Service": "eng",
+        "AIaas": "eng",
+        "AI as a Service": "eng",
+        "Serviço De IA": "por",
+        "Servicio De IA": "spa"
+    },
+    {
+        "AI Service Quality": "eng",
+        "Qualidade Do Serviço De IA": "por",
+        "Calidad Del Servicio De IA": "spa"
+    },
+    {
+        "AI Simulation": "eng",
+        "Simulação De IA": "por",
+        "Simulación De IA": "spa"
+    },
+    {
+        "AI Social Impacts": "eng",
+        "Impactos Sociais Da IA": "por",
+        "Impactos Sociales De La IA": "spa"
+    },
+    {
+        "AI Software Project": "eng",
+        "Projeto De Software Na IA": "por",
+        "Proyecto De Software De IA": "spa"
+    },
+    {
+        "AI Standards": "eng",
+        "Padrões Da IA": "por",
+        "Estándares De IA": "spa"
+    },
+    {
+        "AI Strategy": "eng",
+        "Estratégia Da IA": "por",
+        "Estrategia De IA": "spa"
+    },
+    {
+        "AI Suppression": "eng",
+        "Supressão Na IA": "por",
+        "Supresión De IA": "spa"
+    },
+    {
+        "AI Survey": "eng",
+        "Enquete Na IA": "por",
+        "Encuesta Con IA": "spa"
+    },
+    {
+        "AI Systems": "eng",
+        "Intelligence System": "eng",
+        "Automated Systems": "eng",
+        "Sistema Na IA": "por",
+        "Sistemas Autônomos": "por",
+        "Sistemas Automatizados": "por",
+        "Sistema De IA": "spa",
+        "Sistemas Autónomos": "spa"
+    },
+    {
+        "AI Tensions": "eng",
+        "Tensões Na IA": "por",
+        "Tensiones De La IA": "spa"
+    },
+    {
+        "AI Tool Development": "eng",
+        "Desenvolvimento De Ferramentas Na IA": "por",
+        "Desarrollo De Herramientas De IA": "spa"
+    },
+    {
+        "AI Tools For Literature Review": "eng",
+        "Ferramentas De IA Para Revisão De Literatura": "por",
+        "Herramientas De IA Para La Revisión De La Literatura": "spa"
+    },
+    {
+        "AI Transparency": "eng",
+        "Transparência Na IA": "por",
+        "Transparencia De La IA": "spa"
+    },
+    {
+        "AI Use Policy": "eng",
+        "Política De Uso Da IA": "por",
+        "Política De Uso De IA": "spa"
+    },
+    {
+        "AI Users": "eng",
+        "Usuários Da IA": "por",
+        "Usuarios De IA": "spa"
+    },
+    {
+        "AI Vibrancy Score": "eng",
+        "Pontuação De Vibração Da IA": "por",
+        "Puntuación De Vitalidad De La IA": "spa"
+    },
+    {
+        "AI Vibrancy Subindexes": "eng",
+        "Subíndices De Vibração Da IA": "por",
+        "Subíndices De Vitalidad De La IA": "spa"
+    },
+    {
+        "AI Voice": "eng",
+        "Voice-Based Artificial Intelligence": "eng",
+        "Artificial Intelligence Voice": "eng",
+        "Inteligência Artificial Baseada Em Voz": "por",
+        "Voz Da IA": "por",
+        "Inteligencia Artificial Basada En Voz": "spa"
+    },
+    {
+        "AI Voice Assistant": "eng",
+        "AI-Powered Voice Assistant": "eng",
+        "Intelligent Voice Assistants": "eng",
+        "Assistente De Voz Da IA": "por",
+        "Assistentes De Voz Inteligentes": "por",
+        "Assistente De Voz Com Tecnologia De IA": "por",
+        "Asistente De Voz de la IA": "spa",
+        "Asistente De Voz Impulsado Por IA": "spa"
+    },
+    {
+        "AI Vs. Human": "eng",
+        "IA Vs. Humano": "por"
+    },
+    {
+        "AI-Human Interaction": "eng",
+        "Human-Ai Interaction": "eng",
+        "H\/AI": "eng",
+        "HAII": "eng",
+        "Interação IA-Homem": "por",
+        "Interação Homem-IA": "por",
+        "Interacción Humano-IA": "spa"
+    },
+    {
+        "AI-Mediated Communication": "eng",
+        "Comunicação Mediada Por IA": "por",
+        "Comunicación Mediada Por IA": "spa"
+    },
+    {
+        "AI-Powered Library Operations In Africa": "eng",
+        "Operações De Bibliotecas Com Tecnologia De IA Na África": "por",
+        "Uso De La IA En Las Operaciones De Bibliotecas En África": "spa"
+    },
+    {
+        "AI-Powered Tools": "eng",
+        "Ferramentas Com Tecnologia De IA": "por",
+        "Herramientas Potenciadas Por IA": "spa"
+    },
+    {
+        "AI-Related Knowledge Work": "eng",
+        "Trabalho De Conhecimento Relacionado À IA": "por",
+        "Trabajo Del Conocimiento Relacionado Con La IA": "spa"
+    },
+    {
+        "AI-Supportive Autonomy": "eng",
+        "Autonomia Com Suporte À IA": "por",
+        "Autonomía Con El Apoyo De La IA": "spa"
+    },
+    {
+        "AI-Supportive Big Data Analytics": "eng",
+        "Análise De Big Data Com Suporte De IA": "por",
+        "Análisis De Big Data Con Apoyo De La IA": "spa"
+    },
+    {
+        "AI4SG": "eng",
+        "Artificial Intelligence for Social Good": "eng",
+        "IA Para O Bem Social": "por",
+        "IA Para El Bien Social": "spa"
+    },
+    {
+        "AIGC Evaluation": "eng",
+        "Avaliação De Conteúdo Gerado Por IA": "por",
+        "Evaluación Del Contenido Generado Por IA": "spa"
+    },
+    {
+        "AIGC Footprints": "eng",
+        "Marcas Deixadas Pelo Conteúdo Gerado Por IA": "por",
+        "Huellas De Contenido Generado Por IA": "spa"
+    },
+    {
+        "AIGC Intention": "eng",
+        "Artificial Intelligence Generated Content intention": "eng",
+        "Intenção Do Conteúdo Gerado Por IA": "por",
+        "Información Intencional Que Un Humano Le Proporciona A Un Modelo De IA Generativa": "spa",
+        "Información Intencional Extraída De Las Instrucciones": "spa"
+    },
+    {
+        "ALBEF": "eng",
+        "ALign Before Fuse": "eng"
+    },
+    {
+        "Alexa": "eng"
+    },
+    {
+        "Algoactivism": "eng",
+        "Ativismo Em Algoritmo": "por",
+        "Activismo Algorítmico": "spa"
+    },
+    {
+        "Algorithm - Created Products": "eng",
+        "Produtos Criados Por Algoritmos": "por",
+        "Productos Creados Con Algoritmos": "spa"
+    },
+    {
+        "Algorithm Appreciation": "eng",
+        "Apreciação De Algoritmos": "por",
+        "Apreciación Algorítmica": "spa",
+        "Aceptación Algorítmica": "spa"
+    },
+    {
+        "Algorithm Auditing": "eng",
+        "Auditoria De Algoritmos": "por",
+        "Auditoría De Algoritmos": "spa"
+    },
+    {
+        "Algorithm Aversion": "eng",
+        "Aversão A Algoritmos": "por",
+        "Aversión A Los Algoritmos": "spa"
+    },
+    {
+        "Algorithm Awareness": "eng",
+        "Consciência De Algoritmos": "por",
+        "Conciencia Algorítmica": "spa"
+    },
+    {
+        "Algorithm Co-Occurrence Network": "eng",
+        "Rede De Co-Ocorrência De Algoritmos": "por",
+        "Algoritmo De Red De Coocurrencia": "spa"
+    },
+    {
+        "Algorithm Discount": "eng",
+        "Desconto De Algorítmo": "por",
+        "Descuento Algorítmico": "spa"
+    },
+    {
+        "Algorithm Entities": "eng",
+        "Entidades De Algoritmo": "por",
+        "Algoritmo De Entidades": "spa"
+    },
+    {
+        "Algorithm Entities Extraction": "eng",
+        "Nested Named Entities": "eng",
+        "Named Entity Recognition": "eng",
+        "NER": "eng",
+        "Entity Extraction": "eng",
+        "Extração De Entidades De Algoritmo": "por",
+        "Entidades Nomeadas Aninhadas": "por",
+        "Algoritmo De Extracción De Entidades": "spa",
+        "Entidades con nombre anidadas": "spa"
+    },
+    {
+        "Algorithm Mention Behavior": "eng",
+        "Comportamento De Menção De Algoritmo": "por",
+        "Ia Del Comportamiento": "spa"
+    },
+    {
+        "Algorithm Regulation": "eng",
+        "Regulação De Algoritmos": "por",
+        "Regulación De Algoritmos": "spa"
+    },
+    {
+        "Algorithm Selection": "eng",
+        "Seleção De Algoritmo": "por",
+        "Selección De Algoritmos": "spa"
+    },
+    {
+        "Algorithmic Advice": "eng",
+        "Conselhos Algorítmicos": "por",
+        "Asesoramiento Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Bias": "eng",
+        "Viés Algorítmico": "por",
+        "Sesgo Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Control": "eng",
+        "Controle Algorítmico": "por",
+        "Control Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Curation": "eng",
+        "Curadoria Algorítmica": "por",
+        "Curación Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Decision - Support Tool": "eng",
+        "ADST": "eng",
+        "Ferramenta De Apoio À Decisão Algorítmica": "por",
+        "Herramienta Algorítmica De Apoyo A La Decisión": "spa"
+    },
+    {
+        "Algorithmic Decision-Making": "eng",
+        "ADM": "eng",
+        "Tomada De Decisão Algorítmica": "por",
+        "Toma De Decisiones Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Discrimination": "eng",
+        "Discriminação Algorítmica": "por",
+        "Discriminación Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Extremism": "eng",
+        "Extremismo Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Fairness": "eng",
+        "Justiça Algorítmica": "por",
+        "Equidad Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Governance": "eng",
+        "Governança Algorítmida": "por",
+        "Gobernanza Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Grading": "eng",
+        "AI grading": "eng",
+        "Classificação Algorítmica": "por",
+        "Calificación Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Graph Theory": "eng",
+        "Teoria Algorítmica Dos Grafos": "por",
+        "Teoría De Grafos Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Interactions": "eng",
+        "Interações Algorítmicas": "por",
+        "Interacción Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Literacy": "eng",
+        "Alfabetização Algorítmica": "por",
+        "Alfabetización Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Management": "eng",
+        "Gerenciamento Algorítmico": "por",
+        "Gestión Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Practices": "eng",
+        "Práticas Algorítmicas": "por",
+        "Prácticas Algorítmicas": "spa"
+    },
+    {
+        "Algorithmic Prediction": "eng",
+        "Predictive Analytics": "eng",
+        "Predictive Artificial Intelligence": "eng",
+        "Predictive Computation": "eng",
+        "Predictive Model": "eng",
+        "Predictive Modelling": "eng",
+        "Predição Algorítmica": "por",
+        "Inteligência Artificial Preditiva": "por",
+        "Análise Preditiva": "por",
+        "Computação Preditiva": "por",
+        "Modelagem Preditiva": "por",
+        "Modelo Preditivo": "por",
+        "Predicción Algorítmica": "spa",
+        "Inteligencia Artificial Predictiva": "spa",
+        "Análisis Predictivo": "spa",
+        "Computación Predictiva": "spa",
+        "Modelado Predictivo": "spa"
+    },
+    {
+        "Algorithmic Racism": "eng",
+        "Racismo Algorítmo": "por",
+        "Racismo Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Representation": "eng",
+        "Representação Algorítmica": "por",
+        "Representación Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Responsibility": "eng",
+        "Responsible Artificial Intelligence": "eng",
+        "Responsabilidade Algorítmica": "por",
+        "Inteligência Artificial Responsável": "por",
+        "Responsabilidad Algorítmica": "spa",
+        "Inteligencia Artificial Responsable": "spa"
+    },
+    {
+        "Algorithmic Semiosis": "eng",
+        "Semiose Algorítmica": "por",
+        "Semiósis Algorítmica": "spa"
+    },
+    {
+        "Algorithmic Systems": "eng",
+        "Sistemas Algorítmicos": "por",
+        "Sistema Algorítmico": "spa"
+    },
+    {
+        "Algorithmic Transparency": "eng",
+        "Transparência Algoritmica": "por",
+        "Transparencia Algorítmica": "spa"
+    },
+    {
+        "Algorithmization": "eng",
+        "Algoritmização": "por",
+        "Algoritmización": "spa"
+    },
+    {
+        "Algorithmovigilance": "eng",
+        "Algorithm vigilance": "eng",
+        "Algorítmovigilância": "por",
+        "Algoritmo-Vigilancia": "spa"
+    },
+    {
+        "Algorithms": "eng",
+        "Algorítmos": "por",
+        "Algoritmos": "spa"
+    },
+    {
+        "Ambient Intelligence": "eng",
+        "Inteligência Ambiente": "por",
+        "Inteligencia Ambiental": "spa"
+    },
+    {
+        "Ambient Scribes": "eng",
+        "Escritores Ambientes": "por",
+        "Escriba Ambiental": "spa"
+    },
+    {
+        "Anchor-Free": "eng",
+        "Anchor-free object detection": "eng",
+        "“Sem Âncora”": "por"
+    },
+    {
+        "ANNIF": "eng"
+    },
+    {
+        "Anomaly Detection": "eng",
+        "Detecção De Anomalia": "por",
+        "Detección De Anomalías": "spa"
+    },
+    {
+        "Anomaly Detection And Recognition": "eng",
+        "Detecção E Reconhecimento De Anomalia": "por",
+        "Detección Y Reconocimiento De Anomalías": "spa"
+    },
+    {
+        "Answer Set Programming": "eng",
+        "ASP": "eng",
+        "Programação De Conjunto De Respostas": "por",
+        "Programación Por Conjuntos De Respuestas": "spa"
+    },
+    {
+        "Anthropomorphic Cues": "eng",
+        "Pistas Antropomórficas": "por",
+        "Indicios Antropomórficos": "spa"
+    },
+    {
+        "Anthropomorphic Design": "eng",
+        "Design Antropomórfico": "por",
+        "Diseño Antropomórfico": "spa"
+    },
+    {
+        "Anthropomorphism Increases Trust": "eng",
+        "Antropomorfismo Aumenta A Confiança": "por",
+        "Antropomorfismo Aumenta La Confianza": "spa"
+    },
+    {
+        "Application Of Artificial Intelligence": "eng",
+        "Artificial Intelligence Application": "eng",
+        "Aplicação De Inteligência Artificial": "por",
+        "Aplicação Da Inteligência Artificial": "por",
+        "Aplicación De La Inteligencia Artificial": "spa",
+        "Aplicación De Inteligencia Artificial": "spa"
+    },
+    {
+        "Application Programming Interfaces": "eng",
+        "APIS": "eng",
+        "API": "eng",
+        "Interface De Programação De Aplicações": "por",
+        "Interfaces De Programación De Aplicaciones": "spa"
+    },
+    {
+        "Arabic Word Embeddings": "eng",
+        "Embeddings De Palavras Em Árabe": "por",
+        "Incrustaciones De Palabras En Árabe": "spa"
+    },
+    {
+        "Argument Mining": "eng",
+        "Mineração De Argumentos": "por",
+        "Minería De Argumentos": "spa"
+    },
+    {
+        "Arima Model": "eng",
+        "Autoregressive Integrated Moving Average": "eng",
+        "Modelo Arima": "por"
+    },
+    {
+        "Artificial Consciousness": "eng",
+        "AC": "eng",
+        "Consciência Artificial": "por",
+        "Conciencia Artificial": "spa"
+    },
+    {
+        "Artificial General Intelligence": "eng",
+        "AGI": "eng",
+        "Inteligência Artificial Geral": "por",
+        "IAG": "por",
+        "Inteligencia Artificial General": "spa"
+    },
+    {
+        "Artificial Intelligence": "eng",
+        "AI": "eng",
+        "Intelligent Information Technology": "eng",
+        "Intelligent Technologies": "eng",
+        "Intelligent Machines": "eng",
+        "IIT": "eng",
+        "Inteligência Artificial": "por",
+        "IA": "por",
+        "Máquinas Inteligentes": "por",
+        "Tecnologia Inteligente Da Informação": "por",
+        "Tecnologias Inteligentes": "por",
+        "Inteligencia Artificial": "spa"
+    },
+    {
+        "AI Skills": "eng",
+        "Artificial Intelligence Abilities": "eng",
+        "Habilidades Da Inteligência Artificial": "por",
+        "Habilidades Da IA": "por",
+        "Habilidades De La Inteligencia Artificial": "spa",
+        "Habilidades De IA": "spa"
+    },
+    {
+        "Artificial Intelligence Acceptance Measurement Survey": "eng",
+        "Pesquisa De Medição De Aceitação De Inteligência Artificial": "por",
+        "Encuesta De Medición De La Aceptación De La Inteligencia Artificial": "spa"
+    },
+    {
+        "UTAUT": "eng",
+        "Unified Theory of Acceptance and Use of Technology": "eng"
+    },
+    {
+        "TAM": "eng",
+        "Technology Acceptance Model": "eng"
+    },
+    {
+        "Artificial Intelligence Adoption": "eng",
+        "Generative Artificial Intelligence Adoption": "eng",
+        "Adoção Da Inteligência Artificial Generativa": "por",
+        "Adoção Da Inteligência Artificial": "por",
+        "Adopción De La Inteligencia Artificial": "spa"
+    },
+    {
+        "AI Agents": "eng",
+        "Artificial Intelligence Agent": "eng",
+        "Synthetic Agent": "eng",
+        "Intelligent Agent": "eng",
+        "Personal Intelligent Agent": "eng",
+        "Agente Da Inteligência Artificial": "por",
+        "Agentes de IA": "por",
+        "Agente Sintético": "spa",
+        "Agente Inteligente": "por",
+        "Agente Pessoal Inteligente": "por",
+        "Agente De IA": "spa",
+        "Agente Inteligente Personal": "spa"
+    },
+    {
+        "Artificial Intelligence And Archives": "eng",
+        "Inteligência Artificial E Os Arquivos": "por",
+        "Inteligencia Artificial Y Archivos": "spa"
+    },
+    {
+        "Artificial Intelligence And Fake News": "eng",
+        "Association Between AI And Fake News Detection": "eng",
+        "Inteligência Artificial E As Fake News": "por",
+        "Associação Entre Ia E A Detecção De Fake News": "por",
+        "Inteligencia Artificial Y Fake News": "spa",
+        "Inteligencia Artificial Y Noticias Falsas": "spa",
+        "Asociación Entre La Inteligencia Artificial Y La Detección De Noticias Falsas": "spa"
+    },
+    {
+        "Artificial Intelligence Anxiety": "eng",
+        "AI Anxiety": "eng",
+        "Ansiedade Da Inteligência Artificial": "por",
+        "Ansiedad Por La IA": "spa"
+    },
+    {
+        "Artificial Intelligence Capabilities": "eng",
+        "Capacidades Da Inteligência Artificial": "por",
+        "Capacidades De IA": "spa"
+    },
+    {
+        "AI Based Chatbots": "eng",
+        "AI Chatbot": "eng",
+        "AI Driven Chatbot": "eng",
+        "AI-Powered Chatbots": "eng",
+        "Artificial Intelligence Chatbot": "eng",
+        "Chatbot Da Inteligência Artificial": "por",
+        "Chatbot De Inteligência Artificial": "por",
+        "Chatbots Com Tecnologia De IA": "por",
+        "Chatbot Orientado Por IA": "por",
+        "Chatbots Baseados Em IA": "por",
+        "Chatbot De IA": "spa",
+        "Chatbots Con Tecnología IA": "spa",
+        "Chatbot Impulsado Por IA": "spa",
+        "Chatbots Basados En IA": "spa"
+    },
+    {
+        "Artificial Intelligence Chatbots Technology Acceptance Model": "eng",
+        "Modelo De Aceitação De Tecnologia De Chatbots De Inteligência Artificial": "por",
+        "Modelo De Aceptación De Tecnología Para Chatbots De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Computational Methods": "eng",
+        "Métodos Computacionais De Inteligência Artificial": "por",
+        "Métodos Computacionales De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Creativity": "eng",
+        "Artificial Intelligence Creativity": "eng",
+        "Criatividade Artificial": "por",
+        "Criatividade Da Inteligência Artificial": "por",
+        "Creatividad Artificial": "spa",
+        "Creatividad De La Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Ethics": "eng",
+        "Éticas Da Inteligência Artificial": "por",
+        "Éticas En La IA": "spa"
+    },
+    {
+        "Artificial Intelligence Generated Content": "eng",
+        "AI Generated Content": "eng",
+        "AIGC": "eng",
+        "Conteúdo Gerado Por Inteligência Artificial": "por",
+        "Conteúdo Gerado Por IA": "por",
+        "Contenido Generado Por Inteligencia Artificial": "spa",
+        "Contenido Generado Por IA": "spa"
+    },
+    {
+        "AI Generated Content Tools": "eng",
+        "Artificial Intelligence Generated Content Tools": "eng",
+        "Ferramentas De Conteúdo Geradas Por IA": "por",
+        "Ferramentas De Conteúdo Gerado Por Inteligência Artificial": "por",
+        "Herramientas De Contenido Generado Por IA": "spa",
+        "Herramientas De Contenido Generado Por Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Governance": "eng",
+        "Governança De Inteligência Artificial": "por",
+        "Gobernanza De La Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Hype": "eng",
+        "Hype De IA": "por",
+        "Hipérbole De La IA": "spa"
+    },
+    {
+        "AI Implementation": "eng",
+        "Artificial Intelligence Implementation": "eng",
+        "Implementação De IA": "por",
+        "Implementação De Inteligência Artificial": "por",
+        "Implementación De IA": "spa",
+        "Implementación De La IA": "spa"
+    },
+    {
+        "Artificial Intelligence In African Libraries": "eng",
+        "Inteligência Artificial Nas Bibliotecas Africanas": "por",
+        "Inteligencia Artificial En Las Bibliotecas Africanas": "spa"
+    },
+    {
+        "Artificial Intelligence For Education": "eng",
+        "Artificial Intelligence In Education": "eng",
+        "AIED": "eng",
+        "Inteligência Artificial Para A Educação": "por",
+        "Inteligência Artificial Na Educação": "por",
+        "Inteligencia Artificial Para La Educación": "spa",
+        "AIed": "spa",
+        "IA En La Educación": "spa"
+    },
+    {
+        "Artificial Intelligence In Finance": "eng",
+        "Inteligência Artificial Nas Finanças": "por",
+        "Inteligencia Artificial En Finanzas": "spa"
+    },
+    {
+        "Artificial Intelligence In Higher Education": "eng",
+        "Inteligência Artificial No Ensino Superior": "por",
+        "IA En La Educación Superior": "spa"
+    },
+    {
+        "Artificial Intelligence In Libraries": "eng",
+        "Inteligência Artificial Nas Bibliotecas": "por",
+        "Inteligencia Artificial En Bibliotecas": "spa"
+    },
+    {
+        "Artificial Intelligence In Translation": "eng",
+        "Neural Machine Translation": "eng",
+        "NMT": "eng",
+        "Inteligência Artificial Na Tradução": "por",
+        "Tradução Automática Neural": "por",
+        "Inteligencia Artificial En La Traducción": "spa",
+        "Traducción Automática Neuronal": "spa"
+    },
+    {
+        "Artificial Intelligence Language Platforms": "eng",
+        "Plataformas De Linguagem Em Inteligência Artificial": "por",
+        "Plataformas De Lenguaje De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Information": "eng",
+        "Informação Da Inteligência Artificial": "por",
+        "Información Sobre Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Markup Language": "eng",
+        "Linguagem De Marcação De Inteligência Artificial": "por",
+        "Lenguaje De Marcado De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Methodologies": "eng",
+        "Metodologias Da Inteligência Artificial": "por",
+        "Metodologías De La Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Of Things": "eng",
+        "AIOT": "eng",
+        "Inteligência Artificial Das Coisas": "por",
+        "Inteligencia Artificial De Las Cosas": "spa"
+    },
+    {
+        "Artificial Intelligence Personal Assistant": "eng",
+        "Intelligent Assistant": "eng",
+        "Personal Intelligent Assistants": "eng",
+        "PIAS": "eng",
+        "Assistente Pessoal Da Inteligência Artificial": "por",
+        "Assistente Inteligente": "por",
+        "Assistente Pessoal Inteligente": "por",
+        "Asistente Personal De Inteligencia Artificial": "spa",
+        "Asistente Personal Inteligente": "spa",
+        "Asistente De IA": "spa"
+    },
+    {
+        "AI Platform": "eng",
+        "Artificial Intelligence Platform": "eng",
+        "Plataforma Da IA": "por",
+        "Plataforma Da Inteligência Artificial": "por",
+        "Plataforma De IA": "spa",
+        "Plataforma De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Policy": "eng",
+        "Políticas Da Inteligência Artificial": "por",
+        "Política De IA": "spa"
+    },
+    {
+        "Artificial Intelligence Raters": "eng",
+        "AI Raters": "eng",
+        "Avaliadores De Inteligência Artificial": "por",
+        "Calificador De Inteligencia Artificial": "spa"
+    },
+    {
+        "Artificial Intelligence Readiness": "eng",
+        "Prontidão Da Inteligência Artificial": "por",
+        "Preparación Para IA": "spa"
+    },
+    {
+        "Artificial Intelligence Regulation": "eng",
+        "Regulamento Da Inteligência Artificial": "por",
+        "Regulación De La IA": "spa"
+    },
+    {
+        "AI Safety": "eng",
+        "Artificial Intelligence Security": "eng",
+        "AI Security": "eng",
+        "Algorithmic Safety": "eng",
+        "Segurança Da Inteligência Artificial": "por",
+        "Segurança Da IA": "por",
+        "Segurança Algorítmica": "por",
+        "Seguridad Algorítmica": "spa",
+        "Seguridad De La Inteligencia Artificial": "spa",
+        "Seguridad De La IA": "spa"
+    },
+    {
+        "Artificial Intelligence Technologies": "eng",
+        "Artificial Intelligence Technology": "eng",
+        "Teconologias Da Inteligência Artificial": "por",
+        "Tecnologia Da Inteligência Artificial": "por",
+        "Tecnologías De Inteligencia Artificial": "spa",
+        "Tecnología De IA": "spa"
+    },
+    {
+        "Artificial Intelligence Threats": "eng",
+        "Ameaças Da Inteligência Artificial": "por",
+        "Amenazas De La IA": "spa"
+    },
+    {
+        "Artificial Intelligence Tools": "eng",
+        "AI Tools": "eng",
+        "Ferramentas Da Inteligência Artificial": "por",
+        "Herramientas De IA": "spa"
+    },
+    {
+        "AI Use": "eng",
+        "Artificial Intelligence Use": "eng",
+        "Uso De Inteligência Artificial": "por",
+        "Uso Da IA": "por",
+        "Uso De La Inteligencia Artificial": "spa",
+        "Uso De La IA": "spa"
+    },
+    {
+        "Artificial Internet Of Things": "eng",
+        "Internet Artificial Das Coisas": "por"
+    },
+    {
+        "Artificial Neural Network-Structural Equation Model": "eng",
+        "SEM-ANN": "eng",
+        "Rede Neural Artificial – Modelo De Equação Estrutural": "por",
+        "Modelo De Ecuaciones Estructurales-Redes Neuronales Artificiales": "spa"
+    },
+    {
+        "Artificial Neural Networks": "eng",
+        "ANN": "eng",
+        "Redes Neurais Artificiais": "por",
+        "Redes Neuronales Artificiales": "spa"
+    },
+    {
+        "Artificial Sophistry": "eng",
+        "Sofisma Artificial": "por",
+        "Sofística Artificial": "spa"
+    },
+    {
+        "Artificial Training Datasets Generation": "eng",
+        "Synthetic Data Generation": "eng",
+        "Geração De Conjuntos De Dados De Treinamento Artificial": "por",
+        "Generación De Conjuntos De Datos De Entrenamiento Artificiales": "spa"
+    },
+    {
+        "Aspect-Based Sentiment Analysis": "eng",
+        "Análise De Sentimento Baseada Em Aspectos": "por",
+        "Análisis De Sentimientos Basado En Aspectos": "spa"
+    },
+    {
+        "Aspect-Level Sentiment Classification": "eng",
+        "ALSC": "eng",
+        "Classificação De Sentimentos Em Nível De Aspecto": "por",
+        "Clasificación De Sentimientos A Nivel De Aspecto": "spa"
+    },
+    {
+        "Assisted Reasoning": "eng",
+        "Raciocínio Assistido": "por",
+        "Razonamiento Asistido": "spa"
+    },
+    {
+        "Attention Flow": "eng",
+        "Attention Mechanism": "eng",
+        "Fluxo De Atenção": "por",
+        "Mecanismo De Atenção": "por",
+        "Flujo De Atención": "spa",
+        "Mecanismo De Atención": "spa"
+    },
+    {
+        "Attention Networks": "eng",
+        "Redes De Atenção": "por",
+        "Redes De Atención": "spa"
+    },
+    {
+        "Attentional Bias": "eng",
+        "Viés De Atenção": "por",
+        "Sesgo Atencional": "spa"
+    },
+    {
+        "AI Attitudes": "eng",
+        "Attitudes Toward Artificial Intelligence": "eng",
+        "Atitudes Em Relação À Inteligência Artificial": "por",
+        "Atitudes Em Relação À IA": "por",
+        "Actitudes Hacia La Inteligencia Artificial": "spa",
+        "Actitudes Hacia La IA": "spa"
+    },
+    {
+        "Attitudes Toward Communicative AI": "eng",
+        "Atitudes Em Relação À Inteligência Artificial Comunicativa": "por",
+        "Actitudes Hacia La Ia Comunicativa": "spa"
+    },
+    {
+        "Attribute Compatibility-Aware Attention": "eng",
+        "ACAA": "eng",
+        "Compatibilidade De Atributos - Atenção Consciente": "por",
+        "Atención Consciente De La Compatibilidad De Atributos": "spa"
+    },
+    {
+        "Augmentation and Replacement": "eng",
+        "Augmentação e Substituição": "por",
+        "Aumento E Substituição": "por",
+        "Aumento Y Reemplazo": "spa"
+    },
+    {
+        "Augmentation Effect": "eng",
+        "Efeito De Augmentação": "por",
+        "Efeito de Aumento": "por",
+        "Efecto De Aumento": "spa"
+    },
+    {
+        "Sequence Augmentation": "eng",
+        "Aumento De Sequência": "por",
+        "Aumentación De Secuencias": "spa"
+    },
+    {
+        "Autoencoder": "eng",
+        "Autocodificador": "por"
+    },
+    {
+        "Automated Content Analysis": "eng",
+        "Análise De Conteúdo Automatizado": "por",
+        "Análisis Automático De Contenido": "spa"
+    },
+    {
+        "Automated Content Production": "eng",
+        "ACP": "eng",
+        "Produção De Conteúdo Automatizado": "por",
+        "Producción Automatizada De Contenido": "spa"
+    },
+    {
+        "Automated Decision-Making": "eng",
+        "ADM": "eng",
+        "Tomada De Decisão Automatizada": "por",
+        "Toma De Decisiones Automatizada": "spa"
+    },
+    {
+        "Automated Deduction": "eng",
+        "Dedução Automatizada": "por",
+        "Deducción Automática": "spa"
+    },
+    {
+        "Automated Fact-Checking": "eng",
+        "AFC": "eng",
+        "Checagem De Fatos Automatizada": "por",
+        "Verificación Automática De Hechos": "spa"
+    },
+    {
+        "Automated Hermeneutical Appropriation": "eng",
+        "Apropriação Hermenêutica Automatizada": "por",
+        "Apropiación Hermenéutica Automatizada": "spa"
+    },
+    {
+        "Automated Narratives": "eng",
+        "Narrativas Automatizadas": "por"
+    },
+    {
+        "Automated Subject Indexing": "eng",
+        "Indexação Automatizada De Assuntos": "por",
+        "Indexación Automática De Materias": "spa"
+    },
+    {
+        "Autonomous Systems": "eng",
+        "Sistemas Autônomos": "por",
+        "Sistemas Autónomos": "spa"
+    },
+    {
+        "Automated Text Summarization": "eng",
+        "ATS": "eng",
+        "Sumarização De Texto Automatizada": "por",
+        "Sumarización Automática De Textos": "spa"
+    },
+    {
+        "auto-classification": "eng",
+        "Automatic Classification": "eng",
+        "automated classification": "eng",
+        "Classificação Automática": "por",
+        "Clasificación Automática": "spa"
+    },
+    {
+        "Automatic Classification Number Assignment": "eng",
+        "Atribuição Automática De Número De Classificação": "por",
+        "Asignación Automática De Números De Clasificación": "spa"
+    },
+    {
+        "Automatic Construction Of Knowledge Graph": "eng",
+        "Construção Automática De Grafo De Conhecimento": "por",
+        "Construcción Automática De Grafos De Conocimiento": "spa"
+    },
+    {
+        "Automatic Detection": "eng",
+        "Detecção Automática": "por",
+        "Detección Automática": "spa"
+    },
+    {
+        "Automatic Indexing": "eng",
+        "Indexação Automática": "por",
+        "Indexación Automática": "spa"
+    },
+    {
+        "Automatic Keyphrase Extraction": "eng",
+        "Extração Automática De Frases-Chave": "por",
+        "Extracción Automática De Frases Clave": "spa"
+    },
+    {
+        "Automatic Keyphrase Generation": "eng",
+        "AKG": "eng",
+        "Geração Automática De Frases-Chave": "por",
+        "Generación Automática De Frases Clave": "spa"
+    },
+    {
+        "Automatic Questions Generation": "eng",
+        "AQG": "eng",
+        "Geração Automática De Perguntas": "por",
+        "Generación Automática De Preguntas": "spa"
+    },
+    {
+        "Automatic Segmentation": "eng",
+        "Segmentação Automática": "por",
+        "Segmentación Automática": "spa"
+    },
+    {
+        "Automatic Speech Recognition": "eng",
+        "ASR": "eng",
+        "Reconhecimento Automático De Fala": "por",
+        "Reconocimiento Automático De Voz": "spa"
+    },
+    {
+        "Automatic Text Simplification": "eng",
+        "ATS": "eng",
+        "Simplificação Automática De Texto": "por",
+        "Simplificación Automática De Texto": "spa"
+    },
+    {
+        "Automation Artificial Intelligence": "eng",
+        "Intelligent Automation": "eng",
+        "Automação Iteligente": "por",
+        "Automação De Inteligência Artificial": "por",
+        "Automatización De Inteligencia Artificial": "spa"
+    },
+    {
+        "Automation Bias": "eng",
+        "Viés De Automação": "por",
+        "Sesgo De La Automatización": "spa"
+    },
+    {
+        "Automation Tools": "eng",
+        "Ferramentas De Automação": "por",
+        "Herramientas De Automatización": "spa"
+    },
+    {
+        "AutoML": "eng",
+        "Automated Machine Learning": "eng",
+        "Auto Aprendizado De Máquina": "por",
+        "Aprendizaje Automático Automatizado": "spa"
+    },
+    {
+        "Autonomous Agency": "eng",
+        "Recommendation Agents": "eng",
+        "Autonomous Agent": "eng",
+        "Agente  Autônoma": "por",
+        "Agência Autônoma": "por",
+        "Agentes De Recomendação": "por",
+        "Agente Autónomo": "spa",
+        "Agente De Recomendación": "spa"
+    },
+    {
+        "Autonomous Multi-Agent System": "eng",
+        "AMAS": "eng",
+        "Sistema Multiagente Autônomo": "por",
+        "Sistema Autónomo Multi-Agente": "spa"
+    },
+    {
+        "Autonomous Shopping Systems": "eng",
+        "ASS": "eng",
+        "Sistemas De Compras Autônomos": "por",
+        "Sistemas De Compra Autónoma": "spa"
+    },
+    {
+        "Autonomous Technology": "eng",
+        "Tecnologia Autônoma": "por",
+        "Tecnología Autónoma": "spa"
+    },
+    {
+        "Back Propagation Neural Network": "eng",
+        "Backpropagation": "eng",
+        "BP Neural Network": "eng",
+        "Backpropagation neural network": "eng",
+        "Rede Neural BP": "por",
+        "Rede Neural De Retropropagação": "por",
+        "Red Neuronal Con Retropropagación": "spa",
+        "Red Neuronal BP": "spa"
+    },
+    {
+        "Backdoor Watermark": "eng",
+        "Marca D'água De Backdoor": "por",
+        "Backdoor": "spa"
+    },
+    {
+        "BARD": "eng"
+    },
+    {
+        "Barriers To Adopt AI": "eng",
+        "Barreiras Para Adotar A IA": "por",
+        "Barreras Para La Adopción De La Inteligencia Artificial": "spa"
+    },
+    {
+        "Basic Graph Pattern": "eng",
+        "BGP": "eng",
+        "Padrões Básicos De Grafo": "por"
+    },
+    {
+        "Bayesian Classifier Combination": "eng",
+        "BCC": "eng",
+        "Combinação De Classificadores Bayesianos": "por",
+        "Combinación De Clasificadores Bayesianos": "spa"
+    },
+    {
+        "Bayesian Inference": "eng",
+        "Inferência Bayesiana": "por",
+        "Inferencia Bayesiana": "spa"
+    },
+    {
+        "Bayesian Networks": "eng",
+        "BNs": "eng",
+        "Redes Bayesianas": "por"
+    },
+    {
+        "Bayesian Statistics": "eng",
+        "Estatísticas Bayesianas": "por",
+        "Estadística Bayesiana": "spa"
+    },
+    {
+        "Behavior Planning": "eng",
+        "Agent Planning": "eng",
+        "Planejamento De Comportamento": "por",
+        "Planificación De Comportamiento": "spa"
+    },
+    {
+        "Behavioral Intention": "eng",
+        "BI": "eng",
+        "Intenção Comportamental": "por",
+        "Intención De Comportamiento": "spa"
+    },
+    {
+        "Behavioral Reasoning Theory": "eng",
+        "BRT": "eng",
+        "Teoria Do Raciocínio Comportamental": "por",
+        "Teoría Del Razonamiento Conductual": "spa"
+    },
+    {
+        "Behavioral-Responses": "eng",
+        "Respostas Comportamentais": "por",
+        "Respuestas Conductuales": "spa"
+    },
+    {
+        "Benchmark Dataset": "eng",
+        "Conjunto De Dados De Benchmark": "por"
+    },
+    {
+        "BERT": "eng",
+        "Bidirectional Encoder Representations From Transformers": "eng"
+    },
+    {
+        "BERTopic": "eng"
+    },
+    {
+        "Bi-Directional Recurrent Neural Network": "eng",
+        "Bi-RNN": "eng"
+    },
+    {
+        "Bi-Directional Spatiotemporal-Aware": "eng",
+        "Espaço-Temporal Bidirecional Consciente": "por",
+        "Conciencia Espacio-Temporal Bidireccional": "spa"
+    },
+    {
+        "Bi-Hypergraph Network": "eng",
+        "Rede Bi-Hipergrafo": "por"
+    },
+    {
+        "Bi-Lstm": "eng",
+        "BiLSTM": "eng",
+        "Bidirectional Long Short-Term Memory": "eng",
+        "Memória De Longo E Curto Prazo Bidirecional": "por",
+        "Memoria Bidireccional A Largo Y Corto Plazo": "spa"
+    },
+    {
+        "Bias Detection": "eng",
+        "Detecção De Viés": "por",
+        "Detección De Sesgos": "spa"
+    },
+    {
+        "Bias Mitigation": "eng",
+        "Mitigação De Viés": "por",
+        "Mitigación De Sesgos": "spa"
+    },
+    {
+        "Bidimensional Networks": "eng",
+        "Redes Bidimensionais": "por",
+        "Redes bidimensionales": "spa"
+    },
+    {
+        "Big Data": "eng",
+        "Datos Masivos": "spa"
+    },
+    {
+        "Big Data Algorithm System": "eng",
+        "BDAS": "eng",
+        "Sistema De Algoritmo De Big Data": "por",
+        "Sistema Algorítmico Para Big Data": "spa"
+    },
+    {
+        "Big Data Analytics": "eng",
+        "BDA": "eng",
+        "Análises De Big Data": "por",
+        "Analítica De Big Data": "spa"
+    },
+    {
+        "Big Data Analytics Capability": "eng",
+        "Capacidades Analíticas De Big Data": "por",
+        "Capacidad De Analítica De Big Data": "spa"
+    },
+    {
+        "Big Data Capabilities": "eng",
+        "Capacidades De Big Data": "por"
+    },
+    {
+        "Big Data Privacy": "eng",
+        "Privacidade Em Big Data": "por",
+        "Privacidad En El Big Data": "spa"
+    },
+    {
+        "Big Data Research": "eng",
+        "Pesquisa Em Big Data": "por",
+        "Investigación De Big Data": "spa"
+    },
+    {
+        "Big Data Technology": "eng",
+        "Tecnologia De Big Data": "por",
+        "Tecnología de Big Data": "spa"
+    },
+    {
+        "Biometric Categorisation": "eng",
+        "Categorização Biométrica": "por",
+        "Categorización Biométrica": "spa"
+    },
+    {
+        "Blending-Target Domain Adaptation": "eng",
+        "Adaptação De Domínio De Alvo Misturado": "por",
+        "Adaptación De Dominio Con Objetivo Combinado": "spa"
+    },
+    {
+        "Blockchain": "eng",
+        "Ontologies Network": "eng",
+        "Rede De Ontologias": "por"
+    },
+    {
+        "Body Detection": "eng",
+        "Detecção De Corpos": "por",
+        "Detección Del Cuerpo": "spa"
+    },
+    {
+        "Book Rating Prediction": "eng",
+        "Previsão De Classificação De Livros": "por",
+        "Predicción De Calificación De Libros": "spa"
+    },
+    {
+        "Bootstrapping": "eng"
+    },
+    {
+        "Bubble Filters": "eng",
+        "Filtros De Bolha": "por",
+        "Burbuja De Filtros": "spa"
+    },
+    {
+        "CamemBERT": "eng"
+    },
+    {
+        "Candidate Record Pairs": "eng",
+        "Pares De Registros Candidatos": "por",
+        "Par De Registros Candidatos": "spa"
+    },
+    {
+        "Case-Based Reasoning": "eng",
+        "CBR": "eng",
+        "Raciocínio Baseado Em Casos": "por",
+        "RBC": "por",
+        "Razonamiento Basado En Casos": "spa"
+    },
+    {
+        "Causal Embedding": "eng",
+        "Embedding Causal": "por",
+        "Incorporação Causal": "por"
+    },
+    {
+        "Causal Knowledge Analytics": "eng",
+        "Análise De Conhecimento Causal": "por",
+        "Analítica de Conocimiento Causal": "spa"
+    },
+    {
+        "Causal Machine Learning": "eng",
+        "Causal AI": "eng",
+        "CML": "eng",
+        "Aprendizado De Máquina Causal": "por",
+        "Aprendizaje automático causal": "spa"
+    },
+    {
+        "Challenges In Implementing AI": "eng",
+        "Desafios Em Implementar A IA": "por",
+        "Desafíos de implementar la Inteligencia Artificial": "spa"
+    },
+    {
+        "Challenges To Adopt AI": "eng",
+        "Desafios Em Adotar A IA": "por",
+        "Desafíos para adoptar la IA": "spa"
+    },
+    {
+        "Character-Level Sequence-To-Sequence Model": "eng",
+        "Seq2seq": "eng",
+        "Modelo De Sequência Para Sequência Em Nível De Caractere": "por",
+        "Modelo de secuencia a secuencia a nivel de caracteres": "spa"
+    },
+    {
+        "Character-Recognition": "eng",
+        "ICR": "eng",
+        "Intelligent Character Recognition": "eng",
+        "OCR": "eng",
+        "Optical Character Recognition": "eng",
+        "Reconhecimento De Caracteres": "por",
+        "Reconocimiento de caracteres": "spa"
+    },
+    {
+        "Character-Word Embeddings": "eng",
+        "Embedding De Caractere-Palavra": "por"
+    },
+    {
+        "Characteristic Prompt": "eng",
+        "Prompt De Caracteres": "por",
+        "Prompt con características": "spa"
+    },
+    {
+        "Chat Dialogue Subsystems": "eng",
+        "Conversational Artificial Intelligence": "eng",
+        "Subsistemas De Diálogo De Chat": "por"
+    },
+    {
+        "Chatbot": "eng"
+    },
+    {
+        "Chatbot Adoption": "eng",
+        "Chatbot Use": "eng",
+        "Uso De Chatbot": "por",
+        "Adoção De Chatbot": "por",
+        "Uso de chatbots": "spa",
+        "Adopción de chatbots": "spa"
+    },
+    {
+        "Chatbot Affordances": "eng",
+        "Recursos Do Chatbot": "por",
+        "Las possibilidades de un chatbot": "spa"
+    },
+    {
+        "Chatbot Software": "eng",
+        "Software Do Chatbot": "por",
+        "Software de chatbot": "spa"
+    },
+    {
+        "Chatbot Support": "eng",
+        "Suporte Por Chatbot": "por",
+        "Bot de soporte": "spa"
+    },
+    {
+        "Chatbot-Human Interaction": "eng",
+        "Human-Chatbot Interaction": "eng",
+        "HCI": "eng",
+        "Interação Chatbot-Humano": "por",
+        "Interação Homem-Chatbot": "por",
+        "Interacción entre humanos y chatbots": "spa",
+        "Interacción entre un chatbot y un humano": "spa"
+    },
+    {
+        "ChatGPT": "eng"
+    },
+    {
+        "Chatgpt 4.0": "eng",
+        "Chatgpt-4": "eng",
+        "Gpt-4": "eng",
+        "Gpt-4o": "eng",
+        "omni": "eng",
+        "\"o\"": "eng"
+    },
+    {
+        "Chatgpt Adoption": "eng",
+        "Adoção De Chatgpt": "por",
+        "adopción de ChatGPT": "spa"
+    },
+    {
+        "Chatgpt Era": "eng",
+        "Era Do Chatgpt": "por",
+        "Era ChatGPT": "spa"
+    },
+    {
+        "Chatgpt In Libraries": "eng",
+        "Chatgpt Nas Bibliotecas": "por",
+        "Chatgpt en bibliotecas": "spa"
+    },
+    {
+        "Chatgpt Natural Language Processing": "eng",
+        "Processamento De Linguagem Natural Pelo Chatgpt": "por",
+        "Procesamiento del lenguaje natural Chatgpt": "spa"
+    },
+    {
+        "Chatgpt-3.5": "eng",
+        "Gpt-3. 5": "eng"
+    },
+    {
+        "Chatgpt4.5": "eng"
+    },
+    {
+        "Chatpdf": "eng"
+    },
+    {
+        "Classification AI": "eng",
+        "Inteligência Artificial De Classificação": "por",
+        "Clasificación con inteligencia artificial": "spa"
+    },
+    {
+        "Classification Algorithms": "eng",
+        "Algoritmos De Classificação": "por",
+        "Algoritmos de clasificación": "spa"
+    },
+    {
+        "Classification And Regression Tree (Cart) Model": "eng",
+        "Classification and Regression Tree": "eng",
+        "The CART model": "eng",
+        "Modelo De Árvore De Classificação E Regressão": "por",
+        "Modelo CART": "spa",
+        "Modelo Árbol de Clasificación y Regresión": "spa"
+    },
+    {
+        "Claude AI": "eng"
+    },
+    {
+        "Clip": "eng",
+        "Contrastive Language-Image Pre-training": "eng",
+        "Pré-Treinamento Contrastivo De Imagens E Linguagem": "por"
+    },
+    {
+        "Cloud-Based Artificial Intelligence": "eng",
+        "IA Baseada Em Nuvem": "por",
+        "inteligencia artificial basada en la nube": "spa"
+    },
+    {
+        "Cluster Analysis": "eng",
+        "Análise De Cluster": "por",
+        "análisis de clústeres": "spa"
+    },
+    {
+        "Cluster Weight Learning": "eng",
+        "Aprendizagem De Peso De Cluster": "por",
+        "Aprendizaje de pesos de clústeres": "spa"
+    },
+    {
+        "Clustering Algorithms": "eng",
+        "Algoritmos De Clusterização": "por",
+        "Algoritmos de clustering": "spa",
+        "Algoritmos de agrupamiento": "spa"
+    },
+    {
+        "Co-Clustering": "eng",
+        "biclustering": "eng",
+        "two-way clustering": "eng",
+        "Co-Clusterização De Blocos": "por",
+        "Biclusterização De Blocos": "por",
+        "Clusterização De Blocos": "por",
+        "Bi-clustering": "spa",
+        "Agrupamiento de dos modos": "spa"
+    },
+    {
+        "Cognition Modelling": "eng",
+        "Modelagem Cognitiva": "por",
+        "Modelagem Da Cognição": "por",
+        "Modelado Cognitivo": "spa"
+    },
+    {
+        "Cognitive Agent": "eng",
+        "Agente Cognitivo": "por"
+    },
+    {
+        "Cognitive Artificial Intelligence": "eng",
+        "Inteligência Artificial Cognitiva": "por",
+        "Inteligencia Artificial Cognitiva": "spa"
+    },
+    {
+        "Cognitive Clones": "eng",
+        "Digital Twins": "eng",
+        "Digital Twinning": "eng",
+        "Human Digital Twin": "eng",
+        "Mind clones": "eng",
+        "Thought clones": "eng",
+        "Clones Cognitivos": "por",
+        "Gêmeo Digital": "por",
+        "Gêmeo Digital Humano": "por",
+        "Gemelo Digital": "spa",
+        "Gemelos Digitales": "spa",
+        "Hermanamiento digital": "spa"
+    },
+    {
+        "AI-Human Collaboration": "eng",
+        "Collaboration With AI": "eng",
+        "Collaborative AI": "eng",
+        "Collaborative Artificial Intelligence Systems": "eng",
+        "Expert-AI Pairings": "eng",
+        "Human-Artificial Intelligence Collaboration": "eng",
+        "Human-Llm Collaboration": "eng",
+        "Human-Machine Hybridization": "eng",
+        "HAIC": "eng",
+        "human-AI pairing": "eng",
+        "human-AI collaboration": "eng",
+        "Human-Gai Collaboration": "eng",
+        "Colaboração Homem - Inteligencia Artificial Generativa": "por",
+        "Colaboração Com A IA": "por",
+        "Colaboração Homem-Inteligência Artificial": "por",
+        "Colaboração IA-Homem": "por",
+        "IA Colaborativa": "por",
+        "Colaboração Homem-Llm": "por",
+        "Sistemas Colaborativos De IA": "por",
+        "Emparelhamento De Especialistas E IA": "por",
+        "Hibridização Homem-Máquina": "por",
+        "Colaboración con IA": "spa",
+        "Colaboración Entre La IA Y Los Humanos": "spa",
+        "Colaboración entre humanos e inteligencia artificial generativa": "spa",
+        "Sistemas Colaborativos de Inteligencia Artificial": "spa",
+        "Emparejamientos Experto-IA": "spa"
+    },
+    {
+        "Communicative AI": "eng",
+        "IA Comunicativa": "por"
+    },
+    {
+        "Complex Activity Recognition": "eng",
+        "CAR": "eng",
+        "Reconhecimento De Atividade Complexa": "por",
+        "Reconocimiento de actividad compleja": "spa"
+    },
+    {
+        "Compulsive Use Of Chatgpt": "eng",
+        "Uso Compulsivo Do Chatgpt": "por",
+        "Uso compulsivo de ChatGPT": "spa"
+    },
+    {
+        "Concept Drift": "eng",
+        "Desvio De Conceito": "por",
+        "Deriva conceptual": "spa"
+    },
+    {
+        "Content Intelligence": "eng",
+        "Inteligência De Conteúdo": "por",
+        "Inteligência de Contenido": "spa"
+    },
+    {
+        "Content Ranking Algorithms": "eng",
+        "Algoritmos De Classificação De Conteúdo": "por",
+        "Algoritmos de clasificación de contenido": "spa"
+    },
+    {
+        "Contextual Window": "eng",
+        "Janela De Contexto": "por",
+        "Ventana contextual": "spa"
+    },
+    {
+        "Continual Graph Learning": "eng",
+        "CGL": "eng",
+        "Aprendizagem De Gráficos Contínuos": "por",
+        "Aprendizaje continuo de grafos": "spa"
+    },
+    {
+        "Continuity Prediction": "eng",
+        "Previsão De Continuidade": "por",
+        "Predicción de Continuidad": "spa"
+    },
+    {
+        "Contrastive Learning": "eng",
+        "Aprendizagem Contrastiva": "por",
+        "Aprendizaje Contrastivo": "spa"
+    },
+    {
+        "Conversational Agent": "eng",
+        "Intelligent Conversational Agents": "eng",
+        "CA": "eng",
+        "Agente De Conversação": "por",
+        "Agente Conversacionais Inteligentes": "por",
+        "Agente Conversacional": "spa"
+    },
+    {
+        "Conversational Recommender System": "eng",
+        "CRS": "eng",
+        "Sistema De Recomendação Conversacional": "por",
+        "Sistema de recomendación conversacional": "spa"
+    },
+    {
+        "Conversational User Interface": "eng",
+        "Interface De Usuário Conversacional": "por",
+        "Interfaz de usuario conversacional": "spa"
+    },
+    {
+        "Convolutional Neural Network": "eng",
+        "Cnn": "eng",
+        "Convnet": "eng",
+        "Rede Neural Convolucional": "por",
+        "Red neuronal convolucional": "spa"
+    },
+    {
+        "COPILOT": "eng"
+    },
+    {
+        "Cosine Similarity": "eng",
+        "Similaridade De Cosseno": "por",
+        "Similitud de coseno": "spa"
+    },
+    {
+        "Count Prediction": "eng",
+        "Previsão De Contagem": "por",
+        "Predicción de conteo": "spa"
+    },
+    {
+        "Critical AI Studies": "eng",
+        "Estudos Críticos De IA": "por",
+        "Estudios críticos de IA": "spa"
+    },
+    {
+        "Critical Artificial Intelligence Literacy": "eng",
+        "Alfabetização Em Inteligência Artificial Crítica": "por",
+        "Conocimiento crítico de inteligencia artificial": "spa"
+    },
+    {
+        "Cross Modal Fusion": "eng",
+        "Fusão Multissensorial": "por",
+        "Fusión intermodal": "spa"
+    },
+    {
+        "Cross Modal Retrieval": "eng",
+        "CMR": "eng",
+        "Recuperação Intermodal": "por",
+        "Recuperación intermodal": "spa"
+    },
+    {
+        "Cross-Lingual Text Embedding": "eng",
+        "Embedding De Texto Interlinguístico": "por",
+        "Incrustación de texto multilingüe": "spa"
+    },
+    {
+        "Cross-Modal Alignment": "eng",
+        "Alinhamento Intermodal": "por",
+        "Alineación intermodal": "spa"
+    },
+    {
+        "Ctr Prediction": "eng",
+        "Click-Through Rate Prediction": "eng",
+        "Previsão Da Taxa De Cliques": "por",
+        "Predicción de CTR": "spa",
+        "Predicción de tasa de clics": "spa",
+        "CTR": "spa"
+    },
+    {
+        "Cyber Profiling": "eng",
+        "Perfil Cibernético": "por",
+        "Perfiles cibernéticos": "spa"
+    },
+    {
+        "Cybersecurity Analytics": "eng",
+        "Análise De Cibersegurança": "por",
+        "Análisis de ciberseguridad": "spa"
+    },
+    {
+        "Dall-E 2": "eng"
+    },
+    {
+        "Data Augmentation": "eng",
+        "Augumentação De Dados": "por",
+        "Aumento de Datos": "spa"
+    },
+    {
+        "Data Bias": "eng",
+        "Viés De Dados": "por",
+        "Sesgo de Datos": "spa"
+    },
+    {
+        "Data Imbalance": "eng",
+        "Unbalanced Data": "eng",
+        "Dados Desbalanceados": "por",
+        "Desequilíbrio De Dados": "por",
+        "Datos Desequilibrados": "spa",
+        "Desequilibrio de Datos": "spa"
+    },
+    {
+        "Data Labeling": "eng",
+        "Data Annotation": "eng",
+        "Rotulagem De Dados": "por",
+        "Etiquetado de Datos": "spa"
+    },
+    {
+        "Data Mining": "eng",
+        "Data Mining Systems": "eng",
+        "DMS": "eng",
+        "Mineração De Dados": "por",
+        "Sistema De Mineração De Dados": "por",
+        "Minería de Datos": "spa",
+        "Sistemas de Minería de Datos": "spa"
+    },
+    {
+        "Data-Centric Artificial Intelligence": "eng",
+        "DCAI": "eng",
+        "Data-Centric AI": "eng",
+        "Inteligência Artificial Centrada Em Dados": "por",
+        "Inteligencia Artificial Centrada en Datos": "spa"
+    },
+    {
+        "Dataset Shift": "eng",
+        "Mudança De Conjunto De Dados": "por",
+        "Cambio de Conjunto de Datos": "spa"
+    },
+    {
+        "Decentralized Intelligence": "eng",
+        "DeAI": "eng",
+        "Inteligência Descentralizada": "por",
+        "Inteligencia Descentralizada": "spa"
+    },
+    {
+        "Decision Tree": "eng",
+        "Árvore De Decisão": "por",
+        "Árbol de Decisión": "spa"
+    },
+    {
+        "Deep Deterministic Policy Gradient": "eng",
+        "DDPG": "eng",
+        "Gradiente De Política Determinística Profunda": "por",
+        "Gradiente de Política Determinista Profundo": "spa"
+    },
+    {
+        "Deep Active Learning": "eng",
+        "DAL": "eng",
+        "Aprendizagem Ativa Profunda": "por",
+        "Aprendizaje Activo Profundo": "spa"
+    },
+    {
+        "Deep Belief Networks": "eng",
+        "DBNS": "eng",
+        "Redes De Crenças Profundas": "por",
+        "Redes de Creencias Profundas": "spa"
+    },
+    {
+        "Deep Knowledge Tracing": "eng",
+        "DKT": "eng",
+        "Rastreamento De Conhecimento Profundo": "por",
+        "Rastreo de Conocimiento Profundo": "spa"
+    },
+    {
+        "Deep Learning": "eng",
+        "Aprendizado profundo": "por",
+        "Aprendizaje Profundo": "spa"
+    },
+    {
+        "Deep Learning Model": "eng"
+    },
+    {
+        "Deep Multi-View Clustering": "eng",
+        "DMVC": "eng",
+        "Clustering Multi Visual Profundo": "por",
+        "Agrupamiento Multivista Profundo": "spa",
+        "Agrupamiento profundo de múltiples vistas": "spa"
+    },
+    {
+        "Deep Neural Network": "eng",
+        "DNN": "eng",
+        "Rede Neural Profunda": "por",
+        "Red neuronal profunda": "spa"
+    },
+    {
+        "Deep Reinforcement Learning": "eng",
+        "DRL": "eng",
+        "Aprendizagem Por Reforço Profundo": "por",
+        "Aprendizaje por Refuerzo Profundo": "spa"
+    },
+    {
+        "Deepfake": "eng"
+    },
+    {
+        "Deepfake Videos": "eng",
+        "Vídeos Deepfake": "por"
+    },
+    {
+        "DeepSeek": "eng"
+    },
+    {
+        "Deepseek R1": "eng"
+    },
+    {
+        "Denoising Autoencoder": "eng",
+        "DAE": "eng",
+        "Autocodificador de Denoising": "spa",
+        "Autocodificador de eliminación de ruido": "spa"
+    },
+    {
+        "Diagnosis Through Artificial Intelligence": "eng",
+        "Diagnóstico Por Inteligência Artificial": "por",
+        "Diagnóstico mediante Inteligencia Artificial": "spa"
+    },
+    {
+        "Diffusion Kernel Attention Network": "eng",
+        "DKAN": "eng",
+        "Rede De Atenção Do Núcleo De Difusão": "por",
+        "Red de Atención de Núcleo de Difusión": "spa"
+    },
+    {
+        "Diffusion Models": "eng",
+        "AI Diffusion": "eng",
+        "Difusão De IA": "por",
+        "Modelos De Difusão": "por",
+        "Difusión De IA": "spa",
+        "Modelos de Difusión": "spa"
+    },
+    {
+        "Digital Assistants": "eng",
+        "Assistentes Digitais": "por",
+        "Asistentes Digitales": "spa"
+    },
+    {
+        "Digital Human": "eng",
+        "Humano Digital": "por"
+    },
+    {
+        "Digital-Intelligence Transformation": "eng",
+        "DIT": "eng",
+        "Transformação Da Inteligência Digital": "por",
+        "Transformación de Inteligencia Digital": "spa"
+    },
+    {
+        "Dilated Convolution Autoencoder Network": "eng",
+        "DCAE": "eng",
+        "Di-Conv-Ae-Net": "eng",
+        "Rede De Autoencodificador De Convolução Dilatada": "por",
+        "Red de autocodificador de convolución dilatada": "spa"
+    },
+    {
+        "Discrimination-Aware Decision Tree": "eng",
+        "Árvore De Decisão Com Consciência De Discriminação": "por",
+        "Árbol de decisión con conciencia de discriminación": "spa",
+        "Árbol de decisiones consciente de la discriminación": "spa"
+    },
+    {
+        "Disentangled Representation Learning": "eng",
+        "Aprendizagem De Representação Desembaraçada": "por",
+        "Aprendizaje de representación desenredada": "spa"
+    },
+    {
+        "Disruptive Innovation": "eng",
+        "Inovação Disruptiva": "por",
+        "Innovación disruptiva": "spa"
+    },
+    {
+        "Disruptive Technology": "eng",
+        "DT": "eng",
+        "Tecnologia Disruptiva": "por",
+        "Tecnología disruptiva": "spa"
+    },
+    {
+        "Domain Adaptation": "eng",
+        "Adaptação De Domínio": "por",
+        "Adaptación de dominio": "spa",
+        "Adaptación del dominio": "spa"
+    },
+    {
+        "Domain-Specific Pre-Training": "eng",
+        "DSPT": "eng",
+        "Pré-Treinamento Específico De Domínio": "por",
+        "Preentrenamiento específico de dominio": "spa"
+    },
+    {
+        "Dynamic Argumentation Feedback": "eng",
+        "Feedback De Argumentação Dinâmica": "por",
+        "Retroalimentación de argumentación dinámica": "spa"
+    },
+    {
+        "Dynamic Graph Learning": "eng",
+        "DGL": "eng",
+        "Aprendizagem De Grafos Dinâmicos": "por",
+        "Aprendizaje de grafos dinámicos": "spa"
+    },
+    {
+        "Gpt-3": "eng",
+        "Chatgpt-3": "eng",
+        "Generative Pre-trained Transformer 3": "eng"
+    },
+    {
+        "Dynamic Logits Distortion": "eng",
+        "Distorção Dinâmica De Logits": "por",
+        "Distorsión logit dinámica": "spa",
+        "Distorsión de los logits dinámicos": "spa"
+    },
+    {
+        "Dynamic Modality Gate": "eng",
+        "Modalidade Dinâmica De Controle Em IA": "por",
+        "Puerta de modalidad dinámica": "spa"
+    },
+    {
+        "Dynamic Nucleus Sampling": "eng",
+        "Top-p sampling": "eng",
+        "Amostragem Top-P Dinâmica": "por",
+        "Amostragem Dinâmica de Núcleos": "por",
+        "Muestreo de núcleo dinámico": "spa",
+        "Muestreo dinámico de núcleos": "spa"
+    },
+    {
+        "Dynamic Ontology Update": "eng",
+        "Atualização De Ontologia Dinâmica": "por",
+        "Actualización de ontología dinámica": "spa"
+    },
+    {
+        "Dynamic Topic Modeling": "eng",
+        "DTM": "eng",
+        "Modelagem De Tópicos Dinâmicos": "por",
+        "Modelado de tópicos dinámicos": "spa"
+    },
+    {
+        "Dynamic Word Embedding": "eng",
+        "Embedding De Palavras Dinâmico": "por",
+        "Incrustaciones dinámicas de palabras": "spa"
+    },
+    {
+        "Economic Value Of Artificial Intelligence": "eng",
+        "Valor Econômico Da Inteligência Artificial": "por",
+        "Valor económico de la inteligencia artificial": "spa"
+    },
+    {
+        "Editorial Artificial-Intelligence": "eng",
+        "Editorial De IA": "por",
+        "Editorial sobre inteligencia artificial": "spa"
+    },
+    {
+        "Edge AI": "eng",
+        "IA De Ponta": "por",
+        "IA de borde": "spa"
+    },
+    {
+        "Effects Of AI On Libraries": "eng",
+        "Efeitos Da IA Nas Bibliotecas": "por",
+        "Efectos de la IA en las bibliotecas": "spa"
+    },
+    {
+        "Eliza": "eng"
+    },
+    {
+        "Embeddings": "eng",
+        "Incrustaciones": "spa"
+    },
+    {
+        "Embodied Artificial Intelligence": "eng",
+        "EAI": "eng",
+        "Embodied AI": "eng",
+        "Inteligência Artificial Incorporada": "por",
+        "Inteligencia Artificial Encarnada": "spa"
+    },
+    {
+        "Embodied Human Language Model": "eng",
+        "EHLM": "eng",
+        "Modelo De Linguagem Humana Incorporada": "por",
+        "Modelo de Lenguaje Humano Encarnado": "spa"
+    },
+    {
+        "Emotion Prompt": "eng",
+        "Prompt Emocional": "por",
+        "Incitación de Emociones": "spa"
+    },
+    {
+        "Entity Linking": "eng",
+        "Entity Disambiguation": "eng",
+        "Entity Normalization": "eng",
+        "EL": "eng",
+        "Ligação De Entidades": "por",
+        "Vinculación de entidades": "spa"
+    },
+    {
+        "Entity Recognition Model": "eng",
+        "Modelo De Reconhecimento De Entidades": "por",
+        "Reconhecimento De Entidade Nomeada": "por",
+        "Modelo de Reconocimiento de Entidades": "spa",
+        "Reconocimiento De Entidades Nombradas": "spa"
+    },
+    {
+        "Entity Relation Extraction": "eng",
+        "Relationship Extraction": "eng",
+        "ERE": "eng",
+        "Extração De Entidades E Relacionamentos": "por",
+        "Extração De Relacionamento": "por",
+        "Extracción de Relación de Entidades": "spa",
+        "Extracción de Relaciones": "spa"
+    },
+    {
+        "Epistemology And Ethics Of ML": "eng",
+        "Epistemologia E Ética Do Aprendizado De Máquina": "por",
+        "Epistemología y Ética del Aprendizaje Automático": "spa"
+    },
+    {
+        "ERNIE": "eng",
+        "Enhanced Representation Through Knowledge Integration": "eng",
+        "ERNIE BOT": "eng",
+        "Representação Aprimorada Através Da Integração De Conhecimento": "por",
+        "Representación Mejorada a través de la Integración del Conocimiento": "spa"
+    },
+    {
+        "Ethical Artificial Intelligence": "eng",
+        "Inteligência Artificial Ética": "por",
+        "Inteligencia Artificial Ética": "spa"
+    },
+    {
+        "Ethical Implications Of AI": "eng",
+        "Implicações Éticas Da IA": "por",
+        "Implicaciones éticas de la IA": "spa"
+    },
+    {
+        "Ethical Machine Learning": "eng",
+        "Aprendizado De Máquina Ético": "por",
+        "Aprendizaje Automático Ético": "spa"
+    },
+    {
+        "Ethics -Based AI Auditing": "eng",
+        "Auditoria De IA Baseada Em Ética": "por",
+        "Auditoría de IA Basada en la Ética": "spa"
+    },
+    {
+        "Ethics Of Algorithms": "eng",
+        "Ética Dos Algorítmos": "por",
+        "Ética de los Algoritmos": "spa"
+    },
+    {
+        "Event Extraction": "eng",
+        "EE": "eng",
+        "Extração De Eventos": "por",
+        "Extracción de Eventos": "spa"
+    },
+    {
+        "Event Graph": "eng",
+        "Event Knowledge Graph": "eng",
+        "Grafo De Eventos": "por"
+    },
+    {
+        "Event Relation Extraction": "eng",
+        "ERE": "eng",
+        "Extração De Relação De Evento": "por",
+        "Extracción de Relación de Eventos": "spa"
+    },
+    {
+        "Evidential Regression": "eng",
+        "Regressão De Evidências": "por",
+        "Regresión Evidencial": "spa"
+    },
+    {
+        "Evolutionary Algorithms": "eng",
+        "Algoritmos Evolucionários": "por",
+        "Algoritmos Evolutivos": "spa"
+    },
+    {
+        "Explainable Artificial Intelligence": "eng",
+        "Explainability AI": "eng",
+        "Explainable Machine Learning": "eng",
+        "Explained Artificial Intelligence": "eng",
+        "Interpretable AI": "eng",
+        "XAI": "eng",
+        "Explicabilidade Da IA": "por",
+        "IA Explicável": "por",
+        "IA Explicada": "por",
+        "Aprendizado De Máquina Explicável": "por",
+        "IA Interpretável": "por",
+        "IA de Explicabilidad": "spa",
+        "Inteligencia Artificial Explicada": "spa",
+        "Inteligencia Artificial Explicable": "spa",
+        "Aprendizaje Automático Explicable": "spa",
+        "IA interpretable": "spa"
+    },
+    {
+        "Factor Model Of LLMs Dependence": "eng",
+        "Modelo Fatorial De Dependência De LLMs": "por",
+        "Modelo Factorial de Dependencia Llms": "spa"
+    },
+    {
+        "Factored Model": "eng",
+        "Factored representation": "eng",
+        "Modelo Fatorado": "por",
+        "Modelo factorizado": "spa"
+    },
+    {
+        "FAIR": "eng",
+        "Fair Data": "eng",
+        "Fairness": "eng",
+        "Findable, Accessible, Interoperable, and Reusable": "eng",
+        "Dados Fair": "por",
+        "Datos justos": "spa"
+    },
+    {
+        "Fairness Metrics": "eng",
+        "Métricas Justas": "por",
+        "Métricas de imparcialidad": "spa"
+    },
+    {
+        "Fairness Techniques": "eng",
+        "Técnicas Justas": "por",
+        "Técnicas de imparcialidad": "spa"
+    },
+    {
+        "Feature Detection": "eng",
+        "Detecção De Características": "por",
+        "Detección de características": "spa"
+    },
+    {
+        "Feature Extraction": "eng",
+        "Extração De Características": "por",
+        "Extracción de características": "spa"
+    },
+    {
+        "Feature Selection": "eng",
+        "Feature-Selection Method": "eng",
+        "Seleção De Características": "por",
+        "Método De Seleção De Características": "por",
+        "Selección de características": "spa",
+        "Método de selección de características": "spa"
+    },
+    {
+        "Few-Shot Learning": "eng",
+        "Aprendizado de poucos disparos": "por",
+        "Aprendizaje de pocas oportunidades": "spa"
+    },
+    {
+        "Fomo-AI": "eng",
+        "Fear Of Missing Out-AI": "eng",
+        "Fear Of Missing Out on Artificial Intelligence": "eng",
+        "Fomo": "eng",
+        "Fomo IA": "por",
+        "Miedo a perderse algo": "spa"
+    },
+    {
+        "Formal Ontology": "eng",
+        "Ontologia Formal": "por",
+        "Ontología formal": "spa"
+    },
+    {
+        "FP-Growth": "eng",
+        "Frequent Pattern Growth": "eng",
+        "Algoritmo de Crescimento de Padrões Frequentes": "por",
+        "Algoritmo de crecimiento de patrones frecuentes": "spa"
+    },
+    {
+        "Framing Of AI": "eng",
+        "Enquadramento Da IA": "por",
+        "Enmarcado de IA": "spa"
+    },
+    {
+        "Frequent Itemset Mining": "eng",
+        "FIM": "eng",
+        "Mineração De Itens Frequentes": "por",
+        "Minería frecuente de conjuntos de elementos": "spa"
+    },
+    {
+        "Friendly AGI": "eng",
+        "FAI": "eng",
+        "Friendly AI": "eng",
+        "Friendly artificial intelligence": "eng",
+        "Inteligência Artificial Geral Amigável": "por",
+        "Inteligencia Artificial General Amigable": "spa"
+    },
+    {
+        "Fuzzy Associative Memory Neural Networks": "eng",
+        "FAM": "eng",
+        "Redes Neurais De Memória Associativa Fuzzy": "por",
+        "Redes neuronales de memoria asociativa difusa": "spa"
+    },
+    {
+        "GAI Contextualisation": "eng",
+        "Contextualização Da Inteligência Artificial Generativa": "por",
+        "Contextualización de la Inteligencia Artificial Generativa": "spa"
+    },
+    {
+        "Gated Network": "eng",
+        "Rede Neural Fechada": "por",
+        "Red cerrada": "spa"
+    },
+    {
+        "Gaussian Mixture Model": "eng",
+        "Gaussian Mixture Modelling": "eng",
+        "Modelo De Mistura Gaussiana": "por",
+        "Modelagem De Mistura Gaussiana": "por",
+        "Modelo de mezcla gaussiana": "spa",
+        "Modelado de mezcla gaussiana": "spa"
+    },
+    {
+        "Gemini": "eng",
+        "Google Gemini": "eng"
+    },
+    {
+        "Generative Artificial Intelligence disclosure": "eng",
+        "GenAI Disclosure": "eng",
+        "Divulgação Da GenAI": "por",
+        "Divulgación de GenAI": "spa"
+    },
+    {
+        "GenAI Integration In Organizations": "eng",
+        "Integração Da GenAI Em Organizações": "por",
+        "Integración de GenAI en las organizaciones": "spa"
+    },
+    {
+        "GenAI Products": "eng",
+        "Produtos Da Genai": "por",
+        "Productos GenAI": "spa"
+    },
+    {
+        "GenAI-Chatbot": "eng",
+        "Chatbot De Genai": "por"
+    },
+    {
+        "Gender Differences In AI Literacy": "eng",
+        "Diferenças De Gênero No Aprendizado De IA": "por",
+        "Diferencias de género en la alfabetización en IA": "spa"
+    },
+    {
+        "General Regression Neural Network": "eng",
+        "GRNN": "eng",
+        "Rede Neural De Regressão Generalizada": "por",
+        "Red neuronal de regresión general": "spa"
+    },
+    {
+        "Generation Prompt": "eng",
+        "Prompt De Geração": "por",
+        "Aviso de generación": "spa"
+    },
+    {
+        "Generative Adversarial Network": "eng",
+        "GAN": "eng",
+        "Rede adversarial generativa": "por",
+        "Red generativa antagónica": "spa"
+    },
+    {
+        "Generative AI Abuse": "eng",
+        "Abuso De IA Generativa": "por"
+    },
+    {
+        "Generative AI In Education": "eng",
+        "IA Generativa Na Educação": "por",
+        "IA generativa en la educación": "spa"
+    },
+    {
+        "Generative Artificial Intelligence": "eng",
+        "GenAI": "eng",
+        "GAI": "eng",
+        "Generative Mechanisms": "eng",
+        "Inteligência Artificial Generativa": "por",
+        "Mecanismos Generativos": "por",
+        "Inteligencia artificial generativa": "spa"
+    },
+    {
+        "Large Language Model": "eng",
+        "LLM": "eng",
+        "Generative Language Models": "eng",
+        "Generative Artificial Intelligence Language Models": "eng",
+        "Generative Large Language Model": "eng",
+        "Modelo de Linguagem de Grande Escala": "por",
+        "Modelos De Linguagem Da Inteligência Artificial Generativa": "por",
+        "Modelos De Linguagem Generativa": "por",
+        "Modelo Grande De Linguagem Generativa": "por",
+        "Modelo Grande De Linguagem": "por",
+        "Modelos de lenguaje de inteligencia artificial generativa": "spa",
+        "Modelo de lenguaje grande": "spa",
+        "Modelos de lenguaje generativa": "spa",
+        "Gran Modelo de Lenguaje Generativa": "spa",
+        "Gran Modelo de Lenguaje": "spa"
+    },
+    {
+        "Affective Event": "eng",
+        "Evento Afetivo": "por",
+        "Eventos Afectivos": "spa"
+    },
+    {
+        "Meta-Learning": "eng",
+        "Meta-Aprendizado": "por",
+        "Metaaprendizaje": "spa"
+    },
+    {
+        "Generative Design": "eng",
+        "Design Generativo": "por",
+        "Diseño generativo": "spa"
+    },
+    {
+        "Generative Imagery": "eng",
+        "Imagens Generativas": "por",
+        "Imágenes generativas": "spa"
+    },
+    {
+        "Generative Machine Learning": "eng",
+        "Aprendizado De Máquina Generativa": "por",
+        "Aprendizaje automático generativo": "spa"
+    },
+    {
+        "Generative Neural Network": "eng",
+        "GNN": "eng",
+        "Rede Neural Generativa": "por",
+        "Red neuronal generativa": "spa"
+    },
+    {
+        "Generative Poetry": "eng",
+        "Poesia Generativa": "por",
+        "Poesía generativa": "spa"
+    },
+    {
+        "Generative Storytelling": "eng",
+        "Contação De História Generativa": "por",
+        "Narración generativa": "spa"
+    },
+    {
+        "Generative Text": "eng",
+        "Texto Generativo": "por"
+    },
+    {
+        "Genetic Algorithm": "eng",
+        "Algoritmo Genético": "por"
+    },
+    {
+        "Ghostbots": "eng",
+        "griefbots": "eng",
+        "digital reincarnations": "eng",
+        "Bots Fantasma": "por",
+        "Robots fantasma": "spa"
+    },
+    {
+        "Github Copilot": "eng"
+    },
+    {
+        "Generative Pre-Trained Transformer": "eng",
+        "Generative Transformers": "eng",
+        "Gpt": "eng",
+        "Transforme Pré-Treinado Generativo": "por",
+        "Transformers Generativos": "por"
+    },
+    {
+        "Gpt Models": "eng",
+        "Pre-Trained Model": "eng",
+        "Generative Pre-Trained Model": "eng",
+        "Modelo Pré-Treinado Generativo": "por",
+        "Modelo Pré-Treinado": "por",
+        "Modelos Gpt": "por"
+    },
+    {
+        "Gpt-2": "eng"
+    },
+    {
+        "Graph Artificial Intelligence": "eng",
+        "Inteligência Artificial De Grafo": "por",
+        "Inteligencia Artificial de Grafos": "spa"
+    },
+    {
+        "Grad-Cam": "eng",
+        "Mapeamento De Ativação De Classe Ponderada Por Gradiente": "por",
+        "Mapeo de activación de clases ponderado por gradiente": "spa"
+    },
+    {
+        "Gpt-3.5-Turbo": "eng"
+    },
+    {
+        "Graph Attention Network": "eng",
+        "GAT": "eng",
+        "Rede De Atenção De Grafo": "por",
+        "Red de atención gráfica": "spa"
+    },
+    {
+        "Graph Contrastive Learning": "eng",
+        "GCL": "eng",
+        "Aprendizagem Contrastiva De Grafos": "por",
+        "Aprendizaje contrastivo de grafos": "spa"
+    },
+    {
+        "Graph Convolutional Network": "eng",
+        "Graphical Convolutional Networks": "eng",
+        "GCN": "eng",
+        "Rede Convolucional De Grafos": "por",
+        "Rede Convolucionais Gráficas": "por",
+        "Red convolucional de grafos": "spa",
+        "Red convolucional de gráficos": "spa"
+    },
+    {
+        "Graph Deep Learning": "eng",
+        "Aprendizado Profundo De Grafos": "por",
+        "Aprendizaje profundo de gráficos": "spa"
+    },
+    {
+        "Graph KAG": "eng",
+        "Knowledge-Augmented Graph": "eng",
+        "Grafo De Conhecimento Aumentado": "por",
+        "Gráfico aumentado por conocimiento": "spa"
+    },
+    {
+        "Graph Neural Networks": "eng",
+        "Redes Neurais De Grafo": "por",
+        "Redes neuronales gráficas": "spa"
+    },
+    {
+        "Graph Representation": "eng",
+        "Representação De Grafos": "por",
+        "Representación gráfica": "spa"
+    },
+    {
+        "Graph Representation Learning": "eng",
+        "GRL": "eng",
+        "Aprendizagem Por Representação De Grafos": "por",
+        "Aprendizaje de la representación gráfica": "spa"
+    },
+    {
+        "Green AI": "eng",
+        "IA Verde": "por"
+    },
+    {
+        "Gudermannian Neural Networks": "eng",
+        "Rede Neural De Gudermannian": "por",
+        "Redes neuronales de Gudermann": "spa"
+    },
+    {
+        "Hallucination Mitigation": "eng",
+        "Mitigação De Alucinação": "por",
+        "Mitigación de alucinaciones": "spa"
+    },
+    {
+        "Hallucinations": "eng",
+        "Alucinações": "por",
+        "Alucinaciones": "spa"
+    },
+    {
+        "Handwriting Text Recognition": "eng",
+        "HTR": "eng",
+        "HWR": "eng",
+        "Handwriting Recognition": "eng",
+        "ICR": "eng",
+        "Intelligent Character Recognition": "eng",
+        "Reconhecimento De Texto Escrito À Mão": "por",
+        "Reconocimiento de texto escrito a mano": "spa"
+    },
+    {
+        "Heterogeneous Graph Neural Network": "eng",
+        "HGNN": "eng",
+        "Rede Neural De Grafos Heterogêneos": "por",
+        "Red neuronal de grafos heterogéneos": "spa"
+    },
+    {
+        "Heterogeneous Semantic Networks": "eng",
+        "HSN": "eng",
+        "Redes Semânticas Heterogêneas": "por",
+        "Redes semánticas heterogéneas": "spa"
+    },
+    {
+        "High-Dimensional Learned Index": "eng",
+        "Índice De Aprendizagem De Alta Dimensão": "por",
+        "Índice de aprendizaje de alta dimensión": "spa"
+    },
+    {
+        "Hiring Algorithms": "eng",
+        "Algoritmos De Contratação": "por",
+        "Algoritmos de contratación": "spa"
+    },
+    {
+        "History Of AI": "eng",
+        "História Da IA": "por",
+        "Historia de la IA": "spa"
+    },
+    {
+        "Hix.AI": "eng"
+    },
+    {
+        "Human - Centered Artificial Intelligence": "eng",
+        "Human-Centered Intelligent Information": "eng",
+        "HCAI": "eng",
+        "Inteligência Artificial Centrada No Ser Humano": "por",
+        "Informação Inteligente Centrada No Ser Humano": "por",
+        "Inteligencia artificial centrada en el ser humano": "spa"
+    },
+    {
+        "Human Activity Recognition": "eng",
+        "HAR": "eng",
+        "Reconhecimento Da Atividade Humana": "por",
+        "Reconocimiento de la actividad humana": "spa"
+    },
+    {
+        "Human Cyber Physical Systems": "eng",
+        "HCPS": "eng",
+        "Sistemas Ciberfísicos Humanos": "por"
+    },
+    {
+        "Human-Ai Complementarity": "eng",
+        "Complementaridade IA-Homem": "por",
+        "Complementariedad humana-IA": "spa",
+        "Complementariedad Humano-IA": "spa"
+    },
+    {
+        "Human-Ai Symbiosis": "eng",
+        "Simbiose Homem-IA": "por",
+        "Simbiosis humano-inteligencia artificial": "spa"
+    },
+    {
+        "Human-Ai Teams": "eng",
+        "Equipes Humana E IA": "por",
+        "Equipos humanos-inteligencia artificial": "spa"
+    },
+    {
+        "Human-Algorithm Interaction": "eng",
+        "HAI": "eng",
+        "Interação Homem-Algorítmo": "por",
+        "Interacción entre humanos y algoritmos": "spa"
+    },
+    {
+        "Human-Centered Explainable Artificial Intelligence": "eng",
+        "HCXAI": "eng",
+        "Inteligência Artificial Explicável Centrada No Ser Humano": "por",
+        "IA explicable centrada en el ser humano": "spa"
+    },
+    {
+        "Human-In-The Loop AI": "eng",
+        "HITL": "eng",
+        "Inteligência Artificial com Interação Humana": "por",
+        "IA con intervención humana": "spa"
+    },
+    {
+        "Hybrid Arima": "eng",
+        "Arima Híbrido": "por"
+    },
+    {
+        "Hybrid Intelligence": "eng",
+        "Inteligência Híbrida": "por"
+    },
+    {
+        "Hybrid Reasoning": "eng",
+        "Raciocínio Híbrido": "por",
+        "Razonamiento híbrido": "spa"
+    },
+    {
+        "Hybrid Service Agent": "eng",
+        "Agente De Serviços Híbridos": "por",
+        "Agente de Servicio Híbrido": "spa"
+    },
+    {
+        "Hypergraph Induced Graph Convolutional Network": "eng",
+        "HyperGCN": "eng",
+        "Rede Convolucional De Grafos Induzida Por Hipergrafo": "por",
+        "Red convolucional de grafos inducida por hipergrafos": "spa"
+    },
+    {
+        "Hyperparameter Optimization": "eng",
+        "HPO": "eng",
+        "Otimização De Hiperparâmetros": "por",
+        "Optimización de hiperparámetros": "spa"
+    },
+    {
+        "Image-Text Matching": "eng",
+        "ITM": "eng",
+        "Correspondência Entre Imagem E Texto": "por",
+        "Correspondencia imagen-texto": "spa"
+    },
+    {
+        "Impact Of AI": "eng",
+        "Impacto Da IA": "por",
+        "Impacto de la IA": "spa"
+    },
+    {
+        "Inclusive AI Design": "eng",
+        "Design De IA Inclusivo": "por",
+        "Diseño Inclusivo de IA": "spa"
+    },
+    {
+        "IndiaAI": "eng"
+    },
+    {
+        "Informed AI": "eng",
+        "IAI": "eng",
+        "IA Informada": "por"
+    },
+    {
+        "Inner-Shape IOU": "eng",
+        "Intersection over Union": "eng",
+        "Interseção sobre União": "por",
+        "Intersección sobre Unión": "spa"
+    },
+    {
+        "Intelligent Bibliometrics": "eng",
+        "Bibliometria Inteligente": "por",
+        "Bibliometría Inteligente": "spa"
+    },
+    {
+        "Intelligent Customer Service": "eng",
+        "Serviço Ao Consumidor Inteligente": "por",
+        "Servicio al cliente inteligente": "spa"
+    },
+    {
+        "Intelligent Information Processing Of Ancient Texts": "eng",
+        "Processamento Inteligente De Informações De Textos Antigos": "por",
+        "Procesamiento Inteligente de Información de Textos Antiguos": "spa"
+    },
+    {
+        "Intelligent Information Services": "eng",
+        "Smart Information Services": "eng",
+        "IIS": "eng",
+        "Serviços Inteligentes De Informação": "por",
+        "Serviços De Informação Inteligentes": "por",
+        "Servicios De Información Inteligentes": "spa"
+    },
+    {
+        "Intelligent Library": "eng",
+        "Biblioteca Inteligente": "por"
+    },
+    {
+        "Intelligent Optimization": "eng",
+        "AIO": "eng",
+        "Otimização Inteligente": "por",
+        "Otimização por Inteligência Artificial": "por",
+        "Optimización Inteligente": "spa",
+        "Optimización por Inteligencia Artificial": "spa"
+    },
+    {
+        "Intelligent Process Automation": "eng",
+        "IPA": "eng",
+        "Processo De Automação Inteligente": "por",
+        "Automatización Inteligente de Procesos": "spa"
+    },
+    {
+        "Intelligent Recommender System": "eng",
+        "Of-Interest Recommendation": "eng",
+        "Recommendation Algorithms": "eng",
+        "Recommendation System": "eng",
+        "Recommendation Engine": "eng",
+        "Recommender": "eng",
+        "Sistema Inteligente De Recomendação": "por",
+        "Sistema De Recomendação": "por",
+        "Recomendação De Pontos De Interesse": "por",
+        "Algoritmos De Recomendação": "por",
+        "Sistema de Recomendación Inteligente": "spa",
+        "Sistema De Recomendación": "spa",
+        "Recomendación De Puntos De Interés": "spa",
+        "Algoritmos De Recomendación": "spa"
+    },
+    {
+        "Intelligent System": "eng",
+        "Sistema Inteligente": "por"
+    },
+    {
+        "Interpretable Machine Learning": "eng",
+        "Machine Learning Interpretability": "eng",
+        "IML": "eng",
+        "Aprendizado De Máquina Interpretável": "por",
+        "Interpretabilidade De Aprendizagem De Máquina": "por",
+        "Aprendizaje automático interpretable": "spa",
+        "Interpretabilidad Del Machine Learning": "spa"
+    },
+    {
+        "Inverse Reinforcement Learning": "eng",
+        "IRL": "eng",
+        "Aprendizagem Por Reforço Inverso": "por",
+        "Aprendizaje por Refuerzo Inverso": "spa"
+    },
+    {
+        "K-Means": "eng"
+    },
+    {
+        "K-Nearest Neighbor Classifier": "eng",
+        "K-NN": "eng",
+        "Classificador K-Nearest Neighbor": "por",
+        "Clasificador de K vecinos": "spa"
+    },
+    {
+        "Machine Learning Classifier": "eng",
+        "Classificador De Aprendizagem De Máquina": "por",
+        "Clasificador De Machine Learning": "spa"
+    },
+    {
+        "Knowledge Engineering": "eng",
+        "KE": "eng",
+        "Engenharia Do Conhecimento": "por",
+        "Ingeniería del Conocimiento": "spa"
+    },
+    {
+        "Knowledge Extraction": "eng",
+        "Extração Do Conhecimento": "por",
+        "Extracción de Conocimiento": "spa"
+    },
+    {
+        "Knowledge Graph": "eng",
+        "KG": "eng",
+        "Grafo De Conhecimento": "por",
+        "Grafo de Conocimiento": "spa"
+    },
+    {
+        "Knowledge Graph Curation": "eng",
+        "Curadoria De Grafos De Conhecimento": "por",
+        "Curación de grafos de conocimiento": "spa"
+    },
+    {
+        "Knowledge Graph Embedding": "eng",
+        "KGE": "eng",
+        "Embedding De Grafo De Conhecimento": "por",
+        "Incorporação de Grafos de Conhecimento": "por",
+        "Incrustación de grafos de conocimiento": "spa"
+    },
+    {
+        "Knowledge Graph Inference Algorithm": "eng",
+        "Algorítmo De Inferência De Grafo De Conhecimento": "por",
+        "Algoritmo de inferencia de grafos de conocimiento": "spa"
+    },
+    {
+        "Knowledge Hypergraph": "eng",
+        "Hipergrafo Do Conhecimento": "por",
+        "Hipergrafo de conocimiento": "spa"
+    },
+    {
+        "Knowledge Representation Frames": "eng",
+        "Quadros de Representação do Conhecimento": "por",
+        "Marcos de representación del conocimiento": "spa"
+    },
+    {
+        "Knowledge Augmentation": "eng",
+        "Knowledge-Augmented Generation": "eng",
+        "KAG": "eng",
+        "Aumento De Conhecimento": "por",
+        "Geração Aumentada por Conhecimento": "por",
+        "Aumento del conocimiento": "spa",
+        "Generación Aumentada por Conocimiento": "spa"
+    },
+    {
+        "Knowledge-Aware Models": "eng",
+        "Modelos Com Consciência De Conhecimento": "por",
+        "Modelos basados ​​en el conocimiento": "spa"
+    },
+    {
+        "Knowledge-Aware Networks": "eng",
+        "Knowledge-Aware Recommendation": "eng",
+        "Knowledge-Based Systems": "eng",
+        "Knowledge Based AI": "eng",
+        "Sistemas De Recomendação Cientes De Conhecimento": "por",
+        "Redes Com Consciência De Conhecimento": "por",
+        "Sistemas De Recomendação Baseados Em Conhecimento": "por",
+        "Sistemas baseados em conhecimento": "por",
+        "Redes conscientes del conocimiento": "spa",
+        "Sistemas basados ​​en el conocimiento": "spa"
+    },
+    {
+        "Knowledge-Enhanced Medical Large Language Model": "eng",
+        "KE-Medical LLM": "eng",
+        "Modelo Grande De Linguagem Para Medicina Com Conhecimento Avançado": "por",
+        "Modelo de Linguagem Médica Ampliado Aprimorado por Conhecimento": "por",
+        "Modelo de lenguaje médico amplio mejorado con conocimiento": "spa"
+    },
+    {
+        "Kohonen Map": "eng",
+        "Self-Organizing Map": "eng",
+        "SOM": "eng",
+        "Mapa Kohonen": "por",
+        "Mapa Auto-Organizável": "por",
+        "Mapa de Kohonen": "spa",
+        "Mapa Autoorganizado": "spa"
+    },
+    {
+        "L2 Regularization": "eng",
+        "Ridge Regression": "eng",
+        "Weight decay": "eng",
+        "Regularização L2": "por",
+        "Regressão Ridge": "por",
+        "Decaimento de peso": "por",
+        "Regularización L2": "spa",
+        "Regresión de cresta": "spa",
+        "Decaimiento de pesos": "spa"
+    },
+    {
+        "Label Distribution Learning": "eng",
+        "LDL": "eng",
+        "Aprendizagem De Distribuição De Rótulos": "por",
+        "Aprendizaje de distribución de etiquetas": "spa"
+    },
+    {
+        "Labeled Datasets": "eng",
+        "Conjuntos De Dados Rotulados": "por",
+        "Conjuntos de datos etiquetados": "spa"
+    },
+    {
+        "LangChain": "eng"
+    },
+    {
+        "Natural Language Processing": "eng",
+        "Language Processing": "eng",
+        "NLP": "eng",
+        "Processamento de linguagem natural": "por",
+        "PLN": "por",
+        "Processamento De Linguagem": "por",
+        "Procesamiento del lenguaje": "spa",
+        "Procesamiento Del Lenguaje Natural": "spa"
+    },
+    {
+        "Language Transformers": "eng",
+        "Transformers De Linguagem": "por",
+        "Transformadores de lenguaje": "spa"
+    },
+    {
+        "LASSO": "eng",
+        "Least Absolute Shrinkage And Selection Operator": "eng"
+    },
+    {
+        "Latent Dirichlet Allocation": "eng",
+        "LDA": "eng",
+        "LDA Topic Model": "eng",
+        "Alocação De Dirichlet Latente": "por",
+        "Asignación Latente de Dirichlet": "spa"
+    },
+    {
+        "Layoutlmv3": "eng"
+    },
+    {
+        "Machine Learning Algorithms": "eng",
+        "Learning Algorithms": "eng",
+        "Algoritmos De Aprendizagem": "por",
+        "Algorítmos De Aprendizagem De Máquina": "por",
+        "Algoritmos de aprendizaje": "spa",
+        "Algoritmos de machine learning": "spa"
+    },
+    {
+        "Leonardo AI": "eng"
+    },
+    {
+        "Lexicon-Based Classification": "eng",
+        "Classificação Baseada Em Léxico": "por",
+        "Clasificación basada en léxicos": "spa"
+    },
+    {
+        "Leximancer": "eng"
+    },
+    {
+        "LightGBM": "eng",
+        "Light Gradient Boosting Machine": "eng"
+    },
+    {
+        "Linear Feature Selection": "eng",
+        "Seleção Linear De Características": "por",
+        "Seleção de características lineares": "por",
+        "Selección lineal de características": "spa"
+    },
+    {
+        "Linguistic Analysis": "eng",
+        "Análise Linguística": "por",
+        "Análisis lingüístico": "spa"
+    },
+    {
+        "Linguistics": "eng",
+        "Linguística": "por",
+        "Lingüística": "spa"
+    },
+    {
+        "Link Prediction": "eng",
+        "Previsão De Links": "por",
+        "Predicción de enlaces": "spa"
+    },
+    {
+        "Liquid Machine Learning": "eng",
+        "Aprendizagem De Máquina Líquida": "por",
+        "Aprendizaje Automático Líquido": "spa"
+    },
+    {
+        "Llama-2": "eng"
+    },
+    {
+        "Llm Feedback": "eng",
+        "Feedback De LLM": "por",
+        "Feedback de un Modelo de Lenguaje Grande": "spa",
+        "Retroalimentación de un Modelo de Lenguaje Grande": "spa"
+    },
+    {
+        "Llms Evaluation": "eng",
+        "Avaliação De LLM": "por",
+        "Evaluación de los modelos de lenguaje grandes": "spa"
+    },
+    {
+        "Location Encoding": "eng",
+        "Encoding De Localização": "por",
+        "Encoding de ubicación": "spa"
+    },
+    {
+        "Logits Distillation": "eng",
+        "Knowledge Distillation": "eng",
+        "Destilação De Logits": "por",
+        "Destilação De Conhecimento": "por",
+        "Destilación de logits": "spa",
+        "Destilación del conocimiento": "spa"
+    },
+    {
+        "Machine Learning": "eng",
+        "ML": "eng",
+        "Aprendizado de máquina": "por",
+        "Aprendizaje Automático": "spa"
+    },
+    {
+        "Machine Learning Application": "eng",
+        "Aplicações De Aprendizagem De Máquina": "por",
+        "Aplicación De Machine Learning": "spa"
+    },
+    {
+        "Machine Learning For Library Services": "eng",
+        "Aprendizagem De Máquina Para Serviços De Biblioteca": "por",
+        "Machine Learning para servicios bibliotecarios": "spa"
+    },
+    {
+        "Machine Learning In Cultural Heritage": "eng",
+        "Aprendizagem De Máquina No Patrimônio Cultural": "por",
+        "Uso Del Aprendizaje Automático En El Patrimonio Cultural": "spa"
+    },
+    {
+        "Machine Learning Model": "eng",
+        "Modelo De Aprendizagem De Máquina": "por",
+        "Modelo De Machine Learning": "spa"
+    },
+    {
+        "Machine Learning Patterns": "eng",
+        "Padrões De Aprendizagem De Máquina": "por",
+        "Patrones De Machine Learning": "spa"
+    },
+    {
+        "Machine Reading Comprehension": "eng",
+        "Compreensão De Leitura De Máquina": "por",
+        "Comprensión De Lectura Automática": "spa"
+    },
+    {
+        "Machine Reasoning": "eng",
+        "MR": "eng",
+        "Raciocínio De Máquina": "por",
+        "Razonamiento Automático": "spa"
+    },
+    {
+        "Machine-Aided Indexing": "eng",
+        "MAI": "eng",
+        "Indexação Assistida Por Máquina": "por",
+        "Indización Asistida Por Máquina": "spa"
+    },
+    {
+        "Media Framing": "eng",
+        "Encuadre mediático": "spa"
+    },
+    {
+        "Message Clustering": "eng",
+        "Clustering De Mensagens": "por",
+        "Agrupamento De Mensagens": "por",
+        "Clustering De Mensajes": "spa"
+    },
+    {
+        "Midjourney": "eng"
+    },
+    {
+        "Modal Logic For Classifiers": "eng",
+        "Lógica Modal Para Classificadores": "por",
+        "Lógica Modal Para Clasificadores": "spa"
+    },
+    {
+        "Multi-Modal Image Clustering": "eng",
+        "Agrupamento De Imagens Multimodais": "por",
+        "Clustering De Imagens Multimodais": "por",
+        "Agrupamiento De Imágenes Multimodal": "spa"
+    },
+    {
+        "Multi-Modal Knowledge Graph": "eng",
+        "MMKG": "eng",
+        "Grafo De Conhecimento Multimodal": "por",
+        "Grafo De Conocimiento Multimodal": "spa"
+    },
+    {
+        "Multi-Modal Machine Translation": "eng",
+        "Tradução Automática Multimodal": "por",
+        "Traducción Automática Multimodal": "spa"
+    },
+    {
+        "Multi-Relation Modeling": "eng",
+        "Modelagem De Múltiplas Relações": "por",
+        "Modelado Multi-Relación": "spa"
+    },
+    {
+        "Multi-Scale Feature Fusion": "eng",
+        "MSFF": "eng",
+        "Fusão De Características Em Múltiplas Escalas": "por",
+        "Fusión De Características Multiescala": "spa"
+    },
+    {
+        "Multilayer Perceptron": "eng",
+        "MLP": "eng",
+        "Perceptron Multicamadas": "por",
+        "Perceptrón Multicapa": "spa"
+    },
+    {
+        "Multimodal Data Integration": "eng",
+        "Integração De Dados Multimodais": "por",
+        "Integración De Datos Multimodales": "spa"
+    },
+    {
+        "Multimodal Data Retrieval": "eng",
+        "Recuperação De Dados Multimodais": "por",
+        "Recuperación De Datos Multimodal": "spa"
+    },
+    {
+        "Multimodal Deep Learning": "eng",
+        "MDL": "eng",
+        "Aprendizagem Profunda Multimodal": "por",
+        "Aprendizaje Profundo Multimodal": "spa"
+    },
+    {
+        "Multimodal Fusion Network": "eng",
+        "Rede De Fusão Multimodal": "por",
+        "Red De Fusión Multimodal": "spa"
+    },
+    {
+        "Multimodal Generation": "eng",
+        "Geração Multimodal": "por",
+        "Generación Multimodal": "spa"
+    },
+    {
+        "Multimodal Large Language Model": "eng",
+        "M-LLM": "eng",
+        "Modelo Grande De Linguagem Multimodal": "por",
+        "Modelo De Lenguaje Grande Multimodal": "spa"
+    },
+    {
+        "Multi-Task Joint Learning": "eng",
+        "Multitask Learning": "eng",
+        "MTL": "eng",
+        "Aprendizado Multitarefa": "por",
+        "Aprendizagem Conjunta Multitarefa": "por",
+        "Aprendizaje Conjunta": "spa",
+        "Aprendizaje Multitarea": "spa",
+        "Aprendizaje Multi-Tarea": "spa"
+    },
+    {
+        "Naive Bayes Classifier": "eng",
+        "Classificador Naive Bayes": "por",
+        "Clasificador Naive Bayes": "spa"
+    },
+    {
+        "Word Segmentation": "eng",
+        "Segmentação De Palavras": "por",
+        "Segmentación De Palabras": "spa"
+    },
+    {
+        "Word Embedding": "eng",
+        "Embedding De Palavras": "por",
+        "Incrustación De Palabras": "spa"
+    },
+    {
+        "Natural Language Explanations": "eng",
+        "NLEs": "eng",
+        "Explicações Em Linguagem Natural": "por",
+        "Explicaciones En Lenguaje Natural": "spa"
+    },
+    {
+        "Natural Language Generation": "eng",
+        "NLG": "eng",
+        "Geração De Linguagem Natural": "por",
+        "Generación De Lenguaje Natural": "spa"
+    },
+    {
+        "Natural Language Inference": "eng",
+        "NLI": "eng",
+        "RTE": "eng",
+        "Recognizing Textual Entailment": "eng",
+        "Inferência De Linguagem Natural": "por",
+        "Reconhecimento de Implicação Textual": "por",
+        "Inferencia Del Lenguaje Natural": "spa",
+        "Reconocimiento de implicación textual": "spa"
+    },
+    {
+        "Nearest Neighbor Search": "eng",
+        "NNS": "eng",
+        "Busca Pelo Vizinho Mais Próximo": "por",
+        "Búsqueda Del Vecino Más Cercano": "spa"
+    },
+    {
+        "Negative Sequential Pattern": "eng",
+        "NSP": "eng",
+        "Padrão Sequencial Negativo": "por",
+        "Minería De Patrones Secuenciales Negativos": "spa"
+    },
+    {
+        "NERF": "eng",
+        "Neural Radiance Fields": "eng"
+    },
+    {
+        "Network Embedding": "eng",
+        "Embedding De Rede": "por",
+        "Incrustación De Redes": "spa"
+    },
+    {
+        "Neural Additive Model": "eng",
+        "NAM": "eng",
+        "Modelo Aditivo Neural": "por",
+        "Modelo Aditivo Neuronal": "spa"
+    },
+    {
+        "Neural Graph Collaborative Filtering": "eng",
+        "NGCF": "eng",
+        "Filtragem Colaborativa De Grafos Neurais": "por",
+        "Filtrado Colaborativo Con Grafos Neuronales": "spa"
+    },
+    {
+        "Neural Network Training": "eng",
+        "Treinamento De Redes Neurais": "por",
+        "Entrenamiento De Una Red Neuronal": "spa"
+    },
+    {
+        "Neural Machine Learning": "eng",
+        "Neural Network Approach": "eng",
+        "Neural Networks": "eng",
+        "Neuronal Networks": "eng",
+        "Aprendizagem De Máquina Neural": "por",
+        "Redes Neurais": "por",
+        "Aprendizaje Automático Neural": "spa",
+        "Red Neuronal": "spa"
+    },
+    {
+        "Neural Ordinary Differential Equation": "eng",
+        "NODEs": "eng",
+        "Equação Diferencial Ordinária Neural": "por",
+        "Ecuaciones Diferenciales Ordinarias Neuronales": "spa"
+    },
+    {
+        "Neural-Based Topic Model": "eng",
+        "Modelo De Tópico Baseado Em Rede Neural": "por",
+        "Modelo De Temas Basado En Redes Neuronales": "spa"
+    },
+    {
+        "Neuro-Symbolic AI": "eng",
+        "Neuro-Symbolic Intelligence": "eng",
+        "IA Neurosimbólica": "por",
+        "Inteligência Neurosimbólica": "por",
+        "Inteligencia Neuro-Simbólica": "spa"
+    },
+    {
+        "Object Detection": "eng",
+        "Detecção De Objetos": "por",
+        "Detección De Objetos": "spa"
+    },
+    {
+        "Object-Aware Generative Model": "eng",
+        "Modelo Generativo Com Conhecimento De Objetos": "por",
+        "Modelo Generativo Con Conciencia De Objetos": "spa"
+    },
+    {
+        "One-Pixel Attacks": "eng",
+        "Ataque De Um Pixel": "por",
+        "Ataque De Un Píxel": "spa"
+    },
+    {
+        "One-Shot Augmented Learning": "eng",
+        "Aprendizado Aumentado One-Shot": "por",
+        "Aprendizaje Aumentado De Un Solo Intento": "spa"
+    },
+    {
+        "Online Review Mining": "eng",
+        "Opinion Mining": "eng",
+        "Mineração De Opinião": "por",
+        "Mineração De Avaliações Online": "por",
+        "Minería De Opiniones": "spa",
+        "Minería De Opiniones En Línea": "spa"
+    },
+    {
+        "Ontology": "eng",
+        "Ontologia": "por",
+        "Ontología": "spa"
+    },
+    {
+        "Ontology Classification": "eng",
+        "Classificação De Ontologia": "por",
+        "Clasificación Ontológica": "spa"
+    },
+    {
+        "Ontology-Based Knowledge System": "eng",
+        "Sistema De Conhecimento Baseado Em Ontologia": "por",
+        "Sistema De Conocimiento Basado En Ontologías": "spa"
+    },
+    {
+        "Ontology-Driven Metadata Models": "eng",
+        "Modelos De Metadados Orientados Por Ontologia": "por",
+        "Modelos De Metadatos Dirigidos Por Ontología": "spa"
+    },
+    {
+        "Openai": "eng"
+    },
+    {
+        "Openai Operator": "eng",
+        "Operator De Openai": "spa"
+    },
+    {
+        "Optimization In CNN Model": "eng",
+        "Otimização Em Modelos De Redes Neurais Convolucionais": "por",
+        "Optimización De Un Modelo De Red Neuronal Convolucional": "spa"
+    },
+    {
+        "Owl": "eng",
+        "Web Ontology Language": "eng"
+    },
+    {
+        "Pairwise Training": "eng",
+        "Treinamento Pareado": "por",
+        "Entrenamiento Por Pares": "spa"
+    },
+    {
+        "Part-Whole Relations": "eng",
+        "Relação Parte-Todo": "por",
+        "Relaciones Parte-Todo": "spa"
+    },
+    {
+        "Particle Swarm Optimisation": "eng",
+        "PSO": "eng",
+        "Otimização Por Enxame De Partículas": "por",
+        "Optimización Por Enjambre De Partículas": "spa"
+    },
+    {
+        "Patent Citation Recommendation": "eng",
+        "Recomendação De Citação De Patentes": "por",
+        "Recomendación De Citas De Patentes": "spa"
+    },
+    {
+        "Pattern Flattening": "eng",
+        "Achatamento De Padrões": "por",
+        "Aplanar Un Patrón 3D": "spa"
+    },
+    {
+        "Pattern Mining": "eng",
+        "Mineração De Padrões": "por",
+        "Minería De Patrones": "spa"
+    },
+    {
+        "Peft": "eng",
+        "Parameter-Efficient Fine-Tuning": "eng",
+        "Ajuste Fino Eficiente De Parâmetros": "por",
+        "Ajuste Fino Eficiente De Parámetros": "spa"
+    },
+    {
+        "Perceived Algorithmic Fairness": "eng",
+        "Percepção Dos Usuários Sobre A Justiça E A Equidade Das Decisões Tomadas Por Sistemas De IA": "por",
+        "Equidad Algorítmica Percibida": "spa"
+    },
+    {
+        "Perceptron": "eng",
+        "Single Neurons": "eng",
+        "Neurônios Únicos": "por",
+        "Neuronas Individuales": "spa"
+    },
+    {
+        "Perplexity AI": "eng"
+    },
+    {
+        "Point Clouds": "eng",
+        "Nuvem De Pontos": "por",
+        "Nube De Puntos": "spa"
+    },
+    {
+        "Post-Ocr Text Correction": "eng",
+        "Correção De Texto Pós-Ocr": "por",
+        "Corrección De Texto Post-Ocr": "spa"
+    },
+    {
+        "Pre-Trained Language Model": "eng",
+        "PLM": "eng",
+        "Modelo De Linguagem Pré-Treinado": "por",
+        "Modelo De Lenguaje Preentrenado": "spa"
+    },
+    {
+        "Predictive Maintenance": "eng",
+        "Manutenção Preditiva": "por",
+        "Mantenimiento Predictivo": "spa"
+    },
+    {
+        "Probabilistic Models": "eng",
+        "Modelos Probabilísticos": "por",
+        "Modelo Probabilístico": "spa"
+    },
+    {
+        "Probabilistic Topic Model": "eng",
+        "Modelo De Tópico Probabilístico": "por",
+        "Modelo De Tema Probabilístico": "spa"
+    },
+    {
+        "Probability Embedding": "eng",
+        "Embeddings Probabilísticos": "por",
+        "Incrustación Probabilística": "spa"
+    },
+    {
+        "Prohibited Artificial Intelligence Practices": "eng",
+        "Práticas Proibidas De Inteligência Artificial": "por",
+        "Prácticas De Inteligencia Artificial Prohibidas": "spa"
+    },
+    {
+        "Prompt": "eng"
+    },
+    {
+        "Prompt Engineering": "eng",
+        "Engenharia De Prompt": "por",
+        "Ingeniería De Prompts": "spa"
+    },
+    {
+        "Prompt Tuning": "eng",
+        "Ajuste por prompts": "por",
+        "Ajuste de indicaciones": "spa"
+    },
+    {
+        "Pu-Learning": "eng",
+        "Positive-Unlabeled Learning": "eng",
+        "Aprendizagem Com Exemplos Positivos E Não Rotulados": "por",
+        "Aprendizaje Positivo Y No Etiquetado": "spa"
+    },
+    {
+        "Public Framing": "eng",
+        "Enquadramento Público": "por",
+        "Encuadre Público": "spa"
+    },
+    {
+        "PyTorch": "eng"
+    },
+    {
+        "Q&A Interaction": "eng",
+        "Interação De Perguntas E Respostas": "por",
+        "Interacción De Preguntas Y Respuestas": "spa"
+    },
+    {
+        "Q-Learning": "eng"
+    },
+    {
+        "Quadratic Particle Swarm Optimisation": "eng",
+        "QPSO": "eng",
+        "Otimização por Enxame de Partículas Quadrática": "por",
+        "Optimización De Enjambre De Partículas Cuadrática": "spa"
+    },
+    {
+        "Quantum Clustering": "eng",
+        "Clustering Quântico": "por",
+        "Agrupamento Quântico": "por",
+        "Clustering Cuántico": "spa"
+    },
+    {
+        "Quantum Machine Learning": "eng",
+        "Aprendizado De Máquina Quântica": "por",
+        "Aprendizaje Automático Cuántico": "spa"
+    },
+    {
+        "Quasi-Human": "eng",
+        "Quase-Humanos": "por",
+        "Cuasi-Humano": "spa"
+    },
+    {
+        "Query-Aware Mechanism": "eng",
+        "Mecanismo Com Consciência De Consulta": "por",
+        "Mecanismo Consciente De La Consulta": "spa"
+    },
+    {
+        "Question Classification Model": "eng",
+        "Modelo De Classificação De Perguntas": "por",
+        "Modelo De Clasificación De Preguntas": "spa"
+    },
+    {
+        "Question-Answering Systems": "eng"
+    },
+    {
+        "Racial Bias": "eng",
+        "Viés Racial": "por",
+        "Sesgo Racial": "spa"
+    },
+    {
+        "Random Forest": "eng"
+    },
+    {
+        "Random Sample Partition": "eng",
+        "Partição Por Amostragem Aleatória": "por",
+        "Partición De Muestras Aleatorias": "spa"
+    },
+    {
+        "Ranking Prediction Model": "eng",
+        "Ranking Model": "eng",
+        "Modelo De Previsão De Ranking": "por",
+        "Modelo De Predicción De Ranking": "spa"
+    },
+    {
+        "Reading Recommendation Systems": "eng",
+        "Sistemas De Recomendação De Leitura": "por",
+        "Sistema De Recomendación De Lectura": "spa"
+    },
+    {
+        "Rebuttal Success Prediction": "eng",
+        "Previsão De Sucesso De Refutação": "por",
+        "Predicción De Éxito De Refutación": "spa"
+    },
+    {
+        "Recurrent Graph Neural Network": "eng",
+        "RecGNN": "eng",
+        "R-GNN": "eng",
+        "Rede Neural Recorrente De Grafos": "por",
+        "Red Neuronal Gráfica Recurrente": "spa"
+    },
+    {
+        "Recurrent Neural Network": "eng",
+        "RNN": "eng",
+        "Rede Neural Recorrente": "por",
+        "Red Neuronal Recurrente": "spa"
+    },
+    {
+        "Regression Analysis": "eng",
+        "Análise De Regressão": "por",
+        "Análisis De Regresión": "spa"
+    },
+    {
+        "Reinforcement Learning": "eng",
+        "Aprendizado por reforço": "por",
+        "Aprendizaje Por Refuerzo": "spa"
+    },
+    {
+        "Relational Graph Convolutional Networks": "eng",
+        "Redes Neurais Convolucionais Relacionais": "por",
+        "Red Convolucional De Grafos Relacionales": "spa"
+    },
+    {
+        "Relative Ai Divide": "eng",
+        "Divisão Relativa De Ia": "por",
+        "Brecha Relativa De La IA": "spa"
+    },
+    {
+        "Representation Learning": "eng",
+        "Aprendizado De Representação": "por",
+        "Aprendizaje Por Representación": "spa"
+    },
+    {
+        "Residual Network": "eng",
+        "Resnet": "por"
+    },
+    {
+        "Resnet34": "eng"
+    },
+    {
+        "Resnet50": "eng",
+        "Residual Network 50-layer": "eng",
+        "Rede Residual de 50 camadas": "por"
+    },
+    {
+        "Responsible Ai Governance": "eng",
+        "Governança De Ia Responsável": "por",
+        "Gobernanza Responsable De La IA": "spa"
+    },
+    {
+        "Reti-CVD": "eng",
+        "Retinal Imaging-Based Cardiovascular Disease": "eng"
+    },
+    {
+        "Retrieval Augmented Generation": "eng",
+        "RAG": "eng",
+        "RAG (Retrieval-Augmented Generation)": "eng",
+        "RAG (Retrieval Augmented Generation)": "eng",
+        "Retrieval-augmented generation": "eng",
+        "Geração aumentada de recuperação": "por",
+        "Geração Aumentada Por Recuperação": "por",
+        "Generación Aumentada Por Recuperación": "spa"
+    },
+    {
+        "Rising Star Prediction": "eng",
+        "Previsão De “Rising Stars”": "por",
+        "Previsão de estrelas emergentes": "por",
+        "Predicción De Estrellas Emergentes": "spa"
+    },
+    {
+        "Rough Set": "eng",
+        "Conjuntos Aproximados": "por",
+        "Teoría De Los Conjuntos Aproximados": "spa"
+    },
+    {
+        "SA-Net": "eng",
+        "Spatial-Aware Net": "eng"
+    },
+    {
+        "Saliency Map": "eng",
+        "Mapa De Saliência": "por",
+        "Mapa De Prominencia": "spa"
+    },
+    {
+        "Scholarly Text Mining": "eng",
+        "STM": "eng",
+        "Mineração De Texto Educativo": "por",
+        "Minería De Textos Académicos": "spa"
+    },
+    {
+        "Scibert": "eng"
+    },
+    {
+        "Scientific Papers Mining": "eng",
+        "Mineração De Artigos Científicos": "por",
+        "Minería De Documentos Científicos": "spa"
+    },
+    {
+        "Scientific Publications Clustering": "eng",
+        "Clustering De Publicações Científicas": "por",
+        "Clustering De Publicaciones Científicas": "spa"
+    },
+    {
+        "SciSpace": "eng",
+        "Typeset": "eng"
+    },
+    {
+        "Self-Organizing Neural Network": "eng",
+        "SONN": "eng",
+        "Rede Neural Auto-Organizável": "por",
+        "Red Neuronal Auto-Organizada": "spa"
+    },
+    {
+        "Semantic Alignment": "eng",
+        "Alinhamento Semântico": "por",
+        "Alineamiento Semántico": "spa"
+    },
+    {
+        "Semantic Analysis": "eng",
+        "Semantic Parsing": "eng",
+        "Semantic Processing": "eng",
+        "Semantic Technology": "eng",
+        "Semantic Systems": "eng",
+        "Semantic AI": "eng",
+        "Semantic Intelligence": "eng",
+        "Processamento Semântico": "por",
+        "IA semântica": "por",
+        "Análise Semântica": "por",
+        "Tecnologia Semântica": "por",
+        "Inteligência Semântica": "por",
+        "Tecnología Semántica": "spa",
+        "IA semántica": "spa",
+        "Parsing Semántico": "spa",
+        "Análisis Semántico": "spa",
+        "Procesamiento Semántico": "spa",
+        "Inteligencia Semántica": "spa"
+    },
+    {
+        "Semantic Metadata Generation": "eng",
+        "Geração De Metadados Semânticos": "por",
+        "Generación De Metadatos Semánticos": "spa"
+    },
+    {
+        "Semantic Network": "eng",
+        "Rede Semântica": "por",
+        "Red Semántica": "spa"
+    },
+    {
+        "Semantic Search": "eng",
+        "Busca Semântica": "por",
+        "Búsqueda Semántica": "spa"
+    },
+    {
+        "Semantic Segmentation": "eng",
+        "Segmentação Semântica": "por",
+        "Segmentación Semántica": "spa"
+    },
+    {
+        "Semantic Similarity": "eng",
+        "Semantic Textual Similarity": "eng",
+        "STS": "eng",
+        "Similaridade Semântica": "por",
+        "Similaridade Textual Semântica": "por",
+        "Similitud Semántica": "spa",
+        "Similitud Textual Semántica": "spa"
+    },
+    {
+        "Semantic Web": "eng",
+        "Web Semântica": "por",
+        "Web Semántica": "spa"
+    },
+    {
+        "Semantics": "eng",
+        "Semântica": "por",
+        "Semántica": "spa"
+    },
+    {
+        "Semi-Supervised Classification": "eng",
+        "Classificação Semi-Supervisionada": "por",
+        "Clasificación Semi-Supervisada": "spa"
+    },
+    {
+        "Semi-Supervised Feature Selection": "eng",
+        "Seleção De Atributos Semi-Supervisionada": "por",
+        "Selección De Características Semisupervisada": "spa"
+    },
+    {
+        "Semiautomatic Indexing": "eng",
+        "Indexação Semiautomática": "por",
+        "Indexación Semiautomática": "spa"
+    },
+    {
+        "Semiotics": "eng",
+        "Semiótica": "por",
+        "Semiología": "spa"
+    },
+    {
+        "Sentient AI": "eng",
+        "Sentient Machines": "eng",
+        "IA Senciente": "por",
+        "Máquinas Sencientes": "por",
+        "IA Sentiente": "spa",
+        "Máquinas Sentientes": "spa"
+    },
+    {
+        "Sequential Neural Network": "eng",
+        "Rede Neural Sequencial": "por",
+        "Red Neuronal Secuencial": "spa"
+    },
+    {
+        "Sequential Pattern Analysis": "eng",
+        "Análise De Padrões Sequenciais": "por",
+        "Análisis De Patrones Secuenciales": "spa"
+    },
+    {
+        "Sequential Pattern Mining": "eng",
+        "SPM": "eng",
+        "Mineração De Padrões Sequenciais": "por",
+        "Minería De Patrones Secuenciales": "spa"
+    },
+    {
+        "Sequential Recommendation": "eng",
+        "Recomendação Sequencial": "por",
+        "La Recomendación Secuencial": "spa"
+    },
+    {
+        "Service Robots": "eng",
+        "Robôs De Serviço": "por",
+        "Robot De Servicio": "spa"
+    },
+    {
+        "Session-Based Recommendation": "eng",
+        "Recomendação Baseada Em Sessão": "por",
+        "Recomendación Basada En Sesiones": "spa"
+    },
+    {
+        "SHAP": "eng",
+        "Shapley Additive Explanation": "eng",
+        "Valores Shap": "por",
+        "Explicaciones Aditivas De Shapley": "spa"
+    },
+    {
+        "Shoggoth Meme": "eng",
+        "Meme Do Shoggoth": "por",
+        "Meme De Shoggoth": "spa"
+    },
+    {
+        "Siamese Neural Network": "eng",
+        "Rede Neural Siamesa": "por",
+        "Red Neuronal Siamesa": "spa"
+    },
+    {
+        "Smart Citation Analysis": "eng",
+        "Análise De Citações Inteligente": "por",
+        "Análisis De Citas Inteligente": "spa"
+    },
+    {
+        "Smart Learning Management System": "eng",
+        "Sistema De Gerenciamento De Aprendizado Inteligente": "por",
+        "LMS Inteligente": "spa"
+    },
+    {
+        "SMOTE": "eng",
+        "Synthetic Minority Over-sampling Technique": "eng",
+        "Técnica De Sobremuestreo De La Clase Minoritaria Sintética": "spa"
+    },
+    {
+        "Social Emotion Mining": "eng",
+        "Mineração De Emoção Social": "por",
+        "Análisis De Emociones Sociales": "spa"
+    },
+    {
+        "Social Spider Optimization": "eng",
+        "Otimização Social Spider": "por",
+        "Optimización De La Araña Social": "spa"
+    },
+    {
+        "Span-Based Model": "eng",
+        "Modelo Baseado Em Span": "por",
+        "Modelo Basado En Spans": "spa"
+    },
+    {
+        "Spatial Token": "eng",
+        "Token Espacial": "spa"
+    },
+    {
+        "Spatial Intelligence": "eng",
+        "Inteligência Espacial": "por",
+        "Inteligencia Espacial": "spa"
+    },
+    {
+        "Spatially Explicit Machine Learning": "eng",
+        "SEML": "eng",
+        "Aprendizagem De Máquina Explicitamente Espacial": "por",
+        "Aprendizaje Automático Espacialmente Explícito": "spa"
+    },
+    {
+        "Stacked Deep Convolutional Autoencoder": "eng",
+        "SDCA": "eng",
+        "Auto Codificador Convolucional Profundo Empilhado": "por",
+        "Autoencoder Convolucional Profundo Apilado": "spa"
+    },
+    {
+        "Stacked Transformer": "eng",
+        "Transformer Empilhado": "por",
+        "Transformador Apilado": "spa"
+    },
+    {
+        "Star Graph Embedding": "eng",
+        "Embedding De Grafos Estelares": "por",
+        "Embeddings De Grafo de Estrellas": "spa"
+    },
+    {
+        "Stara Awareness": "eng",
+        "Smart Technology, Artificial Intelligence, Robotics, and Algorithms Awareness": "eng",
+        "Consciência Stara": "por",
+        "Consciência sobre Tecnologia Inteligente, Inteligência Artificial, Robótica e Algoritmos": "por"
+    },
+    {
+        "Student Interaction With AI": "eng",
+        "Interação Do Estudante Com A IA": "por",
+        "Interacción Estudiante Con IA": "spa"
+    },
+    {
+        "Style Transfer Algorithm": "eng",
+        "Algoritmo De Transferência De Estilo": "por",
+        "Transferencia De Estilo Neuronal": "spa"
+    },
+    {
+        "Stylegan2": "eng"
+    },
+    {
+        "Supervised Contrastive Learning": "eng",
+        "Aprendizagem Contrastiva Supervisionada": "por",
+        "Aprendizaje Contrastivo Supervisado": "spa"
+    },
+    {
+        "Supervised Fine-Tuning": "eng",
+        "Ajuste Fino Supervisionado": "por",
+        "Sintonización Fina Supervisada": "spa"
+    },
+    {
+        "Supervised Machine Learning": "eng",
+        "Supervised Learning": "eng",
+        "Aprendizagem De Máquina Supervisionada": "por",
+        "Aprendizaje Automático Supervisado": "spa"
+    },
+    {
+        "Support Vector Machine": "eng",
+        "SVM": "eng",
+        "Máquina De Vetor De Suporte": "por"
+    },
+    {
+        "Swarm Intelligence": "eng",
+        "Inteligência De Enxame": "por",
+        "Inteligencia De Enjambre": "spa"
+    },
+    {
+        "Symbolic Ai": "eng",
+        "Good Old-Fashioned AI": "eng",
+        "GOFAI": "eng",
+        "Classical AI": "eng",
+        "Inteligência Artificial à Moda Antiga": "por",
+        "Inteligência Artificial Clássica": "por",
+        "IA Simbólica": "por"
+    },
+    {
+        "Syntactic Complexity": "eng",
+        "Complexidade Sintática": "por",
+        "Complejidad Sintáctica": "spa"
+    },
+    {
+        "Syntax-Guided Transformer": "eng",
+        "Transformer Guiado Por Sintaxe": "por"
+    },
+    {
+        "Synthetic Data": "eng",
+        "Synthetic Samples": "eng",
+        "Dados Sintéticos": "por",
+        "Amostras Sintéticas": "por",
+        "Datos Sintéticos": "spa",
+        "Muestras Sintéticas": "spa"
+    },
+    {
+        "Synthetic Images": "eng",
+        "Imagens Sintéticas": "por",
+        "Imágenes Sintéticas": "spa"
+    },
+    {
+        "Synthetic User": "eng",
+        "Usuário Sintético": "por",
+        "Usuario Sintético": "spa"
+    },
+    {
+        "T-SNE": "eng",
+        "T-Distributed Stochastic Neighbor Embedding": "eng"
+    },
+    {
+        "Table Mining": "eng",
+        "Mineração De Tabela": "por",
+        "Minería De Tablas": "spa"
+    },
+    {
+        "Tabular Data Generation": "eng",
+        "Geração De Dados Tabulares": "por",
+        "Generación De Datos Tabulares": "spa"
+    },
+    {
+        "TensorFlow": "eng"
+    },
+    {
+        "Text Mining": "eng",
+        "Mineração De Texto": "por",
+        "Minería De Textos": "spa"
+    },
+    {
+        "Text-To-Bim": "eng",
+        "Conversão De Texto Para Bim": "por",
+        "Texto-A-Bim": "spa"
+    },
+    {
+        "Text-To-Image Algorithms": "eng",
+        "Text-To-Image Creator": "eng",
+        "TTI": "eng",
+        "T2I": "eng",
+        "Algoritmos De Texto Para Imagem": "por",
+        "Criador De Imagens Por Texto": "por",
+        "Algoritmos De Texto A Imagen": "spa",
+        "Creadores De Texto A Imagen": "spa"
+    },
+    {
+        "Theory-Driven Deep Learning": "eng",
+        "TDDL": "eng",
+        "Aprendizagem Profunda Orientada Por Teoria": "por",
+        "Aprendizaje Profundo Guiado Por La Teoría": "spa"
+    },
+    {
+        "Time Prediction": "eng",
+        "Previsão De Séries Temporais": "por",
+        "Predicción Del Tiempo": "spa"
+    },
+    {
+        "Topic Detection": "eng",
+        "Detecção De Tópicos": "por",
+        "Detección De Tópicos": "spa"
+    },
+    {
+        "Topic Modelling": "eng",
+        "Semantic Topic Modeling": "eng",
+        "Modelagem Semântica De Tópicos": "por",
+        "Modelagem De Tópicos": "por",
+        "Modelado De Temas Semánticos": "spa",
+        "Modelado De Temas": "spa"
+    },
+    {
+        "Trajectory Mining": "eng",
+        "Mineração De Trajetórias": "por",
+        "Minería De Trayectorias": "spa"
+    },
+    {
+        "Transfer Learning": "eng",
+        "Aprendizado Por Transferência": "por",
+        "Aprendizaje Por Transferencia": "spa"
+    },
+    {
+        "Transformer Model": "eng",
+        "Transformer Neural Networks": "eng",
+        "Redes Neurais Transformer": "por",
+        "Modelo Transformer": "por",
+        "Red Neuronal De Tipo Transformer": "spa"
+    },
+    {
+        "Tree Decoder": "eng",
+        "Decodificador De Árbol": "spa"
+    },
+    {
+        "AI Trust": "eng",
+        "AI-Tech Trust": "eng",
+        "Trustworthy Ai": "eng",
+        "Trust In Artificial Intelligence": "eng",
+        "Reliable Artificial Intelligence": "eng",
+        "Confiança Na Tecnologia Da IA": "por",
+        "Confiança Na IA": "por",
+        "IA Confiável": "por",
+        "Inteligência Artificial Confiável": "por",
+        "Confianza En La IA": "spa",
+        "Confianza En La Inteligencia Artificial": "spa",
+        "Confianza En La Tecnología De Inteligencia Artificial": "spa",
+        "IA Confiable": "spa",
+        "Inteligencia Artificial Confiable": "spa"
+    },
+    {
+        "Turkish Sentiment Analysis": "eng",
+        "Análise De Sentimentos Turca": "por",
+        "Análisis De Sentimientos En Turco": "spa"
+    },
+    {
+        "Turn Dialogue Subsystems": "eng",
+        "Subsistemas De Diálogo De Turno": "por",
+        "Subsistemas De Diálogo De Giro": "spa"
+    },
+    {
+        "Two-Stage Attention Optimization": "eng",
+        "Otimização De Atenção Em Duas Etapas": "por",
+        "Optimización De La Atención En Dos Etapas": "spa"
+    },
+    {
+        "Two-Tower Architecture": "eng",
+        "Arquitetura Two-Tower": "por",
+        "Arquitectura De Dos Torres": "spa"
+    },
+    {
+        "U-Net": "eng"
+    },
+    {
+        "Universal Sentence Encoder": "eng",
+        "Codificador De Frases Universal": "por",
+        "Codificador Universal De Oraciones": "spa"
+    },
+    {
+        "Unsupervised Clustering": "eng",
+        "Agrupamento Não Supervisionado": "por",
+        "Clustering não supervisionado": "por",
+        "Agrupación No Supervisada": "spa"
+    },
+    {
+        "Unsupervised Domain Adaptation": "eng",
+        "Adaptação De Domínio Não Supervisionada": "por",
+        "Adaptación De Dominio No Supervisada": "spa"
+    },
+    {
+        "Unsupervised Learning": "eng",
+        "Aprendizagem Não Supervisionada": "por",
+        "Aprendizaje No Supervisado": "spa"
+    },
+    {
+        "Unsupervised Machine Learning Analysis": "eng",
+        "Análise de Aprendizagem de Máquina não Supervisionada": "por",
+        "Análise de Machine Learnin não Supervisionada": "por",
+        "Análisis De Aprendizaje Automático No Supervisado": "spa"
+    },
+    {
+        "Urdu Language Processing": "eng",
+        "Processamento Da Língua Urdu": "por",
+        "Procesamiento Del Lenguaje Urdu": "spa"
+    },
+    {
+        "Use Of AI By Researchers In The Workplace": "eng",
+        "Uso De IA Por Pesquisadores No Local De Trabalho": "por",
+        "Uso De IA Por Investigadores En El Lugar De Trabajo": "spa"
+    },
+    {
+        "Use Of AI In Foreign Language Learning And Teaching": "eng",
+        "Uso De IA No Ensino E Aprendizagem De Línguas Estrangeiras": "por",
+        "Uso De La Inteligencia Artificial En El Aprendizaje Y La Enseñanza De Idiomas Extranjeros": "spa"
+    },
+    {
+        "VAES": "eng",
+        "Autoencoders Variacionais": "por",
+        "Autocodificador Variacional": "spa"
+    },
+    {
+        "Value Alignment In AI": "eng",
+        "Alinhamento De Valores Em IA": "por",
+        "Alineación De Valores En La IA": "spa"
+    },
+    {
+        "Virtual Agents": "eng",
+        "Agentes Virtuais": "por",
+        "Agente Virtual": "spa"
+    },
+    {
+        "Vision-Language Model": "eng",
+        "Modelo De Visão-Linguagem": "por",
+        "Modelo De Visión-Lenguaje": "spa"
+    },
+    {
+        "VQA": "eng",
+        "Visual Question Answering": "eng",
+        "Resposta Visual A Perguntas": "por",
+        "Respuesta Visual A Preguntas": "spa"
+    },
+    {
+        "Wasserstein Gan": "eng",
+        "WGan": "eng",
+        "Rede Adversarial Generativa Wasserstein": "por"
+    },
+    {
+        "Weak And Strong Artificial Intelligence": "eng",
+        "Narrow Artificial Intelligence": "eng",
+        "Inteligência Artificial Fraca E Forte": "por",
+        "Inteligência Artificial Estreita e Geral": "por",
+        "Inteligencia Artificial Débil Y Fuerte": "spa",
+        "Inteligencia Artificial Estrecha Y General": "spa"
+    },
+    {
+        "Word2vec": "eng"
+    },
+    {
+        "Xgboost": "eng",
+        "eXtreme Gradient Boosting": "eng",
+        "Potenciación de Gradiente": "spa"
+    },
+    {
+        "Yolo": "eng",
+        "You Only Look Once": "eng"
+    },
+    {
+        "Yolov5": "eng"
+    },
+    {
+        "Yolov8s": "eng"
+    },
+    {
+        "Structured Output Capability": "eng",
+        "Capacidade De Saída Estruturada": "por",
+        "Capacidad De Salida Estructurada": "spa"
+    },
+    {
+        "TF-IDF": "eng",
+        "Frecuencia De Término - Frecuencia Inversa De Documento": "spa"
+    },
+    {
+        "Nested Learning Paradigm": "eng",
+        "Paradigma de Aprendizagem Aninhada": "por",
+        "Paradigma de aprendizaje anidado": "spa"
+    },
+    {
+        "Optical Character Recognition": "eng",
+        "OCR": "eng",
+        "Reconhecimento Óptico de Caracteres": "por",
+        "Reconocimiento óptico de caracteres": "spa"
+    },
+    {
+        "Aprendizado não supervisionado": "por"
+    },
+    {
+        "Aprendizado por reforço": "por"
+    },
+    {
+        "Aprendizado supervisionado": "por"
+    },
+    {
+        "Robótica": "por"
+    },
+    {
+        "Visão Computacional": "por"
+    },
+    {
+        "Visão Computacional Generativa": "por"
+    },
+    {
+        "Comunidade de Inteligência Artificial": "por"
+    },
+    {
+        "Rede neural": "por"
+    },
+    {
+        "Rede neural artificial": "por"
+    }
+]
