@@ -153,14 +153,14 @@ QUESTION: {question}
 #    These examples validate literal matching behavior
 #    across definition-style, paraphrased, and translated inputs
 # ============================================================
-responder("Name a chatbot similar to BARD.")
+responder("Name chatbots that are similar to BARD.")
 responder("What is Big Data ?")
-responder("How I can use massive, complex datasets ?")
+responder("How can I make use of complex dataset ?")
 responder("What is A3t-GCN ?")
 responder("Define Abusive Language Detection.")
-responder("What is the Abstract Model present in Artificial Intelligence?")
-responder("Explain Artificial Intelligence Authorship?")
-responder("What is Bias Detection?")
-responder("Quantos dedos eu tenho na mão?")
-responder("A inteligência dele é muito superficial.")
-responder("The Active Inference make use of AI.")
+responder("What is the Abstract Model present in Artificial Intelligence ?")
+responder("Explain Artificial Intelligence Authorship ?")
+responder("What is Bias Detection ?")
+responder("Quantos dedos eu tenho na mão ?")
+responder("A inteligência dele é muito superficial. Ele é muito burro !")
+responder("The Active Inference makes use of AI.")

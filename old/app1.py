@@ -21,7 +21,7 @@ for i, item in enumerate(vocabulario):
 print(f"✅ {len(vocabulario)} termos adicionados ao banco vetorial.")
 
 def adicionar_termo(term, definition):
-    novo_id = str(collection.count() + 1)
+    novo_id = str(collection.count() + 3)
     collection.add(ids=[novo_id],
                    documents=[f"{term}: {definition}"],
                    metadatas=[{
